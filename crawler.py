@@ -19,8 +19,20 @@ NOISE = re.compile(r"^(\d+|\d+위|play|분석|뉴스\s*\d+건(\s*분석)?)$")
 
 
 def fetch_top10():
-    headers = {"User-Agent": "Mozilla/5.0 (personal daily-top10 archiver)"}
-    res = requests.get(URL, headers=headers, timeout=20)
+    headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml",
+    "Accept-Language": "ko-KR,ko;q=0.9",
+    }
+    for attempt in range(3):
+        try:
+            res = requests.get(URL, headers=headers, timeout=(10, 60))
+            break
+        except requests.exceptions.RequestException as e:
+            print(f"시도 {attempt + 1} 실패: {e}")
+            if attempt == 2:
+                raise
+            import time; time.sleep(15)
     res.raise_for_status()
     soup = BeautifulSoup(res.text, "html.parser")
 
