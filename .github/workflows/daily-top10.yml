@@ -2,10 +2,8 @@ name: Daily Top10
 
 on:
   schedule:
-    # KST 22:00 ~ 05:00, 30분마다 (UTC 13:00 ~ 20:00)
-    - cron: "0,30 13-19 * * *"
-    - cron: "0 20 * * *"
-  workflow_dispatch:         # Actions 탭에서 수동 실행(테스트용)
+    - cron: "22 13 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
