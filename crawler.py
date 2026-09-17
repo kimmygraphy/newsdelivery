@@ -146,15 +146,16 @@ def post_discord(webhook, embed):
     requests.post(webhook, json={"embeds": [embed]}, timeout=20).raise_for_status()
 
 
-def send_top10(webhook, d, period, items):
+def send_top10(webhook, d, period, items, crawled_at):
     lines = []
     for it in items:
         count = f" `{it['article_count']}건`" if it["article_count"] else ""
         lines.append(f"**{it['rank']}.** [{it['title']}]({it['url']}){count}")
+    stamp = crawled_at.strftime("%m/%d %H:%M")
     post_discord(webhook, {
         "title": f"📰 데일리 TOP10 · {weekday_label(d)}",
         "description": "\n".join(lines),
-        "footer": {"text": f"뉴스보이 · {period}".rstrip(" ·")},
+        "footer": {"text": f"뉴스보이 · {stamp} 수집"},
         "color": 0x2F6BFF,
     })
 
@@ -201,7 +202,7 @@ def main():
         print(f"{it['rank']:>2}. {it['title']}")
 
     if webhook:
-        send_top10(webhook, target, period, items)
+        send_top10(webhook, target, period, items, now)
         print("Discord 전송 완료")
 
 
