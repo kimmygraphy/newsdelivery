@@ -1,11 +1,18 @@
-"""뉴스보이 데일리 TOP10 → JSON 저장 + Discord 전송"""
+"""뉴스보이 데일리 TOP10 → JSON 저장 + Discord 전송
+
+22:00~05:00(KST) 사이 30분마다 실행된다.
+- 그날 기록이 이미 저장됐으면 바로 종료
+- 사이트가 다운돼 실패하면 다음 30분 실행에서 다시 시도
+- 05:00 실행까지 실패하면 Discord로 실패 알림
+"""
 import json
 import os
 import re
 import sys
 import time
 from collections import Counter
-from datetime import datetime
+from datetime import date, datetime, timedelta
+from datetime import time as dtime
 from pathlib import Path
 from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
@@ -22,6 +29,27 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml",
     "Accept-Language": "ko-KR,ko;q=0.9",
 }
+
+FINAL_FROM = dtime(21, 30)    # 이 시각 이후 저장된 기록을 그날의 최종본으로 봄
+NEXT_DAY_UNTIL = 7            # 자정~7시 전 실행은 전날 기록을 채우는 재시도로 봄
+GIVE_UP_AT = dtime(5, 0)      # 이 시각 이후 실행에서도 실패하면 포기
+
+
+# ---------- 날짜 판단 ----------
+def target_date(now):
+    if now.hour < NEXT_DAY_UNTIL:
+        return (now - timedelta(days=1)).date()
+    return now.date()
+
+
+def already_final(d):
+    path = DATA_DIR / f"{d.isoformat()}.json"
+    if not path.exists():
+        return False
+    crawled_at = json.loads(path.read_text(encoding="utf-8")).get("crawled_at")
+    if not crawled_at:
+        return False
+    return datetime.fromisoformat(crawled_at) >= datetime.combine(d, FINAL_FROM, tzinfo=KST)
 
 
 # ---------- 수집 ----------
@@ -82,60 +110,98 @@ def fetch_top10():
             break
 
     period = soup.find(string=re.compile(r"\d+시\s*~\s*\d+시"))
-    return items, (period.strip() if period else "")
+    page_date = soup.find(string=re.compile(r"\d{1,2}월\s*\d{1,2}일\s*\S요일"))
+    page_md = None
+    if page_date:
+        m = re.search(r"(\d{1,2})월\s*(\d{1,2})일", page_date)
+        page_md = (int(m.group(1)), int(m.group(2)))
+    return items, (period.strip() if period else ""), page_md
 
 
 # ---------- 저장 ----------
-def save(date_str, period, items):
+def save(d, period, items, now):
     DATA_DIR.mkdir(exist_ok=True)
+    date_str = d.isoformat()
     payload = {
         "date": date_str,
         "period": period,
-        "crawled_at": datetime.now(KST).isoformat(timespec="seconds"),
+        "crawled_at": now.isoformat(timespec="seconds"),
         "items": items,
     }
     (DATA_DIR / f"{date_str}.json").write_text(
         json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # Phase 2 달력용 날짜 목록
+    # 달력용 날짜 목록
     index_path = DATA_DIR / "index.json"
     dates = json.loads(index_path.read_text()) if index_path.exists() else []
     index_path.write_text(json.dumps(sorted(set(dates) | {date_str}), indent=2))
 
 
 # ---------- 전송 ----------
-def send_discord(webhook, now, period, items):
+def weekday_label(d):
+    return f"{d.month}/{d.day}({'월화수목금토일'[d.weekday()]})"
+
+
+def post_discord(webhook, embed):
+    requests.post(webhook, json={"embeds": [embed]}, timeout=20).raise_for_status()
+
+
+def send_top10(webhook, d, period, items):
     lines = []
     for it in items:
         count = f" `{it['article_count']}건`" if it["article_count"] else ""
         lines.append(f"**{it['rank']}.** [{it['title']}]({it['url']}){count}")
-
-    weekday = "월화수목금토일"[now.weekday()]
-    embed = {
-        "title": f"📰 데일리 TOP10 · {now.month}/{now.day}({weekday})",
+    post_discord(webhook, {
+        "title": f"📰 데일리 TOP10 · {weekday_label(d)}",
         "description": "\n".join(lines),
         "footer": {"text": f"뉴스보이 · {period}".rstrip(" ·")},
         "color": 0x2F6BFF,
-    }
-    requests.post(webhook, json={"embeds": [embed]}, timeout=20).raise_for_status()
+    })
 
 
+def send_failure(webhook, d, reason):
+    post_discord(webhook, {
+        "title": f"⚠️ 데일리 TOP10 · {weekday_label(d)}",
+        "description": "새벽 5시까지 뉴스보이에서 헤드라인을 가져오지 못해 이날 기록은 비어 있어요.",
+        "footer": {"text": str(reason)[:200]},
+        "color": 0xB0B5BD,
+    })
+
+
+# ---------- 실행 ----------
 def main():
     now = datetime.now(KST)
-    date_str = now.strftime("%Y-%m-%d")
+    target = target_date(now)
+    manual = os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
+    webhook = os.environ.get("DISCORD_WEBHOOK_URL")
 
-    items, period = fetch_top10()
-    if len(items) < 10:
-        sys.exit(f"헤드라인을 {len(items)}개만 찾았어요. 사이트 구조 변경 여부를 확인하세요.")
+    if not manual and already_final(target):
+        print(f"[{target}] 이미 저장됨, 종료")
+        return
 
-    save(date_str, period, items)
-    print(f"[{date_str}] {period} 저장 완료")
+    try:
+        items, period, page_md = fetch_top10()
+        if page_md and page_md != (target.month, target.day):
+            raise ValueError(f"페이지 날짜({page_md[0]}/{page_md[1]})가 기록할 날짜와 달라요")
+        if len(items) < 10:
+            raise ValueError(f"헤드라인을 {len(items)}개만 찾았어요")
+    except Exception as e:
+        if manual:
+            sys.exit(f"수집 실패: {e}")
+        if now.hour < NEXT_DAY_UNTIL and now.time() >= GIVE_UP_AT:
+            if webhook:
+                send_failure(webhook, target, e)
+            sys.exit(f"[{target}] 최종 실패: {e}")
+        print(f"[{target}] 수집 실패, 30분 뒤 다시 시도해요: {e}")
+        return
+
+    save(target, period, items, now)
+    print(f"[{target}] {period} 저장 완료")
     for it in items:
         print(f"{it['rank']:>2}. {it['title']}")
 
-    webhook = os.environ.get("DISCORD_WEBHOOK_URL")
     if webhook:
-        send_discord(webhook, now, period, items)
+        send_top10(webhook, target, period, items)
         print("Discord 전송 완료")
 
 
