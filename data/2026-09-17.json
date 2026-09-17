@@ -1,77 +1,77 @@
 {
   "date": "2026-09-17",
   "period": "오늘 06시~12시까지 모은 주요 뉴스",
-  "crawled_at": "2026-09-17T13:35:42+09:00",
+  "crawled_at": "2026-09-17T22:08:01+09:00",
   "items": [
     {
       "rank": 1,
-      "title": "물가 충격에 3년 2개월 만의 긴축 전환…미 연준, 기준금리 0.25%p 전격 인상",
-      "summary": "연내 추가 인상 시사와 글로벌 금융시장 변동성 속 국내 당국 점검",
-      "article_count": 256,
-      "url": "https://newsboy.news/news/466924"
+      "title": "김승원·김지용 임명 강행 수순에 정국 급랭…중수청 후속 법안도 본회의 통과",
+      "summary": "야당의 공소취소용 인사 반발과 10월 중수청 출범 앞둔 인력·조직 정비 과제",
+      "article_count": 489,
+      "url": "https://newsboy.news/news/467586"
     },
     {
       "rank": 2,
-      "title": "與 '김승원 청문보고서' 채택 추진에 野 상임위 취소 맞불",
-      "summary": "국토위·산자중기위 파행과 야당 지도부의 개각 철회 요구",
-      "article_count": 76,
-      "url": "https://newsboy.news/news/466925"
+      "title": "美 연준, 기준금리 0.25%p 전격 인상…추가 긴축도 시사",
+      "summary": "한·미 금리 격차 1.00%p 재확대와 금융시장 변동성 확대",
+      "article_count": 429,
+      "url": "https://newsboy.news/news/467587"
     },
     {
       "rank": 3,
-      "title": "행안부 “김지용 중수청장 후보, 친윤 아냐”…기소 반대 행적 해명",
-      "summary": "정치권·검찰의 지명 철회 요구와 청문 요청 지연 공방",
-      "article_count": 59,
-      "url": "https://newsboy.news/news/466926"
+      "title": "호르무즈 파병 검토에 국회 질타…외교부, 대미 협상서 연계 조율",
+      "summary": "현지 조사단 파견 논란 속 한미 외교장관 회담서 최종 담판 추진",
+      "article_count": 119,
+      "url": "https://newsboy.news/news/467588"
     },
     {
       "rank": 4,
-      "title": "불붙은 AI 개발 속도조절론… 국제 통제 촉구 속 한·미 반발 확산",
-      "summary": "보편적 안전 규제 수립 요구와 기술 패권·인프라 경쟁 간 팽팽한 대립",
-      "article_count": 38,
-      "url": "https://newsboy.news/news/466927"
+      "title": "외부 침입하고 실수 숨긴 AI 에이전트…통제 이탈 위협에 국제 규제 논의 본격화",
+      "summary": "초고속 사이버 공격 대응 공조와 빅테크 주도 안전 기준의 규제 부담 논쟁",
+      "article_count": 102,
+      "url": "https://newsboy.news/news/467589"
     },
     {
       "rank": 5,
-      "title": "전국 일교차 최대 15도 벌어져…제주·남해안엔 비와 강풍",
-      "summary": "제주 산지 최대 80㎜ 이상 강수와 해상 너울성 파도 주의",
-      "article_count": 30,
-      "url": "https://newsboy.news/news/466928"
+      "title": "전국 내륙 15도 안팎 큰 일교차 지속…제주·남해안엔 비바람 예보",
+      "summary": "제주 최대 100㎜ 호우와 순간풍속 시속 70㎞ 이상 강풍 대비",
+      "article_count": 73,
+      "url": "https://newsboy.news/news/467590"
     },
     {
       "rank": 6,
-      "title": "김여정, IAEA 비핵화 촉구에 \"핵보유국 지위는 절대적…영구고착\"",
-      "summary": "IAEA 상대 첫 직접 담화와 대화 국면 선결조건 압박",
-      "article_count": 29,
-      "url": "https://newsboy.news/news/466929"
+      "title": "아이치·나고야 AG 개막 임박…한국 선수단, 결전지 일본으로 출격",
+      "summary": "금메달 40개 이상과 종합 3위 수성 목표 속 주요 종목 연속 우승 도전",
+      "article_count": 72,
+      "url": "https://newsboy.news/news/467591"
     },
     {
       "rank": 7,
-      "title": "토지거래허가구역 '세 낀 집' 실거주 유예 1년 연장…최장 3년 3개월 뒤 입주",
-      "summary": "갱신계약 포함 유예 확대 및 무주택자 2년 거주 요건 유지",
-      "article_count": 29,
-      "url": "https://newsboy.news/news/466930"
+      "title": "한·IEA, 중동발 에너지 위기 대응 맞손…전기화·공급망 공조 속도",
+      "summary": "아시아 에너지 안보 구상 ‘RISE ASIA’ 추진과 단계별 인프라 실증 로드맵",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/467592"
     },
     {
       "rank": 8,
-      "title": "이재명 대통령, 암표 거래 부당 수익 끝까지 추적해 전액 환수 경고",
-      "summary": "억 원대 암표업자 구속 송치와 개정 공연법 따른 처벌 강화",
-      "article_count": 27,
-      "url": "https://newsboy.news/news/466931"
+      "title": "TGS 2026 달군 K-게임…엔씨·넥슨·넷마블 서브컬처 신작 대거 출격",
+      "summary": "글로벌 동시 출시와 IP 체험 앞세운 현지 공략",
+      "article_count": 68,
+      "url": "https://newsboy.news/news/467593"
     },
     {
       "rank": 9,
-      "title": "선관위 특검, 출범 열흘 만에 중앙·지역선관위 9곳 첫 압수수색",
-      "summary": "투표용지 부족 등 12개 의혹 규명과 노태악 전 위원장 소환 검토",
-      "article_count": 26,
-      "url": "https://newsboy.news/news/466932"
+      "title": "한화, 첫 군용 무인차 양산 돌입…K9 무인화·UAE 대공망 구축도 속도",
+      "summary": "년 무인차량 6종 라인업 구축과 중동 다계층 방공망 시장 공략",
+      "article_count": 64,
+      "url": "https://newsboy.news/news/467594"
     },
     {
       "rank": 10,
-      "title": "구광모 LG 회장 \"AI는 미래 핵심 축…빠른 속도와 집요한 실행력 갖춰야\"",
-      "summary": "AI 팩토리·반도체 등 핵심 승부처 투자 점검과 과감한 역량 집중 방안",
-      "article_count": 25,
-      "url": "https://newsboy.news/news/466933"
+      "title": "정부 1조4000억 투입해 전북·경남에 피지컬 AI·무인공장 구축 추진",
+      "summary": "KT·NC AI 등 민간 기업 참여 속 자율 제조 인프라 개발 착수",
+      "article_count": 64,
+      "url": "https://newsboy.news/news/467595"
     }
   ]
 }
