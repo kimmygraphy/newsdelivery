@@ -18,44 +18,65 @@ DATA_DIR = Path("data")
 NOISE = re.compile(r"^(\d+|\d+위|play|분석|뉴스\s*\d+건(\s*분석)?)$")
 
 
+def clean(text):
+    # 앞에 붙은 "1", "1위", "뉴스256건 분석", "play" 같은 조각 제거
+    text = re.sub(r"^\s*\d+\s*(\d+\s*위)?", "", text)
+    text = re.sub(r"뉴스\s*\d+\s*건\s*(분석)?", "", text)
+    text = re.sub(r"\bplay\b", "", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
 def fetch_top10():
+    import time
+    from collections import Counter
+
     headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml",
-    "Accept-Language": "ko-KR,ko;q=0.9",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml",
+        "Accept-Language": "ko-KR,ko;q=0.9",
     }
     for attempt in range(3):
         try:
             res = requests.get(URL, headers=headers, timeout=(10, 60))
+            res.raise_for_status()
             break
         except requests.exceptions.RequestException as e:
             print(f"시도 {attempt + 1} 실패: {e}")
             if attempt == 2:
                 raise
-            import time; time.sleep(15)
-    res.raise_for_status()
-    soup = BeautifulSoup(res.text, "html.parser")
+            time.sleep(15)
 
+    soup = BeautifulSoup(res.text, "html.parser")
     items, seen = [], set()
     for a in soup.find_all("a", href=re.compile(r"/news/\d+")):
         url = urljoin(URL, a["href"])
         if url in seen:
             continue
-        parts = [p.strip() for p in a.get_text("|").split("|") if p.strip()]
-        count = None
-        for p in parts:
-            m = re.search(r"뉴스\s*(\d+)건", p)
-            if m:
-                count = int(m.group(1))
-                break
-        texts = [p for p in parts if not NOISE.match(p)]
+
+        raw = [p for p in a.get_text("|").split("|") if p.strip()]
+        full = " ".join(raw)
+        m = re.search(r"뉴스\s*(\d+)\s*건", full)
+        count = int(m.group(1)) if m else None
+
+        texts = [clean(p) for p in raw]
+        texts = [t for t in texts if len(t) >= 6]  # 짧은 조각은 버림
         if not texts:
             continue
+
+        # 두 번 등장하는 텍스트 = 제목, 없으면 첫 번째
+        common = [t for t, c in Counter(texts).most_common() if c >= 2]
+        title = common[0] if common else texts[0]
+        others = [t for t in texts if t != title]
+        summary = others[0] if others else ""
+
+        if not items:  # 첫 항목만 로그로 확인
+            print("DEBUG raw:", raw)
+
         seen.add(url)
         items.append({
             "rank": len(items) + 1,
-            "title": texts[0],
-            "summary": texts[1] if len(texts) > 1 and texts[1] != texts[0] else "",
+            "title": title,
+            "summary": summary,
             "article_count": count,
             "url": url,
         })
@@ -64,6 +85,7 @@ def fetch_top10():
 
     period = soup.find(string=re.compile(r"\d+시\s*~\s*\d+시"))
     return items, (period.strip() if period else "")
+
 
 
 def save(date_str, period, items):
