@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-18",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-19T02:06:47+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "이재명 대통령 \"연임 생각 전혀 없어\"…특검 공소취소 조항 삭제 요청",
+      "summary": "김승원 임명 신중 검토와 호르무즈 파병 불개입 원칙 표명",
+      "article_count": 603,
+      "url": "https://newsboy.news/news/468285"
+    },
+    {
+      "rank": 2,
+      "title": "미 연준 3년여 만에 기준금리 인상…국채금리·유가 안정에 증시 반등",
+      "summary": "연내 추가 긴축 전망과 주요국 통화정책 파급효과",
+      "article_count": 135,
+      "url": "https://newsboy.news/news/468286"
+    },
+    {
+      "rank": 3,
+      "title": "이재명 대통령 \"부동산 투기공화국 탈피 중심 과제…신속 공급으로 시장 안정\"",
+      "summary": "서울시와의 공급 책임 공방 속 ETF 정책 미비 인정과 사회정책 중심 후임 인선 고심",
+      "article_count": 128,
+      "url": "https://newsboy.news/news/468287"
+    },
+    {
+      "rank": 4,
+      "title": "유류세 인하 11월까지 2개월 연장…추석 고속도로 기름값 ℓ당 100원 할인",
+      "summary": "휘발유 15%·경유 25% 감면 유지와 연휴 낮 시간대 전기차 충전 요금 할인",
+      "article_count": 84,
+      "url": "https://newsboy.news/news/468288"
+    },
+    {
+      "rank": 5,
+      "title": "\"1년 내 통제 상실\" AI 대부의 경고…규제기구·킬 스위치 두고 격돌",
+      "summary": "속도 조절과 통제 입법을 둘러싼 빅테크의 갈등 및 반도체 수요 전망",
+      "article_count": 67,
+      "url": "https://newsboy.news/news/468289"
+    },
+    {
+      "rank": 6,
+      "title": "스마일게이트·NHN·넷마블, TGS 2026서 핵심 신작 대거 공개하며 글로벌 공략",
+      "summary": "팀 로그라이트부터 한일 합작 프로젝트까지 현지 맞춤형 신작 출품",
+      "article_count": 66,
+      "url": "https://newsboy.news/news/468290"
+    },
+    {
+      "rank": 7,
+      "title": "트럼프 \"이란 정권 전멸시킬지 중대 갈림길\"…대규모 공격 재개 고심",
+      "summary": "유엔총회 계기 중동 6개국 연쇄 회담과 이란 대표단 방미 승인",
+      "article_count": 60,
+      "url": "https://newsboy.news/news/468291"
+    },
+    {
+      "rank": 8,
+      "title": "추미애 경기지사 '21억 선거 컨설팅' 논란에 김민석 \"적정성 검토\" 예고",
+      "summary": "공적 책임에 따른 계약 투명성 점검과 선관위 무지적·정상 집행 반박의 대립",
+      "article_count": 47,
+      "url": "https://newsboy.news/news/468292"
+    },
+    {
+      "rank": 9,
+      "title": "예년보다 이른 독감 유행에 국가 무료 예방접종 21일 본격 개시",
+      "summary": "세 이하 어린이로 지원 확대 및 고령층 연령대별 순차 접종",
+      "article_count": 39,
+      "url": "https://newsboy.news/news/468293"
+    },
+    {
+      "rank": 10,
+      "title": "\"199만원부터\" 아이폰18 프로 국내 공식 출시… 차분해진 현장 대기열",
+      "summary": "출고가 20만원 인상과 폴더블 대기 수요에 따른 시장 반응",
+      "article_count": 37,
+      "url": "https://newsboy.news/news/468294"
+    }
+  ]
+}
