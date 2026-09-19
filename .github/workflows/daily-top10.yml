@@ -1,9 +1,9 @@
 name: Daily Top10
 
 on:
-  schedule:
-    - cron: "22 13 * * *"
-  workflow_dispatch:
+  repository_dispatch:
+    types: [run-top10]   # cron-job.org가 이 이벤트를 호출해서 실행시켜요
+  workflow_dispatch:        # Actions 탭에서 수동 실행(테스트용)
 
 permissions:
   contents: write
