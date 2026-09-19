@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-19",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-19T22:05:18+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "김승원 법무부 장관 후보자 자진 사퇴… 지명 20일 만에 낙마",
+      "summary": "추가 의혹 탄원서 보도와 인사 검증 공방 속 여야 맞불 수사 촉구",
+      "article_count": 376,
+      "url": "https://newsboy.news/news/468767"
+    },
+    {
+      "rank": 2,
+      "title": "년 만에 일본서 열린 아시안게임…아이치·나고야서 16일간 열전 돌입",
+      "summary": "신유빈·김동용 앞세운 한국 선수단 16번째 입장과 종합 3위 도전",
+      "article_count": 90,
+      "url": "https://newsboy.news/news/468768"
+    },
+    {
+      "rank": 3,
+      "title": "아시안게임 한국 하키 경기서 '북한 국가' 연주…조직위 공식 사과",
+      "summary": "대한체육회의 즉각 항의 서한 전달과 조직위의 현장 공식 사과",
+      "article_count": 63,
+      "url": "https://newsboy.news/news/468769"
+    },
+    {
+      "rank": 4,
+      "title": "한미 외교장관 회담…대미 전략투자 결실 노력 및 북미대화 재개 공조",
+      "summary": "호르무즈 통항 기여 의지 전달과 1호 대미 투자 발표 연기",
+      "article_count": 62,
+      "url": "https://newsboy.news/news/468770"
+    },
+    {
+      "rank": 5,
+      "title": "안성 플리마켓 행사장 트럭 돌진…자원봉사 모자 참변",
+      "summary": "운전자의 급발진 진술 번복과 경찰의 구속영장 신청",
+      "article_count": 49,
+      "url": "https://newsboy.news/news/468771"
+    },
+    {
+      "rank": 6,
+      "title": "주말 한낮 30도 안팎 늦더위 지속… 15도 안팎 큰 일교차",
+      "summary": "동해안·제주 국지적 비 소식과 해안가 너울 주의 당부",
+      "article_count": 49,
+      "url": "https://newsboy.news/news/468772"
+    },
+    {
+      "rank": 7,
+      "title": "트럼프 \"그린란드 안보 영구 통제권 확보\"…미군 주둔 확대 합의",
+      "summary": "적대 세력 차단과 의회 비준 절차를 둘러싼 북극권 3자 안보 협정",
+      "article_count": 33,
+      "url": "https://newsboy.news/news/468773"
+    },
+    {
+      "rank": 8,
+      "title": "이재명 대통령, '청년정책 총괄 전담 조직' 신설 검토 공식화",
+      "summary": "기존 정책 역량 한계 지적과 청년 위기 극복을 위한 국가적 해법 모색",
+      "article_count": 33,
+      "url": "https://newsboy.news/news/468774"
+    },
+    {
+      "rank": 9,
+      "title": "부산 북항 친수공원 수로에 이틀 연속 상어 출몰…주민 안전 유의",
+      "summary": "공격 위험성 있는 무태상어 추정 개체에 부산시 문자 발송 및 해경 상황 주시",
+      "article_count": 33,
+      "url": "https://newsboy.news/news/468775"
+    },
+    {
+      "rank": 10,
+      "title": "삼성전자 초기업노조, 96% 찬성으로 '반도체 전용 노조' 전환 확정",
+      "summary": "DX 부문 간부 불신임 가결과 노사 교섭 구도 재편 본격화",
+      "article_count": 23,
+      "url": "https://newsboy.news/news/468776"
+    }
+  ]
+}
