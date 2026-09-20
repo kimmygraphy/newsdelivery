@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-20",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-20T22:05:23+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "김승원 탄원서 의혹 속 전격 사퇴, 여야 공방과 인사 검증 후폭풍 확산",
+      "summary": "사법체계 개편 앞둔 수장 공백과 청와대 인사 검증 책임론",
+      "article_count": 282,
+      "url": "https://newsboy.news/news/469188"
+    },
+    {
+      "rank": 2,
+      "title": "2026 나고야 아시안게임 첫날 근대5종·테크볼서 금메달 3개 수확",
+      "summary": "성승민 여자 근대5종 사상 첫 개인전 제패와 신규 종목 테크볼 초대 챔피언 등극",
+      "article_count": 154,
+      "url": "https://newsboy.news/news/469189"
+    },
+    {
+      "rank": 3,
+      "title": "북한, 동해상으로 단거리 탄도미사일 2발 3시간 간격 연속 발사",
+      "summary": "미 주도 훈련 반발 위협 이틀 만의 도발과 국가안보실의 긴급 규탄",
+      "article_count": 109,
+      "url": "https://newsboy.news/news/469190"
+    },
+    {
+      "rank": 4,
+      "title": "李대통령, ‘여권 비하’ 지지자 글 인용 논란에 삭제…“멸칭·혐오 멈춰달라”",
+      "summary": "진영 내 갈라치기 중단 촉구와 쇄신 요구 확산",
+      "article_count": 101,
+      "url": "https://newsboy.news/news/469191"
+    },
+    {
+      "rank": 5,
+      "title": "연준 금리 인상 충격 소화한 코스피, 외국인 매수에 6900선 바짝",
+      "summary": "추석 연휴 전 수급 공백 우려 속 미·중 정상회담과 반등 기대",
+      "article_count": 66,
+      "url": "https://newsboy.news/news/469192"
+    },
+    {
+      "rank": 6,
+      "title": "도심 수로에 나타난 3.5m 상어…부산 북항에 구경 인파 운집",
+      "summary": "무리한 유도 중단과 해상육교 통제 등 현장 안전 관리 강화",
+      "article_count": 56,
+      "url": "https://newsboy.news/news/469193"
+    },
+    {
+      "rank": 7,
+      "title": "김영범 은메달·황선우 동메달, 男 자유형 100m 동반 메달 쾌거",
+      "summary": "아시안게임 단일 경기 최초 동시 입상과 경영 첫날 메달 3개 수확",
+      "article_count": 53,
+      "url": "https://newsboy.news/news/469194"
+    },
+    {
+      "rank": 8,
+      "title": "후티 반군, 사우디 수도 리야드 공습…동맹국 군사 개입 시사에 확전 기로",
+      "summary": "방공망 위기 속 동맹국 개입 시사와 미국의 직접 타격 거부",
+      "article_count": 51,
+      "url": "https://newsboy.news/news/469195"
+    },
+    {
+      "rank": 9,
+      "title": "현대차 투싼, 6년 만에 5세대 완전변경 모델로 귀환",
+      "summary": "차체 확장과 차세대 하이브리드 성능 강화 및 10월 본격 판매",
+      "article_count": 42,
+      "url": "https://newsboy.news/news/469196"
+    },
+    {
+      "rank": 10,
+      "title": "전국 대체로 맑고 낮 최고 30도 안팎 더위…최대 15도 이상 큰 일교차",
+      "summary": "아침 짙은 안개와 해안가 너울 유입 및 건조한 대기 화재 주의",
+      "article_count": 42,
+      "url": "https://newsboy.news/news/469197"
+    }
+  ]
+}
