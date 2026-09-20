@@ -67,9 +67,13 @@ def get_html():
             time.sleep(15)
 
 
+def is_badge(text):
+    """'1', '2위'처럼 순위만 담은 짧은 조각인지 판별한다 (제목 속 숫자는 여기 안 걸림)."""
+    return bool(re.fullmatch(r"\d{1,2}\s*(위)?", text.strip()))
+
+
 def clean(text):
-    """순위('1', '1위'), '뉴스N건 분석', 'play' 같은 조각을 제거한다."""
-    text = re.sub(r"^\s*\d+\s*(\d+\s*위)?", "", text)
+    """'뉴스N건 분석', 'play' 같은 부가 조각만 제거한다. 제목 안의 숫자는 건드리지 않는다."""
     text = re.sub(r"뉴스\s*\d+\s*건\s*(분석)?", "", text)
     text = re.sub(r"\bplay\b", "", text)
     return re.sub(r"\s+", " ", text).strip()
@@ -80,7 +84,7 @@ def parse_item(a):
     링크 안에 제목이 두 번 등장하므로, 두 번 나온 텍스트를 제목으로 본다."""
     raw = [p for p in a.get_text("|").split("|") if p.strip()]
     m = re.search(r"뉴스\s*(\d+)\s*건", " ".join(raw))
-    texts = [t for t in (clean(p) for p in raw) if len(t) >= 6]
+    texts = [t for t in (clean(p) for p in raw if not is_badge(p)) if len(t) >= 6]
     if not texts:
         return None
 
@@ -146,16 +150,15 @@ def post_discord(webhook, embed):
     requests.post(webhook, json={"embeds": [embed]}, timeout=20).raise_for_status()
 
 
-def send_top10(webhook, d, period, items, crawled_at):
+def send_top10(webhook, d, period, items):
     lines = []
     for it in items:
         count = f" `{it['article_count']}건`" if it["article_count"] else ""
         lines.append(f"**{it['rank']}.** [{it['title']}]({it['url']}){count}")
-    stamp = crawled_at.strftime("%m/%d %H:%M")
     post_discord(webhook, {
         "title": f"📰 데일리 TOP10 · {weekday_label(d)}",
         "description": "\n".join(lines),
-        "footer": {"text": f"뉴스보이 · {stamp} 수집"},
+        "footer": {"text": f"뉴스보이 · {period}".rstrip(" ·")},
         "color": 0x2F6BFF,
     })
 
@@ -202,7 +205,7 @@ def main():
         print(f"{it['rank']:>2}. {it['title']}")
 
     if webhook:
-        send_top10(webhook, target, period, items, now)
+        send_top10(webhook, target, period, items)
         print("Discord 전송 완료")
 
 
