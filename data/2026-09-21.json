@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-21",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-21T22:05:55+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "김승원 사퇴 후폭풍에 비서실장 사의…여야 ‘인사 검증 책임론’ 정면충돌",
+      "summary": "야당의 청와대 핵심 인사 증인 채택 압박과 여당의 민생·개헌 국면 전환 시도",
+      "article_count": 364,
+      "url": "https://newsboy.news/news/470001"
+    },
+    {
+      "rank": 2,
+      "title": "미·중 빅딜 조율과 유엔총회… 트럼프, 연쇄 정상외교로 전쟁 출구전략 모색",
+      "summary": "희토류·관세 협상과 분담금 납부를 통한 유엔 개혁 압박",
+      "article_count": 153,
+      "url": "https://newsboy.news/news/470002"
+    },
+    {
+      "rank": 3,
+      "title": "당정, 비투기성 농지 위반 처분 유예…불법 전용 사후 양성화 추진",
+      "summary": "연내 특별조치법 제정과 투기 행위 엄정 처분 방침",
+      "article_count": 115,
+      "url": "https://newsboy.news/news/470003"
+    },
+    {
+      "rank": 4,
+      "title": "이재명 대통령, 정부 첫 대법관 임명장 수여…재제청 갈등 속 대법원장과 첫 대면",
+      "summary": "손봉기 후보자 재제청 요구를 둘러싼 청·사 갈등과 야당의 권한쟁의심판 청구",
+      "article_count": 64,
+      "url": "https://newsboy.news/news/470004"
+    },
+    {
+      "rank": 5,
+      "title": "미 반도체 훈풍에 코스피 7000선 회복… 외인·기관 동반 순매수",
+      "summary": "수출 호조와 반도체 대형주 강세 속 연휴 변동성 주시",
+      "article_count": 54,
+      "url": "https://newsboy.news/news/470005"
+    },
+    {
+      "rank": 6,
+      "title": "KT, 금융·미디어로 AI 영토 확장…제작비 절반 줄이고 업무 혁신",
+      "summary": "BC카드 데이터 분석 5분 단축과 ENA·스튜디오지니의 AI 콘텐츠 제작 도입 성과",
+      "article_count": 50,
+      "url": "https://newsboy.news/news/470006"
+    },
+    {
+      "rank": 7,
+      "title": "추석 연휴 응급실 24시간 가동…하루 평균 8300곳 문 연다",
+      "summary": "응급환자 이송체계 전국 확대와 특수 분야 비상진료 가동",
+      "article_count": 50,
+      "url": "https://newsboy.news/news/470007"
+    },
+    {
+      "rank": 8,
+      "title": "오세훈, 주택 공급 부족 지적한 대통령 발언에 “억지 주장 개탄” 정면 반박",
+      "summary": "2031년까지 31만 호 착공 목표와 정비사업 규제 완화 촉구",
+      "article_count": 40,
+      "url": "https://newsboy.news/news/470008"
+    },
+    {
+      "rank": 9,
+      "title": "전국 쾌청한 가을 하늘 속 낮 최고 30도 안팎 늦더위…최대 15도 일교차",
+      "summary": "내륙 짙은 안개와 해상 풍랑특보 및 추석 연휴 주말 비 예보",
+      "article_count": 38,
+      "url": "https://newsboy.news/news/470009"
+    },
+    {
+      "rank": 10,
+      "title": "9월 1~20일 수출 714억 달러로 역대 최대…반도체 호황에 78% 급증",
+      "summary": "무역수지 230억 달러 흑자 달성과 대미·대중 수출 급증",
+      "article_count": 36,
+      "url": "https://newsboy.news/news/470010"
+    }
+  ]
+}
