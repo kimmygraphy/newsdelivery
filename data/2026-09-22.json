@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-22",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-22T22:05:19+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "장관 후보자 연쇄 낙마에 강훈식 비서실장 사의…인사 검증 책임론 확산",
+      "summary": "대통령의 사표 수리 고심과 여당 지도부의 인사 실패 사과",
+      "article_count": 641,
+      "url": "https://newsboy.news/news/471289"
+    },
+    {
+      "rank": 2,
+      "title": "유엔총회 참석차 방미한 이재명 대통령, '제재 완화·핵 동결' 3단계 로드맵 제안",
+      "summary": "한미 투자 협상 줄다리기와 트럼프 대통령 조우 가능성",
+      "article_count": 167,
+      "url": "https://newsboy.news/news/471290"
+    },
+    {
+      "rank": 3,
+      "title": "미·중 정상회담 앞두고 'AI 핫라인' 제안… 무역·안보 의제 부상",
+      "summary": "무역 휴전 연장 협상과 한미일 대북·대중 공조 재확인",
+      "article_count": 139,
+      "url": "https://newsboy.news/news/471291"
+    },
+    {
+      "rank": 4,
+      "title": "메타발 AI 훈풍에 나스닥 사상 최고치…코스피 7,100선 탈환",
+      "summary": "미·이란 회담 기대감에 따른 유가 급락과 매크로 부담 완화",
+      "article_count": 132,
+      "url": "https://newsboy.news/news/471292"
+    },
+    {
+      "rank": 5,
+      "title": "대미 전략투자 1호에 텍사스 가스발전 선정…223억 달러 투입",
+      "summary": "장기 전력 수요처 미확정 논란과 후속 대형 원전 협의 과제",
+      "article_count": 128,
+      "url": "https://newsboy.news/news/471293"
+    },
+    {
+      "rank": 6,
+      "title": "한은 \"금리 인상 여파에 내년 봄 취약차주·중소기업 연체 압력 최고조\"",
+      "summary": "가계신용 2000조 돌파와 취약계층 부실 양극화 심화 우려",
+      "article_count": 115,
+      "url": "https://newsboy.news/news/471294"
+    },
+    {
+      "rank": 7,
+      "title": "LG, 엔비디아·MS와 AI 인프라 동맹…냉각·전력 솔루션 본격 공급",
+      "summary": "엔비디아 차세대 규격 인증과 전사적 AI 전환 전략 제휴 체결",
+      "article_count": 102,
+      "url": "https://newsboy.news/news/471295"
+    },
+    {
+      "rank": 8,
+      "title": "10월 출범 공소청 검사 최대 20%·수사관 70% 감축 확정",
+      "summary": "기구 축소와 명칭 변경 거쳐 총장 직무대행 체제로 출범 준비",
+      "article_count": 93,
+      "url": "https://newsboy.news/news/471296"
+    },
+    {
+      "rank": 9,
+      "title": "추석 연휴 전국 흐리고 곳곳 비…두꺼운 구름에 보름달 보기 어려워",
+      "summary": "귀성길 짙은 안개와 해상 풍랑 속 교통안전 및 산불 예방 주의",
+      "article_count": 79,
+      "url": "https://newsboy.news/news/471297"
+    },
+    {
+      "rank": 10,
+      "title": "김건희 여사 '매관매직' 2심 징역 5년 감형…'명품 시계' 무죄 판단",
+      "summary": "귀금속·그림 등 청탁 혐의 유죄 유지와 특검·김 여사 측 쌍방 상고 예고",
+      "article_count": 78,
+      "url": "https://newsboy.news/news/471298"
+    }
+  ]
+}
