@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-23",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-23T22:05:20+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "한미 정상, 핵잠 연료·농축재처리·전작권 전환 협력 심화 합의",
+      "summary": "'단계적 비핵화' 제안과 한반도 평화공존을 위한 다자 외교 행보",
+      "article_count": 498,
+      "url": "https://newsboy.news/news/472222"
+    },
+    {
+      "rank": 2,
+      "title": "조희대 대법원장, 靑 대법관 재제청 거부…탄핵·특검 공방 격화",
+      "summary": "제청권과 임명권의 정면충돌 속 대법관 공백 장기화 우려",
+      "article_count": 335,
+      "url": "https://newsboy.news/news/472223"
+    },
+    {
+      "rank": 3,
+      "title": "사격 추가은 아시아 신기록 16년 만의 금빛 총성…황선우·박지희 은메달",
+      "summary": "2026 나고야 아시안게임 한국 선수단 주요 종목 메달 수확 성과",
+      "article_count": 233,
+      "url": "https://newsboy.news/news/472224"
+    },
+    {
+      "rank": 4,
+      "title": "코스피, 미 기술주 랠리에 4일 연속 상승…7080선 마감",
+      "summary": "반도체 대형주 견인과 추석 연휴 앞둔 관망세",
+      "article_count": 86,
+      "url": "https://newsboy.news/news/472225"
+    },
+    {
+      "rank": 5,
+      "title": "연말 금융사 CEO 70여 곳 인선… 금감원 “계파 배제·능력 중심 선임”",
+      "summary": "자회사 임추위 실질적 검증 권한 보장과 승계 절차 개선 요구",
+      "article_count": 81,
+      "url": "https://newsboy.news/news/472226"
+    },
+    {
+      "rank": 6,
+      "title": "추석 연휴 첫날 짙은 안개·큰 일교차…추석엔 전국 흐리고 비",
+      "summary": "귀성길 시정 악화 주의와 한가위 보름달 관측 차질",
+      "article_count": 78,
+      "url": "https://newsboy.news/news/472227"
+    },
+    {
+      "rank": 7,
+      "title": "이정현 검찰총장 대행 첫 출근…\"이재명 공소취소, 진상조사 결과 살펴야\"",
+      "summary": "공소청 출범 준비 지휘와 검사 정원 감축 협의 착수",
+      "article_count": 78,
+      "url": "https://newsboy.news/news/472228"
+    },
+    {
+      "rank": 8,
+      "title": "추석 연휴 앞두고 3천만 대이동 시작…오늘 밤부터 본격 정체",
+      "summary": "철도·버스 공급 확대와 24일부터 나흘간 고속도로 통행료 면제",
+      "article_count": 77,
+      "url": "https://newsboy.news/news/472229"
+    },
+    {
+      "rank": 9,
+      "title": "부산 북항 인공수로에 3~4m 대형 상어 출몰… 구경 인파 몰려",
+      "summary": "야간 출입 통제와 연휴 뒤 외해 유도 구조 추진",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/472230"
+    },
+    {
+      "rank": 10,
+      "title": "OECD·ADB, 韓 경제성장률 전망 3%대로 상향…반도체 수출 호조 반영",
+      "summary": "수출 중심 경기 반등 기대 속 에너지 가격 상승과 통상 불확실성 상존",
+      "article_count": 68,
+      "url": "https://newsboy.news/news/472231"
+    }
+  ]
+}
