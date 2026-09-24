@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-24",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-24T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "트럼프, 공항 활주로서 시진핑 직접 영접… 11년 만의 방미에 파격 의전",
+      "summary": "관세 휴전 2개월 연장 합의 속 통상·AI·대만 핵심 의제 담판",
+      "article_count": 156,
+      "url": "https://newsboy.news/news/472546"
+    },
+    {
+      "rank": 2,
+      "title": "우크라전서 생포된 북한군 포로 2명, 본인 의사 따라 한국 송환",
+      "summary": "자유의사 존중 원칙에 따른 수용과 신변안전 중심 비공개 기조",
+      "article_count": 155,
+      "url": "https://newsboy.news/news/472547"
+    },
+    {
+      "rank": 3,
+      "title": "남자 카약 4인승 500m 사상 첫 금빛 질주…중국 제치고 9번째 金",
+      "summary": "2위 중국과 0.255초 차 접전 끝에 일군 사상 첫 단체전 제패",
+      "article_count": 130,
+      "url": "https://newsboy.news/news/472548"
+    },
+    {
+      "rank": 4,
+      "title": "16년 만에 멕시코 찾은 이재명 대통령, FTA 협상 재개 제안",
+      "summary": "장기 교착 통상 협정 재가동과 FA-50 기반 방산 협력 확대",
+      "article_count": 80,
+      "url": "https://newsboy.news/news/472549"
+    },
+    {
+      "rank": 5,
+      "title": "추석 첫날 616만 대 대이동… 낮 한때 극심했던 귀성길 정체 점차 완화",
+      "summary": "양방향 교통량 분산 및 저녁 시간대 완전 해소 전망",
+      "article_count": 79,
+      "url": "https://newsboy.news/news/472550"
+    },
+    {
+      "rank": 6,
+      "title": "조희대 대법원장 재제청 거부에 靑 반박… 與 탄핵 압박 vs 野 길들이기 반발",
+      "summary": "대법관 인선 갈등 속 헌법상 권한 공방과 정치권 탄핵론 확산",
+      "article_count": 58,
+      "url": "https://newsboy.news/news/472551"
+    },
+    {
+      "rank": 7,
+      "title": "셔틀 불발에 자비 해결까지… 나고야 아시안게임 'F급' 부실 운영 논란",
+      "summary": "선수단 자체 수습 파행과 '지장 없다'는 조직위 해명",
+      "article_count": 52,
+      "url": "https://newsboy.news/news/472552"
+    },
+    {
+      "rank": 8,
+      "title": "추석 연휴 전국 흐리고 곳곳 비…보름달 관측 어려울 듯",
+      "summary": "최대 15도 큰 일교차와 귀성·귀경길 짙은 안개 주의",
+      "article_count": 47,
+      "url": "https://newsboy.news/news/472553"
+    },
+    {
+      "rank": 9,
+      "title": "서울 아파트값 85주 연속 상승…역대 최장 기록과 동률",
+      "summary": "강남3구 낙폭 확대 속 외곽·반도체 벨트 중심 디커플링 심화",
+      "article_count": 39,
+      "url": "https://newsboy.news/news/472554"
+    },
+    {
+      "rank": 10,
+      "title": "HLB 담관암 표적 신약 '리픽투' 美 FDA 품목허가 획득",
+      "summary": "국내 바이오 첫 직제출 항암제 승인과 4분기 미국 시장 출시 계획",
+      "article_count": 24,
+      "url": "https://newsboy.news/news/472555"
+    }
+  ]
+}
