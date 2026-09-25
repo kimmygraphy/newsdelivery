@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-25",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-25T22:05:20+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "靑 “DMZ 지뢰폭발 은폐 없어”…北포로 송환 공개엔 “합의 위반 유감”",
+      "summary": "안전 확보 후 유엔사 합동 조사 방침 속 여야 대북 저자세 공방",
+      "article_count": 207,
+      "url": "https://newsboy.news/news/472866"
+    },
+    {
+      "rank": 2,
+      "title": "백악관서 마주한 미중 정상, 무역 갈등 2개월 휴전 연장 합의",
+      "summary": "무역 분쟁 유예와 AI·대만 현안 둘러싼 시각차",
+      "article_count": 203,
+      "url": "https://newsboy.news/news/472867"
+    },
+    {
+      "rank": 3,
+      "title": "추석 당일 전국 고속도로 양방향 극심한 정체…서울~부산 8시간대",
+      "summary": "귀경길 혼잡 익일 새벽까지 지속 전망과 나흘간 고속도로 통행료 면제 조치",
+      "article_count": 95,
+      "url": "https://newsboy.news/news/472868"
+    },
+    {
+      "rank": 4,
+      "title": "이재명 대통령 \"2030년 6월 2일 넘길 일 없어\"…개혁 '선명성 경쟁' 경계",
+      "summary": "노무현 정부 국보법 실패 사례 소환과 여권 강경파 겨냥 해석",
+      "article_count": 94,
+      "url": "https://newsboy.news/news/472869"
+    },
+    {
+      "rank": 5,
+      "title": "한·멕시코 정상회담 개최, 무역협정 추진 및 자원·방산·첨단 공급망 협력 강화",
+      "summary": "투자보장협정 7년 만의 타결과 진출 기업 관세 애로 해소 추진",
+      "article_count": 85,
+      "url": "https://newsboy.news/news/472870"
+    },
+    {
+      "rank": 6,
+      "title": "카누 조광희·김효빈 사상 첫 2관왕 질주… 한국 메달 레이스 순항",
+      "summary": "황서현의 40년 만 체조 金과 전 종목 메달 행진",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/472871"
+    },
+    {
+      "rank": 7,
+      "title": "추석날 전국 곳곳 비 확대…대부분 지역 보름달 관측 어려워",
+      "summary": "남해안·제주 강풍과 동해안 너울 주의 및 26일 낮부터 점차 갬",
+      "article_count": 57,
+      "url": "https://newsboy.news/news/472872"
+    },
+    {
+      "rank": 8,
+      "title": "한국 수영, 메달 20개 종합 3위로 경영 마감…신예 김영범 '새 에이스' 우뚝",
+      "summary": "마지막 날 은1·동2 추가와 간판들의 부상 아쉬움 속 신예들의 값진 성장",
+      "article_count": 55,
+      "url": "https://newsboy.news/news/472873"
+    },
+    {
+      "rank": 9,
+      "title": "부산 북항 상어 '부캉이' 보러 추석 연휴 첫날 10만여 명 몰려",
+      "summary": "야간 수로 출입 통제와 연휴 이후 구조 방안 검토",
+      "article_count": 55,
+      "url": "https://newsboy.news/news/472874"
+    },
+    {
+      "rank": 10,
+      "title": "이륙 앞둔 다낭행 에어서울 기내서 화재…보조배터리 발화 추정",
+      "summary": "승객 전원 대피 및 항공기 교체 투입과 원인 조사 착수",
+      "article_count": 26,
+      "url": "https://newsboy.news/news/472875"
+    }
+  ]
+}
