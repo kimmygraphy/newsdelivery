@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-26",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-26T22:05:19+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "DMZ 지뢰 폭발·北 포로 송환 일파만파…野 \"은폐\" vs 與 \"음모론\"",
+      "summary": "현장조사 지연 논란과 국회 국방위 소집 요구",
+      "article_count": 208,
+      "url": "https://newsboy.news/news/473156"
+    },
+    {
+      "rank": 2,
+      "title": "미·중 정상, 전략 안정 관계 구축 합의…무역 휴전 연장·SI 대화 출범",
+      "summary": "300억 달러 관세 인하와 AI 소통 채널 신설 및 대만 문제 입장 차",
+      "article_count": 137,
+      "url": "https://newsboy.news/news/473157"
+    },
+    {
+      "rank": 3,
+      "title": "이란 ‘호르무즈 7일 재개방안’ 제시했지만…트럼프 거부 기조",
+      "summary": "제재 해제 선행 요구와 중간선거 뒤 폭격 재개 시사 속 이행 순서 대립",
+      "article_count": 79,
+      "url": "https://newsboy.news/news/473158"
+    },
+    {
+      "rank": 4,
+      "title": "추석 연휴 셋째 날 귀경길 정체 본격화… 오후 4~5시 최대 혼잡",
+      "summary": "전국 590만 대 이동 속 주요 구간 소요 시간 급증 및 심야 해소 전망",
+      "article_count": 76,
+      "url": "https://newsboy.news/news/473159"
+    },
+    {
+      "rank": 5,
+      "title": "41-44 벼랑 끝 대역전…한국 남자 사브르, AG 4연패 달성",
+      "summary": "에이스 오상욱 2연속 2관왕 달성과 세대교체 대표팀의 정상 수성",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/473160"
+    },
+    {
+      "rank": 6,
+      "title": "귀경길 남부·제주 최대 80㎜ 비바람…중부는 차차 맑아져",
+      "summary": "해상 물결에 따른 교통편 결항 우려와 대조기 해안 침수 주의",
+      "article_count": 64,
+      "url": "https://newsboy.news/news/473161"
+    },
+    {
+      "rank": 7,
+      "title": "이재명 대통령 부부, 멕시코 K 박람회·콘서트 찾아 현지 K팝 팬들과 소통",
+      "summary": "K-콘텐츠 시장 진출 지원과 한·멕시코 경제 협력 추진",
+      "article_count": 60,
+      "url": "https://newsboy.news/news/473162"
+    },
+    {
+      "rank": 8,
+      "title": "조희대 대법원장 '대법관 재제청 거부' 파장…여야, 정치 개입·사법부 겁박 격돌",
+      "summary": "200일 넘긴 대법관 공백 속 특수본 논란과 삼권분립 공방 확산",
+      "article_count": 30,
+      "url": "https://newsboy.news/news/473163"
+    },
+    {
+      "rank": 9,
+      "title": "상어 ‘부캉이’ 보러 추석 연휴 23만명 북새통… 누적 방문객 32만명 돌파",
+      "summary": "주차 혼잡 속 안전 비상근무와 연휴 이후 바다 방류 검토",
+      "article_count": 27,
+      "url": "https://newsboy.news/news/473164"
+    },
+    {
+      "rank": 10,
+      "title": "추석 연휴 안산 다세대주택서 70대 모친 살해한 50대 딸 현행범 체포",
+      "summary": "지인 신고로 현장 검거 후 존속살해 혐의 집중 조사",
+      "article_count": 26,
+      "url": "https://newsboy.news/news/473165"
+    }
+  ]
+}
