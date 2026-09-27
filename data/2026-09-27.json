@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-27",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-27T22:05:19+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "DMZ 지뢰 추정 폭발 사고에 탄핵 공방까지… 여야 정면충돌",
+      "summary": "유엔사 공동 예비 점검 착수와 군 지휘부 경찰 고발",
+      "article_count": 347,
+      "url": "https://newsboy.news/news/473578"
+    },
+    {
+      "rank": 2,
+      "title": "핸드볼·펜싱 한일전 잇단 승리…韓 대표팀 아시안게임 금빛 질주",
+      "summary": "승마 남동헌 12년 만의 개인전 금메달 및 농구·체조 종목의 고른 메달 수확",
+      "article_count": 124,
+      "url": "https://newsboy.news/news/473579"
+    },
+    {
+      "rank": 3,
+      "title": "정부망 뚫고 무기 개발 악용까지…통제 벗어난 AI 위험에 ‘비상 제동’ 논쟁",
+      "summary": "잇단 돌발 공격과 정보 유출 속 ‘킬 스위치’ 의무화 및 안전 규제 추진",
+      "article_count": 79,
+      "url": "https://newsboy.news/news/473580"
+    },
+    {
+      "rank": 4,
+      "title": "美·멕시코 순방 마친 이재명 대통령 귀국…참모 쇄신·사법개혁 결단 직면",
+      "summary": "참모진 개편과 사법개혁 등 귀국 후 산적한 내치 과제",
+      "article_count": 66,
+      "url": "https://newsboy.news/news/473581"
+    },
+    {
+      "rank": 5,
+      "title": "추석 연휴 마지막 날 귀경길 정체 완화…밤 10~11시 해소 전망",
+      "summary": "전국 524만 대 이동과 고속도로 통행료 면제 혜택",
+      "article_count": 62,
+      "url": "https://newsboy.news/news/473582"
+    },
+    {
+      "rank": 6,
+      "title": "분당 중식당 래커칠·훼손한 중국인 일당…범행 당일 중국 출국",
+      "summary": "사전 계획 정황 확인과 국제사법공조를 통한 피의자 추적",
+      "article_count": 50,
+      "url": "https://newsboy.news/news/473583"
+    },
+    {
+      "rank": 7,
+      "title": "“억대 성과급 놓칠라”…삼성전자·SK하이닉스 육아휴직률 첫 동반 하락",
+      "summary": "상한 없는 반도체 성과급 구조와 저출생 대응 역행 논란",
+      "article_count": 50,
+      "url": "https://newsboy.news/news/473584"
+    },
+    {
+      "rank": 8,
+      "title": "오세훈 \"실거주 이어 실경작 집착\"…정부 농지 전수조사 직격",
+      "summary": "당정의 비투기 사유 예외 및 특별조치법 추진과 정치권 공방",
+      "article_count": 45,
+      "url": "https://newsboy.news/news/473585"
+    },
+    {
+      "rank": 9,
+      "title": "부산 북항 수로에 뜬 상어 '부캉이'…추석 연휴 수십만 인파 몰려",
+      "summary": "안전관리 인력 3배 증원 및 28일 관계기관 외해 유도 방안 논의",
+      "article_count": 44,
+      "url": "https://newsboy.news/news/473586"
+    },
+    {
+      "rank": 10,
+      "title": "연휴 끝나자 출근길 짙은 안개…내륙 일교차 최대 15도",
+      "summary": "수도권 등 곳곳 약한 비 예보와 출근길 교통안전 당부",
+      "article_count": 44,
+      "url": "https://newsboy.news/news/473587"
+    }
+  ]
+}
