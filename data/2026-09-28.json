@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-28",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-28T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "DMZ 지뢰 폭발과 북한군 송환 논란…안보 현안 둘러싼 정치권 공방 격화",
+      "summary": "군 당국의 은폐 의혹 부인과 북한 도발 확인 시 상응 조치 방침",
+      "article_count": 684,
+      "url": "https://newsboy.news/news/474600"
+    },
+    {
+      "rank": 2,
+      "title": "156만 흥행 영화 ‘암살자(들)’ 역사 왜곡 논란… 정치권 공방 가열",
+      "summary": "상영 중단 및 사과 촉구와 제작진의 창작물 해명 대립",
+      "article_count": 130,
+      "url": "https://newsboy.news/news/474601"
+    },
+    {
+      "rank": 3,
+      "title": "외인·기관 4조원대 매물 폭탄에 코스피 2.7% 급락하며 6900선 붕괴",
+      "summary": "미국 장기 국채금리 급등 충격과 반도체 대표주 동반 급락",
+      "article_count": 112,
+      "url": "https://newsboy.news/news/474602"
+    },
+    {
+      "rank": 4,
+      "title": "“코리아 디스카운트 넘어 프리미엄으로”…첫 민·관 합동 글로벌 IR 개막",
+      "summary": "글로벌 투자기관의 일관된 개혁 주문과 자본시장 인프라 선진화 추진",
+      "article_count": 83,
+      "url": "https://newsboy.news/news/474603"
+    },
+    {
+      "rank": 5,
+      "title": "부산 북항 인공수로 고립 상어 '부캉이', 29일부터 바다로 돌려보낸다",
+      "summary": "워터펌프와 그물망을 활용한 단계별 비자극 외해 유도 작전",
+      "article_count": 76,
+      "url": "https://newsboy.news/news/474604"
+    },
+    {
+      "rank": 6,
+      "title": "트럼프, 이란 ‘7일 계획’ 거절 속 “이번 주 대화”…이란 “추가 회담 없다”",
+      "summary": "호르무즈 봉쇄 해제와 비핵화 선결 대립 속 카타르 중재 협상 교착",
+      "article_count": 68,
+      "url": "https://newsboy.news/news/474605"
+    },
+    {
+      "rank": 7,
+      "title": "전국 내륙 일교차 최대 15도…강원·경상 동해안엔 출근길 비",
+      "summary": "짙은 안개로 인한 교통안전 유의와 동해안 해안가 너울성 파도 주의",
+      "article_count": 62,
+      "url": "https://newsboy.news/news/474606"
+    },
+    {
+      "rank": 8,
+      "title": "삼성전기, AI 반도체 기판 수요 급증에 세종·베트남 6조 7800억 투자",
+      "summary": "글로벌 빅테크 투자 지원과 중장기 물량 보장 기반 안정적 생산라인 구축",
+      "article_count": 59,
+      "url": "https://newsboy.news/news/474607"
+    },
+    {
+      "rank": 9,
+      "title": "한국 야구, 일본 꺾고 아시안게임 5연패…경기력 논란 속 병역특례 공방",
+      "summary": "사회인 야구 상대 고전과 대표팀 발언 논란에 번진 병역혜택 폐지론",
+      "article_count": 58,
+      "url": "https://newsboy.news/news/474608"
+    },
+    {
+      "rank": 10,
+      "title": "천위페이 완파한 안세영, 사상 첫 아시안게임 2연패 눈앞",
+      "summary": "백하나·이소희 조 결승 동반 진출과 24년 만의 여자 복식 금메달 도전",
+      "article_count": 56,
+      "url": "https://newsboy.news/news/474609"
+    }
+  ]
+}
