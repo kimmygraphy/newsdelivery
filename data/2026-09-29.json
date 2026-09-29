@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-29",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-29T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "DMZ 지뢰 폭발 北 소행 추정…군 조사서 플라스틱 지뢰 추가 발견",
+      "summary": "정전협정 위반 상응 조치 검토와 늑장 보고 둘러싼 여야 책임 공방",
+      "article_count": 466,
+      "url": "https://newsboy.news/news/475737"
+    },
+    {
+      "rank": 2,
+      "title": "“삼성·SK보다 나은 선택 없다”… 젠슨 황, 韓과 전방위 AI 협력 지속 천명",
+      "summary": "AI 공장 인프라 구축과 업계 자율 안전 표준 주도 구상",
+      "article_count": 339,
+      "url": "https://newsboy.news/news/475738"
+    },
+    {
+      "rank": 3,
+      "title": "영화 ‘암살자(들)’ 역사 왜곡 논란에 제작진 고발…국감 공방으로 확산",
+      "summary": "창작의 자유 논쟁과 중국 자본 유입 의혹 둘러싼 여야 대립",
+      "article_count": 253,
+      "url": "https://newsboy.news/news/475739"
+    },
+    {
+      "rank": 4,
+      "title": "‘셔틀콕 여제’ 안세영, 아시안게임 배드민턴 여자 단식 사상 첫 2연패 달성",
+      "summary": "개인전 전 경기 무실세트 완벽 우승과 64년 만의 대회 최초 대기록",
+      "article_count": 165,
+      "url": "https://newsboy.news/news/475740"
+    },
+    {
+      "rank": 5,
+      "title": "162조 미래대응기금 신설에 교부세 30조 축소 우려… 당정 \"수정·보완\"",
+      "summary": "지방재정 악화 우려에 따른 긴급 당정협의와 교부세 산정 방식 개편 논란",
+      "article_count": 165,
+      "url": "https://newsboy.news/news/475741"
+    },
+    {
+      "rank": 6,
+      "title": "美 국채금리 5.2% 돌파에 환율·유가 급등… 韓 증시·반도체 비상",
+      "summary": "중동 긴장과 AI 채권 부담 속 장기금리 폭등과 외국인 매도세 확산",
+      "article_count": 132,
+      "url": "https://newsboy.news/news/475742"
+    },
+    {
+      "rank": 7,
+      "title": "부산 북항 상어 '부캉이' 바다 귀환 작전 착수… 1차 유도 무산 뒤 재시도 예정",
+      "summary": "60만 인파 모은 명예홍보대사 위촉과 맞춤형 그물망 2차 유도 계획",
+      "article_count": 123,
+      "url": "https://newsboy.news/news/475743"
+    },
+    {
+      "rank": 8,
+      "title": "사흘 뒤 검찰청 폐지·공소청 출범… 직제 확정에도 수사 혼선 우려",
+      "summary": "수사·기소 분리 앞둔 사건 이관 논의와 신설 기관 인력 공백",
+      "article_count": 99,
+      "url": "https://newsboy.news/news/475744"
+    },
+    {
+      "rank": 9,
+      "title": "삼성 6개사, 美 AI 인프라 기업 헬릭스에 10억 달러 공동 투자",
+      "summary": "글로벌 AI 데이터센터·전력 인프라 생태계 진출과 그룹 역량 결집",
+      "article_count": 83,
+      "url": "https://newsboy.news/news/475745"
+    },
+    {
+      "rank": 10,
+      "title": "6·3 지선 신규 공직자 평균 재산 13억 5천만 원… 최고 자산가는 349억 원",
+      "summary": "직위별 자산 격차와 향후 3개월간의 성실신고 심사 방침",
+      "article_count": 81,
+      "url": "https://newsboy.news/news/475746"
+    }
+  ]
+}
