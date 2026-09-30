@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-30",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-09-30T22:05:22+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "DMZ 폭발 현장서 北 지뢰 추가 발견…김여정 \"자작극\" 보복 위협",
+      "summary": "정전협정 위반 판단과 대북 확성기 재개 공방",
+      "article_count": 566,
+      "url": "https://newsboy.news/news/476932"
+    },
+    {
+      "rank": 2,
+      "title": "스스로 일하는 AI 에이전트 속속 등장…기업 일하는 방식도 전환 가속",
+      "summary": "업무 프로세스 재편과 자율 에이전트 도입을 통한 기업 AX 확산",
+      "article_count": 221,
+      "url": "https://newsboy.news/news/476933"
+    },
+    {
+      "rank": 3,
+      "title": "美 국채금리 악재 뚫은 AI 훈풍…코스피, 반도체주 앞세워 반등",
+      "summary": "앤트로픽 700조 원 투자 계획과 연준 속도 조절 기대 속 6,900선 회복",
+      "article_count": 168,
+      "url": "https://newsboy.news/news/476934"
+    },
+    {
+      "rank": 4,
+      "title": "컴파운드 양궁, 혼성 銀·여자 銅 획득…메달 레이스 출발",
+      "summary": "정의선 양궁협회장의 현장 격려와 훈련 지원 확대 약속",
+      "article_count": 122,
+      "url": "https://newsboy.news/news/476935"
+    },
+    {
+      "rank": 5,
+      "title": "'여고생 강간살인' 장윤기 1심 무기징역… 법원 \"가석방 없는 영구 격리\"",
+      "summary": "검찰 사형 구형 불발에 따른 유족 반발과 항소 요청",
+      "article_count": 109,
+      "url": "https://newsboy.news/news/476936"
+    },
+    {
+      "rank": 6,
+      "title": "해군 6번째 이지스함 '대호김종서함' 진수…李대통령 \"자주국방 핵심전력 확충\"",
+      "summary": "조선·방산 초격차 지원 약속 및 DMZ 지뢰 부상 장병 국가 예우 당부",
+      "article_count": 105,
+      "url": "https://newsboy.news/news/476937"
+    },
+    {
+      "rank": 7,
+      "title": "반도체 호황에 올해 세수 478.6조 역대 최대… 추경 대비 63.2조 초과",
+      "summary": "미래대응기금 전입 구상과 세수 오차 및 지방재정 논란",
+      "article_count": 95,
+      "url": "https://newsboy.news/news/476938"
+    },
+    {
+      "rank": 8,
+      "title": "육영수 피격 다룬 영화 '암살자(들)' 역사 왜곡 논란…감독·제작진 피소",
+      "summary": "제작진 형사 고발과 배우·광고계로 번진 장외 공방",
+      "article_count": 94,
+      "url": "https://newsboy.news/news/476939"
+    },
+    {
+      "rank": 9,
+      "title": "트럼프, 알래스카 LNG 포함 韓 대미투자 발표 예고… 정부 “확정 아냐”",
+      "summary": "540억 달러 사업성 검토와 국회 동의 절차를 둘러싼 한미 간 엇박자",
+      "article_count": 90,
+      "url": "https://newsboy.news/news/476940"
+    },
+    {
+      "rank": 10,
+      "title": "\"독파모 유지하며 프런티어 AI 도전\"…정부, 韓 AI '투 트랙' 공식화",
+      "summary": "내년 4.6조 투입과 GPT-6급 도전 속 컴퓨팅 자원 확보 과제",
+      "article_count": 72,
+      "url": "https://newsboy.news/news/476941"
+    }
+  ]
+}
