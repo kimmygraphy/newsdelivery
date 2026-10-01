@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-01",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-01T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "대미투자 1호 텍사스 발전소 확정…트럼프 '알래스카 LNG' 발표엔 선긋기",
+      "summary": "원전 8기 협력 프레임워크 합의와 투자 원리금 회수 안전장치 마련",
+      "article_count": 484,
+      "url": "https://newsboy.news/news/478113"
+    },
+    {
+      "rank": 2,
+      "title": "검찰청 폐지 속 중수청·공소청 동시 출범…수사 공백 공방 속 첫발",
+      "summary": "지휘부 인선 단행과 66% 초기 충원율 속 여야 대립",
+      "article_count": 449,
+      "url": "https://newsboy.news/news/478114"
+    },
+    {
+      "rank": 3,
+      "title": "마이크론 역대급 실적에 AI 슈퍼사이클 확인…국내 반도체주 기대감 확산",
+      "summary": "AI 메모리 공급 부족 장기화 전망과 미 국채금리 급등 변수",
+      "article_count": 218,
+      "url": "https://newsboy.news/news/478115"
+    },
+    {
+      "rank": 4,
+      "title": "DMZ 지뢰 폭발에 '정전협정 위반' 결론…대북 대응 두고 정치권 충돌",
+      "summary": "군 당국의 대북 사과 요구와 야당의 국군의 날 행사 불참 항의",
+      "article_count": 196,
+      "url": "https://newsboy.news/news/478116"
+    },
+    {
+      "rank": 5,
+      "title": "사격 이건혁 2관왕·양궁 김종호 첫 金…한국, 아시안게임 메달 행진",
+      "summary": "태권도 품새 남녀 동반 석권과 유도 허미미의 32년 만의 정상 탈환",
+      "article_count": 115,
+      "url": "https://newsboy.news/news/478117"
+    },
+    {
+      "rank": 6,
+      "title": "靑 정책실장에 하준경 승진 발탁…'민생 체감' 성과 확산 주력",
+      "summary": "실물경제 관료 중심 경제수석 기용과 외교안보 특보진 배치",
+      "article_count": 112,
+      "url": "https://newsboy.news/news/478118"
+    },
+    {
+      "rank": 7,
+      "title": "9월 수출 1209억 달러로 사상 첫 1200억 달러 돌파…반도체가 견인",
+      "summary": "연간 수출 1조 달러 달성 기대와 대외 불확실성 대응",
+      "article_count": 88,
+      "url": "https://newsboy.news/news/478119"
+    },
+    {
+      "rank": 8,
+      "title": "국립의전원 전북 남원 설립 확정…남원의료원은 국립병원 전환 추진",
+      "summary": "입학정원 100명 운영과 15년 의무복무 및 500병상 거점병원 확충 계획",
+      "article_count": 85,
+      "url": "https://newsboy.news/news/478120"
+    },
+    {
+      "rank": 9,
+      "title": "'암살자(들)' 둘러싼 역사 왜곡 논란… 고발과 상영 금지 가처분 검토로 확산",
+      "summary": "국책은행 투자 의혹 제기와 평론계 공방 등 문화·정치권 전반 파장",
+      "article_count": 78,
+      "url": "https://newsboy.news/news/478121"
+    },
+    {
+      "rank": 10,
+      "title": "10월 첫날 찬 바람에 기온 '뚝'…개천절 연휴 후반 전국 비 예보",
+      "summary": "전국 강풍과 큰 일교차 속 연휴 후반 돌풍·번개 동반 강수",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/478122"
+    }
+  ]
+}
