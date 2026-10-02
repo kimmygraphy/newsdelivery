@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-02",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-02T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "검찰청 폐지 속 공소청·중수청 공식 출범… 여야 공방과 사법 전환 혼선",
+      "summary": "수사 공백 공방과 초대 중수청장 인선 반발 및 특검 파견 효력 논란",
+      "article_count": 742,
+      "url": "https://newsboy.news/news/479060"
+    },
+    {
+      "rank": 2,
+      "title": "시중은행 외부망 뚫려 연쇄 정보 유출…AI 기반 자동화 해킹 의심",
+      "summary": "금융당국 긴급 전면 보안점검 지시와 경찰 수사 착수",
+      "article_count": 256,
+      "url": "https://newsboy.news/news/479061"
+    },
+    {
+      "rank": 3,
+      "title": "이 대통령 “우크라, 사과 없으면 추가 조치”…北 반발 속 안보 공방 격화",
+      "summary": "DMZ 지뢰 도발과 북한군 포로 송환 공개에 따른 외교 갈등 및 대북 저자세 논란",
+      "article_count": 230,
+      "url": "https://newsboy.news/news/479062"
+    },
+    {
+      "rank": 4,
+      "title": "양궁 남자 단체·LoL·요트 하지민 금빛 합창…한국 금메달 3개 추가",
+      "summary": "여자 양궁 8연패 무산과 유도·복싱 은메달 및 여자 축구 동메달 결실",
+      "article_count": 192,
+      "url": "https://newsboy.news/news/479063"
+    },
+    {
+      "rank": 5,
+      "title": "24년 만의 국채 금리 급등과 유가 충격 속 한·미 증시 반등",
+      "summary": "AI 반도체 호실적과 견조한 성장세에 따른 금융시장 하방 지지력",
+      "article_count": 121,
+      "url": "https://newsboy.news/news/479064"
+    },
+    {
+      "rank": 6,
+      "title": "배우 집 앞 집회에 안전 우려까지…영화 《암살자(들)》 부국제 일정 전면 취소",
+      "summary": "출연 배우 자택 집회 신고와 광고 불매 조짐 속 커지는 창작자 압박 논란",
+      "article_count": 102,
+      "url": "https://newsboy.news/news/479065"
+    },
+    {
+      "rank": 7,
+      "title": "현대차, 신형 '디 올 뉴 투싼' 뉴욕서 최초 공개하며 글로벌 공략 시동",
+      "summary": "차세대 하이브리드 탑재 및 10월 국내 판매 돌입",
+      "article_count": 88,
+      "url": "https://newsboy.news/news/479066"
+    },
+    {
+      "rank": 8,
+      "title": "개천절 연휴 아침 기온 5도 안팎 뚝…낮과 15도 큰 일교차",
+      "summary": "내륙 산지 서리·결빙 주의 및 연휴 후반 요란한 비 예보",
+      "article_count": 80,
+      "url": "https://newsboy.news/news/479067"
+    },
+    {
+      "rank": 9,
+      "title": "바다 코앞서 멈춘 상어 '부캉이'… 2차 구조 작전도 그물 걸려 중단",
+      "summary": "수로 재진입 차단용 그물망 고정과 자력 탈출 관찰 대책",
+      "article_count": 68,
+      "url": "https://newsboy.news/news/479068"
+    },
+    {
+      "rank": 10,
+      "title": "경윳값 폭등에 다급한 트럼프 행정부…유럽에 \"비축분 방출하라\" 압박",
+      "summary": "미국의 경유 수출 금지 경고와 유럽의 IEA 공조 신중론 대립",
+      "article_count": 44,
+      "url": "https://newsboy.news/news/479069"
+    }
+  ]
+}
