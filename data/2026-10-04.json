@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-04",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-04T22:05:18+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "AI 활용 추정 해킹에 은행·2금융권 7개사 뚫려…전 금융권 긴급 점검",
+      "summary": "약 500개 금융사 보안 전수조사와 민간 2만 8천 곳 긴급 대응체계 가동",
+      "article_count": 246,
+      "url": "https://newsboy.news/news/479648"
+    },
+    {
+      "rank": 2,
+      "title": "남북 대화 제의 거부한 북한, 중거리 극초음속미사일 발사",
+      "summary": "핵 억제력 강화 천명과 한미일 요격망 회피 시도",
+      "article_count": 135,
+      "url": "https://newsboy.news/news/479649"
+    },
+    {
+      "rank": 3,
+      "title": "16일 열전 마친 나고야 아시안게임 폐막…한국, 금 39개로 종합 3위",
+      "summary": "잇단 운영 미숙 논란과 44년 만의 최소 금메달 과제",
+      "article_count": 117,
+      "url": "https://newsboy.news/news/479650"
+    },
+    {
+      "rank": 4,
+      "title": "역사 왜곡 논란 번진 '암살자(들)'…배우 자택 앞 집회에 굿즈 전량 폐기까지",
+      "summary": "주연 배우 압박과 무대인사 취소 등 커지는 사회적 파장",
+      "article_count": 114,
+      "url": "https://newsboy.news/news/479651"
+    },
+    {
+      "rank": 5,
+      "title": "\"군대 안 갑니다\"…아시안게임 축구 대표팀 병역 발언 논란",
+      "summary": "정치권 질타와 축구협회 사과 속 병역 특례 재검토 요구 확산",
+      "article_count": 95,
+      "url": "https://newsboy.news/news/479652"
+    },
+    {
+      "rank": 6,
+      "title": "조희대 대법원장 국감 증인 불출석에 정치권 공방 격화",
+      "summary": "사법권 독립 논란과 동행명령장 압박 속 대치",
+      "article_count": 78,
+      "url": "https://newsboy.news/news/479653"
+    },
+    {
+      "rank": 7,
+      "title": "이 대통령 '실용개혁' 정면돌파 속 김지용 중수청장 청문 절차 돌입",
+      "summary": "과거 행적 둘러싼 여권 강경파 반발과 검찰개혁 갈등 수습 시험대",
+      "article_count": 57,
+      "url": "https://newsboy.news/news/479654"
+    },
+    {
+      "rank": 8,
+      "title": "트럼프 “알래스카 LNG 합의 안 하면 2배 청구”…관세 앞세워 대미 투자 압박",
+      "summary": "한미 합의 조건 간극과 안보 후속 협의 파장 우려",
+      "article_count": 56,
+      "url": "https://newsboy.news/news/479655"
+    },
+    {
+      "rank": 9,
+      "title": "전국 곳곳 요란한 가을비…그친 뒤 찬 공기 밀려와 기온 뚝",
+      "summary": "강풍 동반한 기온 급락과 15도 안팎 큰 일교차",
+      "article_count": 53,
+      "url": "https://newsboy.news/news/479656"
+    },
+    {
+      "rank": 10,
+      "title": "AI로 지인 합성 성착취물 제작·유포한 텔레그램 유포자, 잡고 보니 현직 경찰",
+      "summary": "불법 영상물 5,600여 개 압수와 피의자 직위해제 조치",
+      "article_count": 43,
+      "url": "https://newsboy.news/news/479657"
+    }
+  ]
+}
