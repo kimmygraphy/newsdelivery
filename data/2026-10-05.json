@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-05",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-05T22:05:25+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "영화 '암살자(들)' 역사 왜곡 논란… 배우 신변 위협·정치 공방 확산",
+      "summary": "문체부 엄정 대응 요청과 여야 상영 철회 공방",
+      "article_count": 162,
+      "url": "https://newsboy.news/news/480059"
+    },
+    {
+      "rank": 2,
+      "title": "이 대통령 “검찰개혁 빙자해 인사 좌지우지 안 돼”…여권 강경파 연일 직격",
+      "summary": "수사·기소 분리 성과 방어와 중수청장 청문회를 앞둔 여권 내 노선 갈등",
+      "article_count": 138,
+      "url": "https://newsboy.news/news/480060"
+    },
+    {
+      "rank": 3,
+      "title": "軍, DMZ 폭발 사고 ‘北 매설 지뢰’ 최종 결론…사과·철거 강력 촉구",
+      "summary": "MDL 이남 북한군 지뢰지대 전격 제거 및 지속 작전 방침",
+      "article_count": 131,
+      "url": "https://newsboy.news/news/480061"
+    },
+    {
+      "rank": 4,
+      "title": "AI 기반 연쇄 해킹에 시중은행·2금융권 뚫려…대규모 고객 정보 유출",
+      "summary": "전 금융권 긴급 점검 착수와 국감 증인 채택 등 파장 확산",
+      "article_count": 127,
+      "url": "https://newsboy.news/news/480062"
+    },
+    {
+      "rank": 5,
+      "title": "“군 면제만 봤다” 아시안게임 우승 뒤 불붙은 병역특례 논쟁",
+      "summary": "선수단 공식 사과와 여야 정치권의 예술·체육요원 제도 전면 개편 요구",
+      "article_count": 124,
+      "url": "https://newsboy.news/news/480063"
+    },
+    {
+      "rank": 6,
+      "title": "제주 차귀도 해상서 29톤급 어선 전복…9명 구조·선장 등 2명 실종",
+      "summary": "악천후 속 실종 선원 긴급 수색과 승선 인원 불일치 조사",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/480064"
+    },
+    {
+      "rank": 7,
+      "title": "찬 공기 유입에 아침 기온 '뚝'…강원 산지 2005년 이후 가장 이른 한파특보",
+      "summary": "15도 안팎 큰 일교차와 서리·얼음 대비 농작물 냉해 주의",
+      "article_count": 58,
+      "url": "https://newsboy.news/news/480065"
+    },
+    {
+      "rank": 8,
+      "title": "빛으로 뇌세포 제어하는 '광유전학' 개척 3인, 노벨 생리의학상 공동 수상",
+      "summary": "신경회로 정밀 규명과 난치성 질환 치료의 새로운 지평",
+      "article_count": 44,
+      "url": "https://newsboy.news/news/480066"
+    },
+    {
+      "rank": 9,
+      "title": "미성년자 예·적금 10조 육박…'10억 이상 통장' 보유자도 52명",
+      "summary": "극심한 금융자산 양극화와 증여 사각지대 점검 요구",
+      "article_count": 32,
+      "url": "https://newsboy.news/news/480067"
+    },
+    {
+      "rank": 10,
+      "title": "정부, 독파모 지속에 4.7조 프론티어 AI 별도 추진…국가 AI '투트랙' 승부수",
+      "summary": "2월 독파모 최종 2개 팀 선발 및 민관 매칭 방식의 신규 모델 개발 공모",
+      "article_count": 32,
+      "url": "https://newsboy.news/news/480068"
+    }
+  ]
+}
