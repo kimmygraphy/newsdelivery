@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-06",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-06T22:05:24+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "조희대 대법원장, 국감 선서 거부하며 \"대통령·국회 대법관 제청 관여 못해\"",
+      "summary": "대법관 제청권 전속성과 사법 독립을 둘러싼 여야 공방",
+      "article_count": 930,
+      "url": "https://newsboy.news/news/481225"
+    },
+    {
+      "rank": 2,
+      "title": "AI 악용 해킹에 금융기관 7곳 뚫려…신한·국민 등 금융정보 유출",
+      "summary": "경찰 28명 전담팀 정식 수사 착수와 금융권 전액 보상 방침",
+      "article_count": 533,
+      "url": "https://newsboy.news/news/481226"
+    },
+    {
+      "rank": 3,
+      "title": "영화 '암살자(들)' 역사 왜곡 논란 확산에 정치권 충돌과 배우 신변 위협 파장",
+      "summary": "여야 역사전쟁 공방과 배우 자택 앞 집회에 따른 경찰 수사 착수",
+      "article_count": 308,
+      "url": "https://newsboy.news/news/481227"
+    },
+    {
+      "rank": 4,
+      "title": "정부 \"美텍사스발전소 24억달러 송금\"…알래스카 LNG엔 \"투자 미확정\"",
+      "summary": "대미 전략투자 상업성 검증 원칙과 국정감사 협상 주도권 공방",
+      "article_count": 193,
+      "url": "https://newsboy.news/news/481228"
+    },
+    {
+      "rank": 5,
+      "title": "발사대에 우뚝 선 누리호 5호기…내일 15기 위성 싣고 우주로",
+      "summary": "전원 공급과 기밀 점검 착수 및 역대 최다 위성 순차 분리 준비",
+      "article_count": 149,
+      "url": "https://newsboy.news/news/481229"
+    },
+    {
+      "rank": 6,
+      "title": "AI 훈풍 타고 반도체 소부장 랠리…실적 발표·ETF 리밸런싱 변수",
+      "summary": "대형주 관망세 속 소부장 차별화 장세와 주요 수급 변동 요인",
+      "article_count": 124,
+      "url": "https://newsboy.news/news/481230"
+    },
+    {
+      "rank": 7,
+      "title": "찬 공기에 출근길 기온 뚝…강원 산지 2005년 이후 가장 이른 '첫 한파주의보'",
+      "summary": "15도 안팎 큰 일교차와 서리 주의 속 누리호 5차 발사 기상 양호 전망",
+      "article_count": 76,
+      "url": "https://newsboy.news/news/481231"
+    },
+    {
+      "rank": 8,
+      "title": "\"군 면제만 봤다\" 축구대표팀 발언 후폭풍에 국방부 \"병역특례 감축·폐지 추진\"",
+      "summary": "53년 만의 제도 폐지 청원과 여야의 보충역 전면 재정비 요구",
+      "article_count": 72,
+      "url": "https://newsboy.news/news/481232"
+    },
+    {
+      "rank": 9,
+      "title": "박진영 위원장 ‘무보수 논란’에 “경비 수령 몰랐다”…국감 증인 자진 출석",
+      "summary": "경비 반납 의사와 제도 유지 필요성 및 대통령의 공개 격려",
+      "article_count": 61,
+      "url": "https://newsboy.news/news/481233"
+    },
+    {
+      "rank": 10,
+      "title": "부산 북항에 나타난 '부캉이'의 정체는 멸종위기 3m 암컷 흑상어",
+      "summary": "무리한 구조 대신 자진 탈출을 유도하는 건강 모니터링 체제 전환",
+      "article_count": 54,
+      "url": "https://newsboy.news/news/481234"
+    }
+  ]
+}
