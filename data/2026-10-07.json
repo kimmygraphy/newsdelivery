@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-07",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-07T22:05:19+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "박진영 “패노메논 상표권 선출원 정상 아냐”…문체위 국감 출석",
+      "summary": "사익 의혹 부인과 문체부 계약 미비 시인 및 주요 문화예술 쟁점 공방",
+      "article_count": 667,
+      "url": "https://newsboy.news/news/482291"
+    },
+    {
+      "rank": 2,
+      "title": "누리호 5차 발사 성공…초소형 군집위성 5기 궤도 안착",
+      "summary": "민간 주도 우주 수송 역량 입증과 상업 발사 서비스 전환 과제",
+      "article_count": 415,
+      "url": "https://newsboy.news/news/482292"
+    },
+    {
+      "rank": 3,
+      "title": "\"재제청 못하면 그만둬라\" 與 사퇴 압박…조희대 대법원장과 정면충돌",
+      "summary": "대통령 임명권과 대법원장 제청권을 둘러싼 여야 정치권의 공방",
+      "article_count": 392,
+      "url": "https://newsboy.news/news/482293"
+    },
+    {
+      "rank": 4,
+      "title": "\"연말 서울 집값 안정\" vs \"상향 평준화\"…국감·서울시 부동산 해법 공방",
+      "summary": "주택공급 방식 이견과 규제 완화 요구 및 전 정부 민간인 사찰 의혹 공방",
+      "article_count": 177,
+      "url": "https://newsboy.news/news/482294"
+    },
+    {
+      "rank": 5,
+      "title": "삼성전자 3분기 잠정실적 8일 발표…'영업익 100조' 기대 속 증시 관망세",
+      "summary": "원화 강세 등 비용 변수와 외국인·기관 동반 순매도에 따른 국내 증시 약세",
+      "article_count": 163,
+      "url": "https://newsboy.news/news/482295"
+    },
+    {
+      "rank": 6,
+      "title": "\"한국과 3~5년 함께 간다\"…방한한 AMD 리사 수, 韓 AI 생태계 동맹 본격화",
+      "summary": "이기종 인프라 실증과 연구센터 설립부터 차세대 HBM4 공급망 협력까지",
+      "article_count": 110,
+      "url": "https://newsboy.news/news/482296"
+    },
+    {
+      "rank": 7,
+      "title": "정부, 2035년까지 1000조 원 투입해 ‘한국형 녹색대전환’ 추진",
+      "summary": "다배출 업종 탈탄소화와 220조 원 민간 투자 유치 방안",
+      "article_count": 91,
+      "url": "https://newsboy.news/news/482297"
+    },
+    {
+      "rank": 8,
+      "title": "윤석열 '명태균 무상 여론조사' 2심 무죄…1심 징역 2년 파기",
+      "summary": "재산상 이익 부정과 특검의 상고 방침",
+      "article_count": 83,
+      "url": "https://newsboy.news/news/482298"
+    },
+    {
+      "rank": 9,
+      "title": "취임 100일 맞은 시·도 교육감들, AI 미래교육과 교권 보호 청사진 제시",
+      "summary": "지역 맞춤형 교실 혁신 로드맵과 교육재정 감소 대응책",
+      "article_count": 77,
+      "url": "https://newsboy.news/news/482299"
+    },
+    {
+      "rank": 10,
+      "title": "나주서 60대 부부 결박 살해한 50대 피의자, 무안서 긴급체포",
+      "summary": "현금 600만 원 갈취 후 도주 추적과 범행 경위 수사",
+      "article_count": 75,
+      "url": "https://newsboy.news/news/482300"
+    }
+  ]
+}
