@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-08",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-08T22:05:26+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "정무위 국감 달군 레버리지 ETF…야당 \"청와대 개입\" 여당 \"음모론\"",
+      "summary": "투자자 대규모 손실 사과와 책임 공방 속 특검 요구 대치",
+      "article_count": 731,
+      "url": "https://newsboy.news/news/483318"
+    },
+    {
+      "rank": 2,
+      "title": "삼성전자, 3분기 영업익 107조 돌파… 국내 기업 첫 '100조 시대' 개막",
+      "summary": "사상 최대 호실적에도 차익 실현 매물 출회에 따른 주가 하락 전환",
+      "article_count": 307,
+      "url": "https://newsboy.news/news/483319"
+    },
+    {
+      "rank": 3,
+      "title": "합참의장 \"北 지뢰폭발 도발 아니란 생각 전혀 없어\"…정보공유 제한엔 \"대비태세 문제없다\"",
+      "summary": "DMZ 감시 미흡 인정과 바디캠 포렌식 의뢰",
+      "article_count": 116,
+      "url": "https://newsboy.news/news/483320"
+    },
+    {
+      "rank": 4,
+      "title": "한·이집트 '전략적 동반자 관계' 격상…경제협정 협상 개시",
+      "summary": "5대 분야 협력 문건 12건 체결과 경제·산업 전방위 공조",
+      "article_count": 103,
+      "url": "https://newsboy.news/news/483321"
+    },
+    {
+      "rank": 5,
+      "title": "LG엔솔, 3분기 매출 첫 9조 돌파…보조금 빼고도 흑자 전환",
+      "summary": "북미 ESS 설비 전환 효과와 핵심 원료 공급망 선제 확보",
+      "article_count": 77,
+      "url": "https://newsboy.news/news/483322"
+    },
+    {
+      "rank": 6,
+      "title": "투기 아닌 농지는 처분 안 한다…정부, 상속·고령농 임대 처분 제외",
+      "summary": "특별조치법 연내 처리와 2~3년 양성화 특례를 통한 구제 방안",
+      "article_count": 73,
+      "url": "https://newsboy.news/news/483323"
+    },
+    {
+      "rank": 7,
+      "title": "한글날 연휴 낮엔 포근하지만 일교차 15도…주말 남부·제주 비",
+      "summary": "내륙 짙은 안개와 산지 서리 주의 속 주말 최대 20mm 강수 전망",
+      "article_count": 64,
+      "url": "https://newsboy.news/news/483324"
+    },
+    {
+      "rank": 8,
+      "title": "영화 '암살자(들)' 역사 왜곡 공방 확산에 국감 설전부터 해외 영화제 외압 논란까지",
+      "summary": "개막작 상영 철회 요구와 배우 신변 위협에 맞선 영화계의 정쟁 도구화 중단 촉구",
+      "article_count": 58,
+      "url": "https://newsboy.news/news/483325"
+    },
+    {
+      "rank": 9,
+      "title": "美 국채금리 24년 만에 최고치…주담대 7% 돌파에 연준 긴축 딜레마",
+      "summary": "가계·기업 차입 부담 가중과 연내 추가 금리 인상 저울질",
+      "article_count": 39,
+      "url": "https://newsboy.news/news/483326"
+    },
+    {
+      "rank": 10,
+      "title": "‘계곡 살인’ 이은해도 적발된 구치소 ‘우표 도박’…도박판 칩으로 악용",
+      "summary": "외부 수발 업체 통한 불법 현금화와 최근 4년간 징벌 수용자 1025명 적발",
+      "article_count": 35,
+      "url": "https://newsboy.news/news/483327"
+    }
+  ]
+}
