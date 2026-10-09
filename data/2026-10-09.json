@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-09",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-09T22:05:25+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "18년 만의 우크라 대사 소환에 野 감사 서한… 여야 외교 충돌",
+      "summary": "포로 추가 송환 차질 우려와 외교 주권 훼손 논란 대립",
+      "article_count": 136,
+      "url": "https://newsboy.news/news/483655"
+    },
+    {
+      "rank": 2,
+      "title": "정청래 의원 미국 비자 발급 지연…외통위 국감지 미주서 유럽으로 변경",
+      "summary": "정당한 의정활동 제약 반발과 대미 외교 실패 공방",
+      "article_count": 124,
+      "url": "https://newsboy.news/news/483656"
+    },
+    {
+      "rank": 3,
+      "title": "쿠팡 계열사 한밤중 동시다발 먹통… 주문·배송 줄줄이 차질",
+      "summary": "피해 고객 쿠팡캐시 지급과 라이더·점주 보상안 마련",
+      "article_count": 85,
+      "url": "https://newsboy.news/news/483657"
+    },
+    {
+      "rank": 4,
+      "title": "이재명 대통령, \"능력 안 되며 큰 자리 요구\" 여권 강경파 작심 비판",
+      "summary": "중수청장 인선 갈등 속 사적 이해관계 경고와 야당의 반발",
+      "article_count": 83,
+      "url": "https://newsboy.news/news/483658"
+    },
+    {
+      "rank": 5,
+      "title": "\"건설비 아낄 생각 없다\"…광주 찾은 최태원, 반도체 팹 조기 착공 선언",
+      "summary": "용인 산단과의 병행 건설 추진 및 탄약고 부지 우선 개발",
+      "article_count": 82,
+      "url": "https://newsboy.news/news/483659"
+    },
+    {
+      "rank": 6,
+      "title": "앤 카슨 2026 노벨문학상 수상…국내 서점가 도서 판매 100배 이상 폭증",
+      "summary": "대표작 품절 사태와 출판계의 연휴 직후 긴급 재인쇄 착수",
+      "article_count": 68,
+      "url": "https://newsboy.news/news/483660"
+    },
+    {
+      "rank": 7,
+      "title": "2026년 노벨평화상에 ‘국제법 수호자’ 나비 필라이 선정",
+      "summary": "국제 사법기관 향한 정치적 압박 속 법치주의 강조",
+      "article_count": 51,
+      "url": "https://newsboy.news/news/483661"
+    },
+    {
+      "rank": 8,
+      "title": "나주 60대 부부 결박해 살해하고 600만원 인출한 50대 구속",
+      "summary": "사전 답사와 금품 인출 정황 규명 및 계획범죄 집중 수사",
+      "article_count": 47,
+      "url": "https://newsboy.news/news/483662"
+    },
+    {
+      "rank": 9,
+      "title": "연휴 둘째 날 일교차 15도 안팎…남부·제주 가을비",
+      "summary": "중부 내륙 대기 건조 및 산불 등 화재 주의 당부",
+      "article_count": 38,
+      "url": "https://newsboy.news/news/483663"
+    },
+    {
+      "rank": 10,
+      "title": "택시기사 살해 후 목격자까지 차로 친 20대, 징역 35년 확정",
+      "summary": "조현병 심신미약 주장 배척과 대법원의 중형 확정 판결",
+      "article_count": 30,
+      "url": "https://newsboy.news/news/483664"
+    }
+  ]
+}
