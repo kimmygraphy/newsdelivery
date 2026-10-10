@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-10",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-10T22:05:17+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "대구 상가 2층 천장 마감재 와르르…행사 참가 노인 등 수십 명 부상",
+      "summary": "정부의 인명구조 총력 지시와 경찰 전담수사팀의 원인 규명 착수",
+      "article_count": 123,
+      "url": "https://newsboy.news/news/483898"
+    },
+    {
+      "rank": 2,
+      "title": "북한군 포로 송환 공개 여파 속 주우크라 대사 귀국… 나경원 감사 서한에 여야 격돌",
+      "summary": "18년 만의 주재국 대사 본국 소환과 매국·친북 굴종 공방",
+      "article_count": 109,
+      "url": "https://newsboy.news/news/483899"
+    },
+    {
+      "rank": 3,
+      "title": "\"남북한 전쟁 막았는데\" 트럼프 노벨상 불발 반발…미, ICC 기관 전면 제재",
+      "summary": "재판소 자산 전면 동결과 6개월 내 거래 중단 통보에 대한 국제사회의 반발",
+      "article_count": 73,
+      "url": "https://newsboy.news/news/483900"
+    },
+    {
+      "rank": 4,
+      "title": "트럼프, 푸틴과 러시아산 경유 공급 합의…대러 제재 한시 완화",
+      "summary": "우크라이나의 거센 반발과 실효성 논란 속 선거용 유가 대책",
+      "article_count": 72,
+      "url": "https://newsboy.news/news/483901"
+    },
+    {
+      "rank": 5,
+      "title": "한글날 연휴 낮 최고 28도 늦더위… 내륙 일교차 15도 안팎 주의",
+      "summary": "남부·제주 비와 내륙 소나기 및 대조기 침수 유의",
+      "article_count": 58,
+      "url": "https://newsboy.news/news/483902"
+    },
+    {
+      "rank": 6,
+      "title": "\"딸 수사 덮었나\" 민주당 총공세에… 한동훈 \"망상이자 마타도어\" 반박",
+      "summary": "검찰의 미국 사법공조 반려 경위와 수사 외압 의혹을 둘러싼 정면충돌",
+      "article_count": 50,
+      "url": "https://newsboy.news/news/483903"
+    },
+    {
+      "rank": 7,
+      "title": "스포츠 선수 개인 최초…'e스포츠 전설' 페이커 기념우표 23일 발행",
+      "summary": "우표박물관 기획전시관 개관과 총 14만 장 공식 판매 일정",
+      "article_count": 33,
+      "url": "https://newsboy.news/news/483904"
+    },
+    {
+      "rank": 8,
+      "title": "트럼프, 새 백악관 대변인에 '충성파 보수 평론가' 케이티 자카리아 발탁",
+      "summary": "레빗 전 대변인 사임 이후 공석 채운 충성파 인선과 향후 소통 방향",
+      "article_count": 30,
+      "url": "https://newsboy.news/news/483905"
+    },
+    {
+      "rank": 9,
+      "title": "서울 대학서 지인 찌르고 영국 도주한 30대 남성, 9일 만에 현지 검거",
+      "summary": "인터폴 적색수배와 국제 공조 수사를 통한 범죄인 인도 및 신속 송환 추진",
+      "article_count": 29,
+      "url": "https://newsboy.news/news/483906"
+    },
+    {
+      "rank": 10,
+      "title": "한국 금융권 해킹에 쓰인 중국산 AI 도구 '아르텍스' 공개 개발 중단",
+      "summary": "기배포 사본 회수 불가에 따른 추가 사이버 공격 우려",
+      "article_count": 20,
+      "url": "https://newsboy.news/news/483907"
+    }
+  ]
+}
