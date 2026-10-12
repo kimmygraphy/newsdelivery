@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-12",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-12T22:05:22+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "경찰청 국감서 '한동훈 딸 부실 수사' 공방…경찰 \"재수사 검토\"",
+      "summary": "김재섭 16시간 소환 편파 논란과 22개월 청장 공백 사태",
+      "article_count": 704,
+      "url": "https://newsboy.news/news/485355"
+    },
+    {
+      "rank": 2,
+      "title": "삼성전자 역대 최대 실적에도 외국인 매도 폭탄…코스피 6300선 후퇴",
+      "summary": "외국인 지분율 18년여 만에 최저치 하락과 반도체 대형주 동반 급락",
+      "article_count": 203,
+      "url": "https://newsboy.news/news/485356"
+    },
+    {
+      "rank": 3,
+      "title": "쿠팡의 공정위 현장조사 거부에 여야 한목소리 질타… 공정위 \"제재 강화\"",
+      "summary": "유통 플랫폼 불공정 거래 점검과 과징금 적정성 공방",
+      "article_count": 155,
+      "url": "https://newsboy.news/news/485357"
+    },
+    {
+      "rank": 4,
+      "title": "신현송 한은 총재 \"선제적 금리 인상으로 시간 벌고 환율 안정\"",
+      "summary": "정부 확장재정과의 정책 엇박자 공방과 레버리지 ETF 경고 미흡 사과",
+      "article_count": 138,
+      "url": "https://newsboy.news/news/485358"
+    },
+    {
+      "rank": 5,
+      "title": "장모 살해하고 아내 납치한 20대 남성 구속영장 신청",
+      "summary": "접근금지 공백과 압수수색 불발 속 사전 대응 부실 논란",
+      "article_count": 124,
+      "url": "https://newsboy.news/news/485359"
+    },
+    {
+      "rank": 6,
+      "title": "서울 30.1도·대전 31.5도 10월 역대 최고…전국 곳곳 이례적 늦더위",
+      "summary": "전국 비 온 뒤 찬 공기 남하에 따른 아침 기온 급강하와 건강 관리 당부",
+      "article_count": 107,
+      "url": "https://newsboy.news/news/485360"
+    },
+    {
+      "rank": 7,
+      "title": "북한, 평양서 동해로 탄도미사일 발사…900㎞ 이상 비행",
+      "summary": "안보실 긴급회의 소집과 한·미·일의 엄중 경고",
+      "article_count": 95,
+      "url": "https://newsboy.news/news/485361"
+    },
+    {
+      "rank": 8,
+      "title": "트럼프 '러·우 에너지 휴전' 일방 선언… 러 공습 지속에 젤렌스키 \"금시초문\"",
+      "summary": "미국의 무기 공급 중단 압박과 젤렌스키의 '60일 전면 휴전' 대선 역제안",
+      "article_count": 89,
+      "url": "https://newsboy.news/news/485362"
+    },
+    {
+      "rank": 9,
+      "title": "후티 반군, 사우디 수도 공항 연이틀 타격…미국인 등 사상자 속출",
+      "summary": "공항 전면 폐쇄와 요격망 고갈 위기 속 사우디·이란 긴장 완화 접촉",
+      "article_count": 81,
+      "url": "https://newsboy.news/news/485363"
+    },
+    {
+      "rank": 10,
+      "title": "비타민 속여 '납 배출 주사' 투약한 배터리 제조사…이 대통령, 엄중 대처 지시",
+      "summary": "고용부의 산안법 위반 적발·업무방해 수사 의뢰와 전·현직 전수 역학조사",
+      "article_count": 60,
+      "url": "https://newsboy.news/news/485364"
+    }
+  ]
+}
