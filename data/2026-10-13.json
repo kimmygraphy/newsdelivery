@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-13",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-13T22:05:28+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "中 CXMT 추격과 AI 자금 불안에 반도체주 폭락… 코스피 6000선 붕괴",
+      "summary": "유가증권시장 매도 사이드카 발동과 수급 공백 속 커진 충격",
+      "article_count": 619,
+      "url": "https://newsboy.news/news/486466"
+    },
+    {
+      "rank": 2,
+      "title": "경기도 국감 검증대 선 추미애…재정 비상선언·중앙정치 난타전",
+      "summary": "정부 기준 미달 공세 맞선 채무 급증 반박과 중수청장 청문회 출석 시사",
+      "article_count": 581,
+      "url": "https://newsboy.news/news/486467"
+    },
+    {
+      "rank": 3,
+      "title": "이재명 대통령, 굴종·사대 외교 지양 선언…\"실용적 국익 외교\" 천명",
+      "summary": "대미 투자 줄다리기 성과 격려와 정보 협력 이견 관리",
+      "article_count": 303,
+      "url": "https://newsboy.news/news/486468"
+    },
+    {
+      "rank": 4,
+      "title": "수도권 중앙행정기관 44곳 세종 이전…공무원 1만 명 대이동",
+      "summary": "2027년 임차 이전부터 2031년 신청사 신축까지 3조 원대 단계적 추진 계획",
+      "article_count": 190,
+      "url": "https://newsboy.news/news/486469"
+    },
+    {
+      "rank": 5,
+      "title": "인천 상업시설서 전자발찌 찬 50대 흉기 난동… 8명 사상",
+      "summary": "살인미수 전과자의 재범과 다중밀집지 치안 강화 조치",
+      "article_count": 161,
+      "url": "https://newsboy.news/news/486470"
+    },
+    {
+      "rank": 6,
+      "title": "장모 살해하고 아내 납치한 20대 구속…법원 \"도망·증거인멸 염려\"",
+      "summary": "보복·계획 범죄 집중 수사와 피해자 보호 공백 논란",
+      "article_count": 140,
+      "url": "https://newsboy.news/news/486471"
+    },
+    {
+      "rank": 7,
+      "title": "카톡 화면 어디서나 부르는 AI 비서…카카오, '카나나 스페이스' 전격 공개",
+      "summary": "맞춤형 에이전트 제작 도구 '칸바스' 도입과 온디바이스 연산 최적화 전략",
+      "article_count": 102,
+      "url": "https://newsboy.news/news/486472"
+    },
+    {
+      "rank": 8,
+      "title": "파리모터쇼 달군 생존 경쟁… 중국 공세에 맞선 글로벌 완성차의 전동화 반격",
+      "summary": "1만5000유로대 초저가 전기차와 부품 80% 공유를 앞세운 원가 혁신 경쟁",
+      "article_count": 86,
+      "url": "https://newsboy.news/news/486473"
+    },
+    {
+      "rank": 9,
+      "title": "임광현 국세청장 \"하명 세무조사 외압 없어\"…가상자산 과세 11월 고시",
+      "summary": "대통령 아파트 매도 비과세 판단과 가상자산 과세 기준 보고 요구",
+      "article_count": 83,
+      "url": "https://newsboy.news/news/486474"
+    },
+    {
+      "rank": 10,
+      "title": "가을비 그친 뒤 찬 바람 분다…14일 아침 기온 최대 10도 '뚝'",
+      "summary": "강풍과 최고 3.5m 물결에 따른 안전사고 주의 당부",
+      "article_count": 80,
+      "url": "https://newsboy.news/news/486475"
+    }
+  ]
+}
