@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-14",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-14T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "김지용 중수청장 청문회서 민주당 격돌…\"반윤 소신파\" 대 \"정치검사 공범\"",
+      "summary": "과거 기소 결재 논란 속 유죄까지 책임지는 책임수사제 도입 천명",
+      "article_count": 577,
+      "url": "https://newsboy.news/news/487601"
+    },
+    {
+      "rank": 2,
+      "title": "중국 CXMT 차세대 D램 추격에 삼성전자도 '4F²' 기술 개발 공식 확인",
+      "summary": "차세대 메모리 집적도 경쟁 격화와 한중 3년 기술 격차 평가",
+      "article_count": 453,
+      "url": "https://newsboy.news/news/487602"
+    },
+    {
+      "rank": 3,
+      "title": "\"약한 사람 골라 범행\" 인천 상가 흉기 난동…피해자 10명 발생",
+      "summary": "사전 흉기 입건과 전자발찌에도 뚫린 고위험군 관리망",
+      "article_count": 189,
+      "url": "https://newsboy.news/news/487603"
+    },
+    {
+      "rank": 4,
+      "title": "현대차그룹, 인도에 7년간 155억 달러 투자… 모디 총리 면담서 중장기 구상 발표",
+      "summary": "연 140만 대 생산 체제 확보와 신흥국 수출 허브 도약",
+      "article_count": 100,
+      "url": "https://newsboy.news/news/487604"
+    },
+    {
+      "rank": 5,
+      "title": "금융권 해킹 침해 16곳으로 확산… 개인정보 10만 건 유출 확인",
+      "summary": "긴급점검서 130곳 보안 미흡 적발 및 CEO 책임 강화 추진",
+      "article_count": 82,
+      "url": "https://newsboy.news/news/487605"
+    },
+    {
+      "rank": 6,
+      "title": "'1억 공천헌금' 강선우 의원 1심 징역 2년 6개월…보석 취소 법정구속",
+      "summary": "공천 대가 뒷돈 수수 유죄 인정과 선거 공정성 훼손에 따른 중형 선고",
+      "article_count": 78,
+      "url": "https://newsboy.news/news/487606"
+    },
+    {
+      "rank": 7,
+      "title": "LG전자, 애플과 AI홈 맞손…데이터센터 액침냉각 동맹도 구축",
+      "summary": "IoT 기기 7종 연내 출시와 데이터센터 통합 표준설계 개발 착수",
+      "article_count": 76,
+      "url": "https://newsboy.news/news/487607"
+    },
+    {
+      "rank": 8,
+      "title": "울산 온산공단 화학공장 폭발 화재 4시간 만에 완진",
+      "summary": "국가소방동원령 발령과 인근 근로자 7000명 긴급 대피",
+      "article_count": 74,
+      "url": "https://newsboy.news/news/487608"
+    },
+    {
+      "rank": 9,
+      "title": "\"韓, 알래스카 500억弗 약속\"…美, 대규모 투자 기정사실화하며 압박",
+      "summary": "정부의 상업성 검토 선행 방침과 미 중간선거용 압박 논란",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/487609"
+    },
+    {
+      "rank": 10,
+      "title": "\"어제보다 10도 뚝\" 전국 출근길 기온 급락…강풍 동반 가을 추위",
+      "summary": "강원 산지 얼음 관측과 농작물 냉해 주의 속 15일 낮 평년 회복 전망",
+      "article_count": 65,
+      "url": "https://newsboy.news/news/487610"
+    }
+  ]
+}
