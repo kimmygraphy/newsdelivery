@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-15",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-15T22:05:20+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "신임 대통령비서실장에 임광현 발탁…野 \"세무 관료 기용 납득 불가\"",
+      "summary": "당정청 안정 적임자 평가와 대장동 변호인 처남 보은 인사 의혹 공방",
+      "article_count": 651,
+      "url": "https://newsboy.news/news/488698"
+    },
+    {
+      "rank": 2,
+      "title": "증시 또 '검은 목요일'…코스피·코스닥 7% 넘게 폭락",
+      "summary": "34조 원대 빚투 반대매매 공포와 금융당국의 긴급 점검",
+      "article_count": 505,
+      "url": "https://newsboy.news/news/488699"
+    },
+    {
+      "rank": 3,
+      "title": "인천 대형 상가 흉기 난동 59세 피의자 구속영장 신청",
+      "summary": "전자발찌 착용자의 무차별 범행과 사전 관리 부실 논란",
+      "article_count": 159,
+      "url": "https://newsboy.news/news/488700"
+    },
+    {
+      "rank": 4,
+      "title": "주한미군사령관 \"전작권 새 기준 생겨\"…국방부 \"골대 옮기면 영원히 불가능\"",
+      "summary": "연내 목표연도 설정 추진 속 SCM 연기 가능성과 이견 조율 난항",
+      "article_count": 91,
+      "url": "https://newsboy.news/news/488701"
+    },
+    {
+      "rank": 5,
+      "title": "이재명 대통령 \"강력범죄에 전쟁 선포\"…범정부 합동기구 등 특단 대책 지시",
+      "summary": "청와대 범부처 긴급회의 소집과 가해자 제재 중심 대책 추진",
+      "article_count": 89,
+      "url": "https://newsboy.news/news/488702"
+    },
+    {
+      "rank": 6,
+      "title": "주말까지 낮 최고 26도 포근한 가을…일교차 15도 안팎 주의",
+      "summary": "18일 전국 가을비 예보와 다음 주 초 기온 급락 전망",
+      "article_count": 65,
+      "url": "https://newsboy.news/news/488703"
+    },
+    {
+      "rank": 7,
+      "title": "선관위 특검, '투표자 수 허위 입력' 확인… 중앙선관위 등 7곳 압수수색",
+      "summary": "전국 30개 선관위 통계 조작 정황과 조직적 개입 규명",
+      "article_count": 63,
+      "url": "https://newsboy.news/news/488704"
+    },
+    {
+      "rank": 8,
+      "title": "스타링크 옥죄고 군사정보 끊은 미국…우크라 '러 정유시설 공습 계속' 맞불",
+      "summary": "유가 안정을 노린 통신·정보 차단 의혹과 스타실드 통제권 논란",
+      "article_count": 61,
+      "url": "https://newsboy.news/news/488705"
+    },
+    {
+      "rank": 9,
+      "title": "완공 12년 만에 열린 신압록강대교…북중 경제 밀착 가속화",
+      "summary": "정상회담 합의 첫 가시적 이행과 핵심 물류망 대체",
+      "article_count": 60,
+      "url": "https://newsboy.news/news/488706"
+    },
+    {
+      "rank": 10,
+      "title": "서울 아파트값 88주 연속 상승…강남 내리고 외곽·경기 급등",
+      "summary": "대출·세제 규제 속 강남권 연속 하락과 전월세 상승발 실수요 이동",
+      "article_count": 60,
+      "url": "https://newsboy.news/news/488707"
+    }
+  ]
+}
