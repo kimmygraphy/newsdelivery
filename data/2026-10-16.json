@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-16",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-16T22:05:18+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "코스피 5500선 급락에 국힘 \"무리한 부양 청구서\"⋯국조·특검 검토",
+      "summary": "국민연금 주식 매도 유예 논란과 정부 개입 의혹 규명 요구",
+      "article_count": 536,
+      "url": "https://newsboy.news/news/489592"
+    },
+    {
+      "rank": 2,
+      "title": "부천 공장 화재로 소방관 등 7명 부상…동료 구하려던 대원 1명 심정지",
+      "summary": "위험물 폭발 위기 속 진압과 정부·지자체 긴급 지원",
+      "article_count": 273,
+      "url": "https://newsboy.news/news/489593"
+    },
+    {
+      "rank": 3,
+      "title": "김지용 초대 중수청장 첫 출근… \"조직 조기 안착\" 전담팀 지시",
+      "summary": "인력 공백과 전산망 미비 속 수사력 입증 및 내부 감찰 과제",
+      "article_count": 120,
+      "url": "https://newsboy.news/news/489594"
+    },
+    {
+      "rank": 4,
+      "title": "인천 대형상가 흉기 난동범 59세 최충락 구속…얼굴·이름 전격 공개",
+      "summary": "치료 갈등 불만 표출 진술과 살인미수 전과 10범 이력의 충격",
+      "article_count": 102,
+      "url": "https://newsboy.news/news/489595"
+    },
+    {
+      "rank": 5,
+      "title": "젤렌스키, 트럼프 압박에도 러 정유시설 공습 재개…미·우크라 갈등 격화",
+      "summary": "패트리엇 고갈 속 스타실드 제한 의혹과 미 의회 진상조사 요구",
+      "article_count": 75,
+      "url": "https://newsboy.news/news/489596"
+    },
+    {
+      "rank": 6,
+      "title": "이 대통령 지지율 39% 반등에도 차기 총선 ‘정부 견제론’ 47%",
+      "summary": "여당 지지도 우세 속 무당층 견제 심리 확산과 부동산 정책 불만",
+      "article_count": 73,
+      "url": "https://newsboy.news/news/489597"
+    },
+    {
+      "rank": 7,
+      "title": "제조업 취업자 27개월 만에 반등… 청년·내수 고용 한파는 지속",
+      "summary": "고용 부진 업종 대응과 일자리 창출을 위한 국민일자리 프로젝트 추진",
+      "article_count": 71,
+      "url": "https://newsboy.news/news/489598"
+    },
+    {
+      "rank": 8,
+      "title": "한동훈 '딸 스펙·수사 무마' 의혹 고발 배당…조국 특검 요구에 법적 대응 예고",
+      "summary": "수사기관 재수사 착수 여부와 '2만 시간 봉사' 진실 공방",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/489599"
+    },
+    {
+      "rank": 9,
+      "title": "\"부마항쟁·5·18 정신 헌법에 담아야\"…이재명 대통령, 국회 개헌 논의 촉구",
+      "summary": "피해자 명예 회복 약속과 여야 합의 개헌 추진 요구",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/489600"
+    },
+    {
+      "rank": 10,
+      "title": "수도권 주택 착공 연간 목표의 37%에 그쳐…정부, 연말까지 23만 가구 착공 추진",
+      "summary": "수도권 공적주택 10만 가구 입주 추진과 전월세 시장 안정 대책",
+      "article_count": 68,
+      "url": "https://newsboy.news/news/489601"
+    }
+  ]
+}
