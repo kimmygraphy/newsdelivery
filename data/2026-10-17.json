@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-17",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-17T22:05:19+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "부천 공장 화재로 소방관 순직, '재정 빨대' 발언 속 정치권 조문과 처우 개선 약속",
+      "summary": "순직 소방관 경기도청장 엄수와 '소방 재정 빨대' 발언 공방",
+      "article_count": 480,
+      "url": "https://newsboy.news/news/489843"
+    },
+    {
+      "rank": 2,
+      "title": "다카이치 日 총리 야스쿠니에 공물 봉납…직접 참배는 보류",
+      "summary": "한국 정부의 깊은 실망 표명과 과거사 반성 촉구",
+      "article_count": 68,
+      "url": "https://newsboy.news/news/489844"
+    },
+    {
+      "rank": 3,
+      "title": "토요일 낮 최고 27도 포근…일요일 전국 최대 80㎜ 강한 비 뒤 기온 뚝",
+      "summary": "돌풍·벼락 동반 집중호우와 침수 우려 및 주 후반 찬 공기 남하",
+      "article_count": 57,
+      "url": "https://newsboy.news/news/489845"
+    },
+    {
+      "rank": 4,
+      "title": "인천 상업시설 흉기난동 최충락 자택 압수수색…계획범죄 규명 총력",
+      "summary": "병원 불만 품은 전자발찌 착용자의 난동과 사전 범행 증거물 확보",
+      "article_count": 51,
+      "url": "https://newsboy.news/news/489846"
+    },
+    {
+      "rank": 5,
+      "title": "‘변호사 사칭 논란’ 백악관 새 대변인, 취임 나흘 만에 전격 경질",
+      "summary": "허위 경력 의혹과 14분 첫 브리핑 자질 논란 끝에 남긴 역대 최단명 불명예",
+      "article_count": 48,
+      "url": "https://newsboy.news/news/489847"
+    },
+    {
+      "rank": 6,
+      "title": "코스피 7거래일 급락에 '빚투' 반대매매 3000억 육박",
+      "summary": "예탁금 감소와 자사주 방어벽 약화 속 증시 수급 불균형 심화",
+      "article_count": 32,
+      "url": "https://newsboy.news/news/489848"
+    },
+    {
+      "rank": 7,
+      "title": "민주당 \"조희대 끝까지 책임 추궁\" vs 국민의힘 \"정권 몰락 신호탄\"",
+      "summary": "사법부 수장 탄핵 공식화와 사법권 무력화 논란을 둘러싼 여야 공방",
+      "article_count": 28,
+      "url": "https://newsboy.news/news/489849"
+    },
+    {
+      "rank": 8,
+      "title": "북한, 신형 초고속 정밀유도 'AI 어뢰' 수중 실탄 시험발사",
+      "summary": "전담 연구기관 첫 공개와 세부 제원 비공개 속 대외 무력 과시",
+      "article_count": 27,
+      "url": "https://newsboy.news/news/489850"
+    },
+    {
+      "rank": 9,
+      "title": "트럼프 \"현대, 조지아주에 7천486억 투자 방금 발표\"",
+      "summary": "하이브리드 파워트레인 설비 증설과 320개 일자리 창출 계획",
+      "article_count": 26,
+      "url": "https://newsboy.news/news/489851"
+    },
+    {
+      "rank": 10,
+      "title": "\"남편과 불륜 의심\" 80대 친언니 폭행한 70대 동생 집행유예",
+      "summary": "전치 12주 중상 입혔으나 우발적 범행과 초범 참작",
+      "article_count": 23,
+      "url": "https://newsboy.news/news/489852"
+    }
+  ]
+}
