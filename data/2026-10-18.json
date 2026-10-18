@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-18",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-18T22:05:19+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "민주당, 조희대 대법원장 탄핵 논의 착수…지지층 결집 카드 부상",
+      "summary": "지지율 하락 만회 노림수 논란과 사법부 볼모화 공방",
+      "article_count": 385,
+      "url": "https://newsboy.news/news/490238"
+    },
+    {
+      "rank": 2,
+      "title": "거센 가을 폭우에 전국 도심 침수와 항공기 결항 등 피해 속출",
+      "summary": "서울 하천 29곳 통제와 배수구 낙엽 막힘 우려에 따른 방재 비상",
+      "article_count": 151,
+      "url": "https://newsboy.news/news/490239"
+    },
+    {
+      "rank": 3,
+      "title": "삼성전자·SK하이닉스 폭락에 코스피 흔들…국민연금 평가액 182조 증발",
+      "summary": "반도체발 충격에 소부장 연쇄 급락과 국민연금 리밸런싱 유예 논란",
+      "article_count": 105,
+      "url": "https://newsboy.news/news/490240"
+    },
+    {
+      "rank": 4,
+      "title": "가수 공연 끊고 무대 오른 김민석 민주당 대표, 순창 축제 '과잉 의전' 논란",
+      "summary": "국민의힘의 '갑질 난입' 공세와 김 대표·축제 주최 측의 공식 사과",
+      "article_count": 88,
+      "url": "https://newsboy.news/news/490241"
+    },
+    {
+      "rank": 5,
+      "title": "韓 잠재성장률 40년 만에 반등 전망, IMF·신평사 \"재정·정책 안정적\"",
+      "summary": "국제사회의 정책조합 긍정 평가와 반도체 쏠림 리스크 경고",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/490242"
+    },
+    {
+      "rank": 6,
+      "title": "트럼프, 대러 제재법 전격 유예…추가 완화 시사 속 \"세계에 이로운 결정\"",
+      "summary": "유가 안정 포석과 우크라이나·미 의회의 '푸틴 굴복' 비판",
+      "article_count": 50,
+      "url": "https://newsboy.news/news/490243"
+    },
+    {
+      "rank": 7,
+      "title": "이재명 대통령 \"'국무회의 공개라 말 못 한다'는 거짓말…생중계 유지\"",
+      "summary": "비공개 요구 거듭 반박과 토론·레드팀 역할 강조",
+      "article_count": 48,
+      "url": "https://newsboy.news/news/490244"
+    },
+    {
+      "rank": 8,
+      "title": "프랑스 전역 고물가 항의 시위 격화… 방화·약탈 등 폭력 사태 비화",
+      "summary": "공공시설 파손과 대규모 연행 속 정부 엄정 대응 및 대선 정국 공방",
+      "article_count": 47,
+      "url": "https://newsboy.news/news/490245"
+    },
+    {
+      "rank": 9,
+      "title": "최태원 \"20대 돌아가면 무조건 창업\"…EBS서 AI 시대 해법 제시",
+      "summary": "문제 해결 중심 교육 혁신과 한일경제연대 등 국가 성장 전략",
+      "article_count": 40,
+      "url": "https://newsboy.news/news/490246"
+    },
+    {
+      "rank": 10,
+      "title": "부산 북항 수로 머무는 흑상어 '부캉이' 지느러미 손상… \"건강 이상 없어\"",
+      "summary": "두 차례 구조 실패 속 수온 하락 기다리는 당국과 160만 관람객",
+      "article_count": 39,
+      "url": "https://newsboy.news/news/490247"
+    }
+  ]
+}
