@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-19",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-19T22:05:20+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "추미애 이어 부승찬도 '소방 빨대' 발언…국감 파행에 與 직권조사",
+      "summary": "순직 소방관 영결식 날 터진 재정 막말 파문과 여야 충돌",
+      "article_count": 527,
+      "url": "https://newsboy.news/news/491203"
+    },
+    {
+      "rank": 2,
+      "title": "월가 삼킨 AI 수익성 회의론…글로벌 기술주·증시 다시 시험대로",
+      "summary": "데이터센터 부채 급증과 연쇄 투자 차질에 따른 신용위험",
+      "article_count": 291,
+      "url": "https://newsboy.news/news/491204"
+    },
+    {
+      "rank": 3,
+      "title": "\"상장 일정 맞추려 졸속 심사\"…금감원장, 레버리지 ETF 책임 인정",
+      "summary": "개인 손실 눈덩이에 쏟아진 사퇴 요구와 시중은행 해킹 질타",
+      "article_count": 258,
+      "url": "https://newsboy.news/news/491205"
+    },
+    {
+      "rank": 4,
+      "title": "검찰청 폐지 후 첫 국감…공소청장 \"권한 남용 사과\" 속 공소취소 공방",
+      "summary": "공판검사 1인당 1.4개 재판부 담당하는 인력난과 조사 부실 논란",
+      "article_count": 231,
+      "url": "https://newsboy.news/news/491206"
+    },
+    {
+      "rank": 5,
+      "title": "\"우크라 빼고 종전 논의\" 푸틴 3자 회담 제안…젤렌스키 \"美 항복 압박\"",
+      "summary": "대러 제재 유예와 에너지 휴전을 둘러싼 미·우크라이나 갈등 격화",
+      "article_count": 84,
+      "url": "https://newsboy.news/news/491207"
+    },
+    {
+      "rank": 6,
+      "title": "브런슨 주한미군사령관의 'DMZ 철책선' 발언 파장… 정부 우려에 美 \"공감\"",
+      "summary": "영토 주권 침해 논란에 대한 군 당국의 반박과 주한미군의 관리 책임 해명",
+      "article_count": 82,
+      "url": "https://newsboy.news/news/491208"
+    },
+    {
+      "rank": 7,
+      "title": "친일파 유묵 '셀프 전시' 논란…유홍준 국립중앙박물관장 국감서 사과",
+      "summary": "별도 감정 없는 졸속 출품과 소장 사실 은폐 의혹 속 거센 사퇴 촉구",
+      "article_count": 67,
+      "url": "https://newsboy.news/news/491209"
+    },
+    {
+      "rank": 8,
+      "title": "프랑스 생활비 항의 시위, 방화·약탈 폭동 번져… 마크롱 강경 대응",
+      "summary": "상점 1500곳 파손과 대규모 체포 속 집회 금지 권한 확대",
+      "article_count": 65,
+      "url": "https://newsboy.news/news/491210"
+    },
+    {
+      "rank": 9,
+      "title": "정부-세계은행 첫 글로벌 AI 서밋 서울 개최…AI 격차 해소·에너지 협력 맞손",
+      "summary": "개도국 디지털 격차 해소를 위한 글로벌 AI 허브 구축과 다자 협력 강화",
+      "article_count": 59,
+      "url": "https://newsboy.news/news/491211"
+    },
+    {
+      "rank": 10,
+      "title": "삼성물산, 2조 원대 여의도 시범아파트 재건축 시공권 확보",
+      "summary": "최고 59층 대단지 탈바꿈과 여의도 래미안 주거벨트 완성",
+      "article_count": 54,
+      "url": "https://newsboy.news/news/491212"
+    }
+  ]
+}
