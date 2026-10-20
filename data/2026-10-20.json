@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-20",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-20T22:05:22+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "민주당 소방 '재정 빨대·쭉쭉' 실언 일파만파…지도부 잇단 사과",
+      "summary": "직권조사 착수와 야당의 공세 속 소방 재정 제도 개선 약속",
+      "article_count": 235,
+      "url": "https://newsboy.news/news/492357"
+    },
+    {
+      "rank": 2,
+      "title": "강남 빌딩 2곳서 7분 간격 연쇄 방화… 19명 부상 속 70대 피의자 검거",
+      "summary": "4년 전 같은 곳 방화 시도 전력과 특허 갈등 주장 속 구속영장 신청 방침",
+      "article_count": 155,
+      "url": "https://newsboy.news/news/492358"
+    },
+    {
+      "rank": 3,
+      "title": "美 기술주 반등 무색한 코스피 3.7% 급락… 외인·기관 매도에 5550선 후퇴",
+      "summary": "반도체 대형주 동반 약세와 단일 레버리지 상품 급락 충격",
+      "article_count": 119,
+      "url": "https://newsboy.news/news/492359"
+    },
+    {
+      "rank": 4,
+      "title": "“성역 없이 수사하라”던 날 국무회의 첫 참석한 중수청장… 수사 독립성 논란",
+      "summary": "외청장 배석 정당성 강조한 청와대와 정치적 중립 훼손 우려의 충돌",
+      "article_count": 105,
+      "url": "https://newsboy.news/news/492360"
+    },
+    {
+      "rank": 5,
+      "title": "軍 \"北 추가 도발 시 단호 대응\"…DMZ 주도권 강화 작전 지시",
+      "summary": "대남 확성기 재개 위협에 맞선 비례적 대응과 감시 전력 최적화 방침",
+      "article_count": 92,
+      "url": "https://newsboy.news/news/492361"
+    },
+    {
+      "rank": 6,
+      "title": "인천 계양 찾은 이재명 대통령 \"2030년까지 신도시 공공 물량 90% 착공\"",
+      "summary": "인허가 단축과 원형지 분양 등 신속 공급을 위한 전방위 제도 개선 추진",
+      "article_count": 83,
+      "url": "https://newsboy.news/news/492362"
+    },
+    {
+      "rank": 7,
+      "title": "'장모 살해·아내 납치' 김성우 구속 송치…보복살인 혐의 적용",
+      "summary": "계획적 보복 범행 판단과 흥신소 개입 수사",
+      "article_count": 82,
+      "url": "https://newsboy.news/news/492363"
+    },
+    {
+      "rank": 8,
+      "title": "트럼프, 11월 김정은 만남엔 “잘 모르겠다”…북미회담 성사 불투명",
+      "summary": "미·중·러 3자 군비통제 회담 추진 및 우크라이나 대리 협상 촉구",
+      "article_count": 66,
+      "url": "https://newsboy.news/news/492364"
+    },
+    {
+      "rank": 9,
+      "title": "전국 가을비 그친 뒤 찬 바람 유입…낮부터 기온 급강하",
+      "summary": "22일 내륙 중심 영하권 추위 및 강풍·풍랑 주의보",
+      "article_count": 64,
+      "url": "https://newsboy.news/news/492365"
+    },
+    {
+      "rank": 10,
+      "title": "CJ 이어 신세계까지 가세…범삼성가, 중앙일보 인수 나선다",
+      "summary": "5000억원 규모 유상증자 참여와 3사 지분 분담 구상",
+      "article_count": 59,
+      "url": "https://newsboy.news/news/492366"
+    }
+  ]
+}
