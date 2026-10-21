@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-21",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-21T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "이재명 대통령 \"AI도 궤변이라 해\"…중수청장 국무회의 배석 반박에 여야 공방",
+      "summary": "수사 독립성 훼손 우려와 행정감독권 행사 주장의 충돌",
+      "article_count": 143,
+      "url": "https://newsboy.news/news/493482"
+    },
+    {
+      "rank": 2,
+      "title": "특검 피의자 조사받은 선관위 5급 직원 숨진 채 발견",
+      "summary": "강압 수사 여부를 둘러싼 선관위와 특검팀의 공식 공방",
+      "article_count": 110,
+      "url": "https://newsboy.news/news/493483"
+    },
+    {
+      "rank": 3,
+      "title": "전국 내륙 한파주의보 발효…22일 아침 기온 10도 안팎 '뚝'",
+      "summary": "강풍 동반 체감온도 급락과 농작물 냉해 및 결빙 대비",
+      "article_count": 100,
+      "url": "https://newsboy.news/news/493484"
+    },
+    {
+      "rank": 4,
+      "title": "'비상계엄 내란' 박성재 전 법무장관, 2심서 징역 9년…1심보다 16년 감형",
+      "summary": "7개 혐의 중 5개 무죄 판단과 사전 모의 불인정",
+      "article_count": 96,
+      "url": "https://newsboy.news/news/493485"
+    },
+    {
+      "rank": 5,
+      "title": "반도체 대형주 급반등에 코스피 5700선 회복…두 달 만에 '매수 사이드카'",
+      "summary": "미국 인공지능 호실적 훈풍과 외국인 대규모 순매수 전환",
+      "article_count": 94,
+      "url": "https://newsboy.news/news/493486"
+    },
+    {
+      "rank": 6,
+      "title": "‘소방 재정 빨대’ 설화 추미애·부승찬에 ‘경고’… 민주당 윤리감찰단 회부 안 해",
+      "summary": "가장 낮은 수위의 서면 징계 처분과 야당의 면죄부 비판",
+      "article_count": 94,
+      "url": "https://newsboy.news/news/493487"
+    },
+    {
+      "rank": 7,
+      "title": "\"겁주고 세상에 알리려\"…역삼동 특허법인 연쇄 방화범 구속영장",
+      "summary": "사전 계획 범행 시인과 4년 전 동일 전력 속 구속영장 신청",
+      "article_count": 91,
+      "url": "https://newsboy.news/news/493488"
+    },
+    {
+      "rank": 8,
+      "title": "'친일파 유묵 셀프 출품' 논란 유홍준 관장 사의…이재명 대통령 당일 재가",
+      "summary": "애국지사 오인 전시와 부실 검증 사태에 따른 취임 15개월 만의 불명예 퇴진",
+      "article_count": 89,
+      "url": "https://newsboy.news/news/493489"
+    },
+    {
+      "rank": 9,
+      "title": "김여정 “10월 중 전 국경선 대남 확성기 가동”…군사적 반격 위협",
+      "summary": "남부국경 요새화 현장 시찰과 화력부대 전진 배치",
+      "article_count": 64,
+      "url": "https://newsboy.news/news/493490"
+    },
+    {
+      "rank": 10,
+      "title": "스페이스X, AI 매출 급증 힘입어 3분기 흑자 전환 성공",
+      "summary": "스타링크 가입자 급증과 공격적인 AI 인프라 투자의 결실",
+      "article_count": 60,
+      "url": "https://newsboy.news/news/493491"
+    }
+  ]
+}
