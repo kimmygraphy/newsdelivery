@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-22",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-22T22:05:20+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "공소청·중수청장 국무회의 배석 논란…국감 공방 속 李 “지휘감독은 헌법상 권한”",
+      "summary": "독립성 침해 우려와 행정감독권 충돌",
+      "article_count": 247,
+      "url": "https://newsboy.news/news/494546"
+    },
+    {
+      "rank": 2,
+      "title": "웹 프로그래밍 언어 PHP서 치명적 보안 취약점 발견…국내외 긴급 대응 비상",
+      "summary": "국내 취약 서버 11만 건 추정과 민·관 긴급 패치 작업 착수",
+      "article_count": 213,
+      "url": "https://newsboy.news/news/494547"
+    },
+    {
+      "rank": 3,
+      "title": "北 김여정 “새 대응수단 대기”…수일 내 대남 확성기 재개 경고",
+      "summary": "우리 군의 비례적 맞대응 검토와 심리전 재개 우려",
+      "article_count": 185,
+      "url": "https://newsboy.news/news/494548"
+    },
+    {
+      "rank": 4,
+      "title": "한은, 기준금리 연 3%로 ‘숨고르기’ 동결…긴축 기조는 유지",
+      "summary": "성장·물가 상방 압력에 따른 11월 추가 인상 전망",
+      "article_count": 147,
+      "url": "https://newsboy.news/news/494549"
+    },
+    {
+      "rank": 5,
+      "title": "14일 AI 팩토리부터 로봇까지… 산업 현장 파고드는 피지컬 AI",
+      "summary": "빅테크와 부품·스타트업의 제조·로보틱스 현장 상용화 경쟁",
+      "article_count": 108,
+      "url": "https://newsboy.news/news/494550"
+    },
+    {
+      "rank": 6,
+      "title": "수로 밖 나갔다 5시간 만에 돌아온 상어 '부캉이', 강제 유도 종료",
+      "summary": "차단용 2중 그물벽 보강과 자연스러운 외해 적응 관찰로 대응 전환",
+      "article_count": 97,
+      "url": "https://newsboy.news/news/494551"
+    },
+    {
+      "rank": 7,
+      "title": "\"겁주려고 불질렀다\"…강남 빌딩 연쇄 방화 70대 구속",
+      "summary": "계획 범행 정황과 살인미수 혐의 적용 검토",
+      "article_count": 81,
+      "url": "https://newsboy.news/news/494552"
+    },
+    {
+      "rank": 8,
+      "title": "헌재, 이진숙 국감 제척 가처분 일부 인용…포괄적 배제에 제동",
+      "summary": "이해관계 4개 범주 발언 제한 유지와 여야의 이해충돌 맞불 공방",
+      "article_count": 73,
+      "url": "https://newsboy.news/news/494553"
+    },
+    {
+      "rank": 9,
+      "title": "법원, 고려아연 자사주 공개매수 인정…영풍 8000억 손배소 기각",
+      "summary": "경영판단 재량 인정한 법원 판결과 영풍·MBK의 즉각 항소 방침",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/494554"
+    },
+    {
+      "rank": 10,
+      "title": "방향 튼 슈퍼태풍 '참피' 북동진…주말 제주·남부 비바람 영향권",
+      "summary": "역대 가장 늦은 태풍 기록 전망과 남해상 특보 가능성",
+      "article_count": 67,
+      "url": "https://newsboy.news/news/494555"
+    }
+  ]
+}
