@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-23",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-23T22:05:20+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "오세훈 서울시장, '명태균 여론조사비 대납 의혹' 2심서 무죄로 뒤집혀",
+      "summary": "명태균 진술 신빙성 배척에 따른 시장직 유지와 특검 상고",
+      "article_count": 466,
+      "url": "https://newsboy.news/news/495411"
+    },
+    {
+      "rank": 2,
+      "title": "SK하이닉스, 美 손자회사 솔리다임 상장 검토 전격 철회",
+      "summary": "중복상장 논란 속 수십조 원 규모의 대체 투자 재원 마련 과제",
+      "article_count": 140,
+      "url": "https://newsboy.news/news/495412"
+    },
+    {
+      "rank": 3,
+      "title": "美 반도체 쇼크에 출렁인 코스피… 장중 급락 딛고 5550선 반등 마감",
+      "summary": "솔리다임 상장 철회 공시와 기관 9000억 순매수에 힘입은 낙폭 만회",
+      "article_count": 115,
+      "url": "https://newsboy.news/news/495413"
+    },
+    {
+      "rank": 4,
+      "title": "국방부, 北에 군사회담 공식 제안…접경지 우발 충돌 방지 촉구",
+      "summary": "유엔사 포함 3자 회담 검토와 표지판 유실에 따른 긴장 완화 대책",
+      "article_count": 111,
+      "url": "https://newsboy.news/news/495414"
+    },
+    {
+      "rank": 5,
+      "title": "태풍 '참피' 일본 틀어도 제주·남부에 최대 150㎜ 폭우와 강풍",
+      "summary": "남해상 최고 5m 파도와 교통 차질 우려 속 추위 풀려 평년 기온 회복",
+      "article_count": 99,
+      "url": "https://newsboy.news/news/495415"
+    },
+    {
+      "rank": 6,
+      "title": "정용진 신세계 회장, 이마트 대표 복귀…김홍극과 온·오프라인 각자대표 구축",
+      "summary": "경영전략실 쇄신과 40대 발탁을 통한 역대 최대 규모 세대교체",
+      "article_count": 92,
+      "url": "https://newsboy.news/news/495416"
+    },
+    {
+      "rank": 7,
+      "title": "인천 상업시설 흉기난동 피의자 최충락, 살인미수 혐의 구속 송치",
+      "summary": "꺼져 있던 보호관찰소 금속탐지기와 고위험군 관리 부실 논란",
+      "article_count": 72,
+      "url": "https://newsboy.news/news/495417"
+    },
+    {
+      "rank": 8,
+      "title": "AI가 찾아낸 치명적 보안 결함…전 세계 PHP 서버 권한 탈취 '비상'",
+      "summary": "해외의 선제적 오프라인 전환과 국내 11만 대 노출에 따른 범부처 대책 추진",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/495418"
+    },
+    {
+      "rank": 9,
+      "title": "강력범죄에 전쟁 선포한 이재명 대통령, 사전 예방 체제로 대전환 지시",
+      "summary": "가석방 없는 무기형 추진과 가해자 격리 등 범정부 종합 대책 마련",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/495419"
+    },
+    {
+      "rank": 10,
+      "title": "상어 '부캉이' 머무는 부산 북항에 기름 유출…상어는 4~5시간째 잠적",
+      "summary": "해경의 긴급 유입 차단 방제와 당국의 잠영 상태 주시",
+      "article_count": 57,
+      "url": "https://newsboy.news/news/495420"
+    }
+  ]
+}
