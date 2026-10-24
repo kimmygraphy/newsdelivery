@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-24",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-24T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "김정은, 신압록강대교 건너 전격 방중…리창 총리 단둥서 영접",
+      "summary": "건강이상설 불식과 참전기념일 계기 당일치기 밀착 행보",
+      "article_count": 167,
+      "url": "https://newsboy.news/news/495674"
+    },
+    {
+      "rank": 2,
+      "title": "태풍 '참피' 북상에 제주·남해안 최고 250㎜ 폭우…침수·강풍 비상",
+      "summary": "풍수해 위기경보 '주의' 상향과 항공기·여객선 결항 등 피해 속출",
+      "article_count": 111,
+      "url": "https://newsboy.news/news/495675"
+    },
+    {
+      "rank": 3,
+      "title": "오세훈 2심 무죄에 거세진 與 탄핵론…野 \"사법부 흔들기\"",
+      "summary": "조희대 대법원장 탄핵 및 특검 상고 여부를 둘러싼 여야 충돌",
+      "article_count": 58,
+      "url": "https://newsboy.news/news/495676"
+    },
+    {
+      "rank": 4,
+      "title": "2심 무죄로 기사회생한 오세훈, 국회 찾아 당 통합 촉구·여권 직격",
+      "summary": "사법 리스크 완화 속 보수 결집과 조희대 탄핵론 강력 비판",
+      "article_count": 53,
+      "url": "https://newsboy.news/news/495677"
+    },
+    {
+      "rank": 5,
+      "title": "북한 연계 의심 해커, 치명적 PHP 결함 악용해 정부·금융망 공격 모의",
+      "summary": "정부·금융망 위협에 사이버위기 주의 경보 발령과 긴급 패치 권고",
+      "article_count": 37,
+      "url": "https://newsboy.news/news/495678"
+    },
+    {
+      "rank": 6,
+      "title": "이틀간 자취 감췄던 흑상어 '부캉이', 부산항 앞바다서 건강하게 재발견",
+      "summary": "외상 없는 정상 유영 확인과 외해 진출을 위한 활동 반경 확장",
+      "article_count": 36,
+      "url": "https://newsboy.news/news/495679"
+    },
+    {
+      "rank": 7,
+      "title": "\"새엄마한테 나쁜 짓 했다\" 신고한 40대 딸…친모 살해 혐의 구속",
+      "summary": "도주 우려에 따른 영장 발부와 범행 동기 집중 수사",
+      "article_count": 29,
+      "url": "https://newsboy.news/news/495680"
+    },
+    {
+      "rank": 8,
+      "title": "예산 1억 전액 삭감에 축소된 경기 순직 소방관 추모식…추미애 \"처우 개선 약속\"",
+      "summary": "'재정 빨대' 논란 속 행사 축소와 순직자 예우 확대 촉구",
+      "article_count": 28,
+      "url": "https://newsboy.news/news/495681"
+    },
+    {
+      "rank": 9,
+      "title": "트럼프 \"이란 재타격할 수도\"…이란 \"보복에 레드라인 없다\" 맞불",
+      "summary": "국제유가 117달러 돌파와 8개국 외무장관의 긴급 확전 방지 회담",
+      "article_count": 28,
+      "url": "https://newsboy.news/news/495682"
+    },
+    {
+      "rank": 10,
+      "title": "트럼프 \"이란에 또 '장대한 분노' 작전 가능\"…다음 표적으로 쿠바 지목",
+      "summary": "중간선거 후 추가 공습 가능성과 군함 배치를 통한 대쿠바 압박 카드",
+      "article_count": 24,
+      "url": "https://newsboy.news/news/495683"
+    }
+  ]
+}
