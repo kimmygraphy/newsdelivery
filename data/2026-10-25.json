@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-25",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-25T22:05:19+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "김정은, 시진핑 없이 '당일치기' 단둥행…혈맹·경협 과시",
+      "summary": "신압록강대교 개통과 항미원조 76돌 계기 북중 밀착",
+      "article_count": 134,
+      "url": "https://newsboy.news/news/496066"
+    },
+    {
+      "rank": 2,
+      "title": "역대 가장 늦은 태풍 '참피' 북상… 제주 200㎜ 폭우에 하늘·뱃길 차질",
+      "summary": "항공편·여객선 무더기 결항과 대조기 해안 침수 비상",
+      "article_count": 102,
+      "url": "https://newsboy.news/news/496067"
+    },
+    {
+      "rank": 3,
+      "title": "두 달 공석 법무장관 후보, '檢 출신' 박균택·양부남 2인 압축",
+      "summary": "대통령 사법 리스크 대응 이력과 법무행정 중립성 논란",
+      "article_count": 84,
+      "url": "https://newsboy.news/news/496068"
+    },
+    {
+      "rank": 4,
+      "title": "오세훈 2심 무죄에 분출하는 ‘조희대 탄핵’…與 ‘선 국정조사’에 野 강력 반발",
+      "summary": "조국혁신당의 즉각 탄핵 압박과 국민의힘의 사법 보복 규정 대치",
+      "article_count": 74,
+      "url": "https://newsboy.news/news/496069"
+    },
+    {
+      "rank": 5,
+      "title": "프랑스 고물가 시위에 40만 명 결집…유럽 전역으로 항의 확산",
+      "summary": "장갑차 동원한 대대적 진압과 다음 달 추가 총파업 예고",
+      "article_count": 62,
+      "url": "https://newsboy.news/news/496070"
+    },
+    {
+      "rank": 6,
+      "title": "대전서 과거 스토킹 신고 여성 살해한 전 연인, 강릉 도주 끝 긴급체포",
+      "summary": "유심 제거 후 강릉 도주 행적과 과거 보호 조치 종결 경위 조사",
+      "article_count": 48,
+      "url": "https://newsboy.news/news/496071"
+    },
+    {
+      "rank": 7,
+      "title": "30년간 10조 원 팔린 햇반, 2028년 연매출 1.5조 원 브랜드로 키운다",
+      "summary": "영양 맞춤형 제품군 다변화와 글로벌 시장 비중 25% 확대 청사진",
+      "article_count": 37,
+      "url": "https://newsboy.news/news/496072"
+    },
+    {
+      "rank": 8,
+      "title": "음주측정 전 입 헹굼물 미제공…대법 \"위법수집증거라 유죄 못 써\"",
+      "summary": "법규명령 위반에 따른 증거능력 배제와 파기환송",
+      "article_count": 31,
+      "url": "https://newsboy.news/news/496073"
+    },
+    {
+      "rank": 9,
+      "title": "증시 급락에도 ETF 80조 원 쓸어담은 개미…반도체 레버리지 집중 베팅",
+      "summary": "단기 반등 기대 속 고위험 레버리지 쏠림과 음의 복리 손실 우려",
+      "article_count": 30,
+      "url": "https://newsboy.news/news/496074"
+    },
+    {
+      "rank": 10,
+      "title": "한국 2분기 경상흑자 1166억 달러…독일·일본 합계 첫 추월",
+      "summary": "반도체 호황에 힘입은 역대급 실적과 수출 편중 과제",
+      "article_count": 30,
+      "url": "https://newsboy.news/news/496075"
+    }
+  ]
+}
