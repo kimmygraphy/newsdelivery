@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-26",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-26T22:05:19+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "오세훈 2심 무죄에 사법부 압박하는 與… '조희대 탄핵' 둘러싼 여야 대치",
+      "summary": "특검 상고 포기 요구와 사법부 탄핵 공방 속 법사위 파행",
+      "article_count": 204,
+      "url": "https://newsboy.news/news/497130"
+    },
+    {
+      "rank": 2,
+      "title": "주진우 \"김혜경 황제 골프\" 의혹 제기에 靑 \"허위 사실\"…고발전 비화",
+      "summary": "국감 영상 상영 불허와 동반자 부인 속 여야 맞고발 대치",
+      "article_count": 147,
+      "url": "https://newsboy.news/news/497131"
+    },
+    {
+      "rank": 3,
+      "title": "행안위 국감, 중수청장 국무회의 배석 충돌…수사 수장들 \"한동훈 딸 의혹 진상규명\"",
+      "summary": "오세훈 한강버스 의혹과 추미애 관용차 논란을 둘러싼 여야 맞불 고발 공방",
+      "article_count": 91,
+      "url": "https://newsboy.news/news/497132"
+    },
+    {
+      "rank": 4,
+      "title": "BNK금융 3분기 누적 순익 19.2% 감소…은행 부진과 기저효과 영향",
+      "summary": "비은행 계열사 약진과 600억원 규모 추가 자사주 매입 결의",
+      "article_count": 81,
+      "url": "https://newsboy.news/news/497133"
+    },
+    {
+      "rank": 5,
+      "title": "룰라, 대선 결선 역전승으로 브라질 사상 첫 4선 달성",
+      "summary": "보우소나루 측의 선거 무효 요구와 중남미 우파 물결 제동",
+      "article_count": 77,
+      "url": "https://newsboy.news/news/497134"
+    },
+    {
+      "rank": 6,
+      "title": "태풍 '참피' 물러나자 찬바람…내일 밤부터 기온 뚝 떨어져 서울 2도",
+      "summary": "전국 강풍 특보 가능성과 대조기 해안가 저지대 침수 우려",
+      "article_count": 75,
+      "url": "https://newsboy.news/news/497135"
+    },
+    {
+      "rank": 7,
+      "title": "농어민 \"CPTPP 가입 철회하라\" 거센 반발… 李 \"국익상 불가피, 충분히 보전\"",
+      "summary": "수출부담금 도입 구상과 공익직불금 상향 등 피해 지원 대책 제시",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/497136"
+    },
+    {
+      "rank": 8,
+      "title": "중동 긴장과 외인 ‘팔자’에 코스피 5500선 붕괴…7개월 만에 최저",
+      "summary": "국제유가 급등과 주요 기업 실적 발표 앞둔 관망 심리",
+      "article_count": 67,
+      "url": "https://newsboy.news/news/497137"
+    },
+    {
+      "rank": 9,
+      "title": "FOMC·빅테크 실적 앞둔 증시…코스피 저평가 속 변동성 장세 예고",
+      "summary": "역사적 저평가 국면 속 연준 긴축 경로와 추가 주주환원책",
+      "article_count": 64,
+      "url": "https://newsboy.news/news/497138"
+    },
+    {
+      "rank": 10,
+      "title": "스토킹 신고했던 옛 연인 살해한 40대 구속영장…“우발적 범행” 주장",
+      "summary": "스마트워치 반납 1년 만의 비극과 경찰의 계획범죄 집중 수사",
+      "article_count": 46,
+      "url": "https://newsboy.news/news/497139"
+    }
+  ]
+}
