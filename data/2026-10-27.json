@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-27",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-27T22:05:24+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "더불어민주당, 조희대 대법원장 국정조사 추진…11월 5일 본회의 처리 목표",
+      "summary": "사법부 탄압 규탄과 김건희 여사 구속 연장 여부 등 맞물린 후폭풍",
+      "article_count": 173,
+      "url": "https://newsboy.news/news/498213"
+    },
+    {
+      "rank": 2,
+      "title": "'강남 마지막 판자촌' 구룡마을 화재 발생…소방 대응 2단계 격상",
+      "summary": "가용 자원 총동원 지시와 주민 긴급 대피 속 야간 진화 총력",
+      "article_count": 166,
+      "url": "https://newsboy.news/news/498214"
+    },
+    {
+      "rank": 3,
+      "title": "대법원, 김건희 여사 추가 구속영장 직권 발부…구속 만료 앞두고 수감 유지",
+      "summary": "실형 선고에 따른 도주 우려 인정과 위헌적 별건 구속 반발 공방",
+      "article_count": 138,
+      "url": "https://newsboy.news/news/498215"
+    },
+    {
+      "rank": 4,
+      "title": "신한금융 3분기 누적 순익 5조 돌파…사상 최대 실적 달성",
+      "summary": "4500억원 규모 자사주 매입과 분기 배당 등 주주환원 확대",
+      "article_count": 137,
+      "url": "https://newsboy.news/news/498216"
+    },
+    {
+      "rank": 5,
+      "title": "3분기 GDP 1.0% 깜짝 성장… 연간 3.6% 달성 청신호",
+      "summary": "설비투자 호조 속 민간소비 감소와 1인당 국민소득 4만 달러 전망",
+      "article_count": 123,
+      "url": "https://newsboy.news/news/498217"
+    },
+    {
+      "rank": 6,
+      "title": "‘앤트로픽 IPO’ 훈풍에 삼전·SK하닉 급등…코스피 매수 사이드카 발동",
+      "summary": "최대 2조 달러 규모 상장 추진과 AI 투자 수익성 우려 완화",
+      "article_count": 121,
+      "url": "https://newsboy.news/news/498218"
+    },
+    {
+      "rank": 7,
+      "title": "북서쪽 찬 공기에 기온 '뚝'…전국 내륙 밤부터 한파주의보",
+      "summary": "강풍 동반 영하권 체감 추위와 농작물 냉해 및 건강관리 주의",
+      "article_count": 97,
+      "url": "https://newsboy.news/news/498219"
+    },
+    {
+      "rank": 8,
+      "title": "외통위 국감서 정청래 美 비자 지연 공방… 조현 \"루비오 만나 직접 제기\"",
+      "summary": "주한미국대사 '난기류' 발언 일축과 DMZ 주권 논란 항의 전달",
+      "article_count": 93,
+      "url": "https://newsboy.news/news/498220"
+    },
+    {
+      "rank": 9,
+      "title": "주진우 '김혜경 여사 황제 골프' 의혹 제기에 여야 정면충돌",
+      "summary": "프로골퍼 반박과 법적 맞고발전 속 특별감찰관 감찰 착수 요구",
+      "article_count": 86,
+      "url": "https://newsboy.news/news/498221"
+    },
+    {
+      "rank": 10,
+      "title": "한동훈 자녀 의혹과 '수사 암장' 논란, 경찰·중수청 재수사 착수",
+      "summary": "과거 불송치 경위 재검증과 독자 수사 속 고의 누락 감찰 예고",
+      "article_count": 72,
+      "url": "https://newsboy.news/news/498222"
+    }
+  ]
+}
