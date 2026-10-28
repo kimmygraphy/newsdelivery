@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-28",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-28T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "증권·운용·빗썸까지 줄줄이 뚫렸다…금융권 연쇄 해킹 비상",
+      "summary": "범정부 긴급 대응 돌입과 비핵심 전산망 보안 취약점 노출",
+      "article_count": 295,
+      "url": "https://newsboy.news/news/499340"
+    },
+    {
+      "rank": 2,
+      "title": "SK하이닉스, 3분기 영업익 83조 사상 최대…HBM 향후 3년 물량 '완판'",
+      "summary": "100조 원 규모 주주환원 추진과 견고한 재무 체력 확보",
+      "article_count": 250,
+      "url": "https://newsboy.news/news/499341"
+    },
+    {
+      "rank": 3,
+      "title": "선관위 특검, 147일 만에 올림픽공원 투표용지 247만 장 공개 검증 착수",
+      "summary": "현장 촬영 허용 갈등과 봉인 상태 공방 속 절충안 마련",
+      "article_count": 175,
+      "url": "https://newsboy.news/news/499342"
+    },
+    {
+      "rank": 4,
+      "title": "반도체 투톱 급등에 코스피 6000선 재돌파…외인·기관 순매수",
+      "summary": "SK하이닉스 역대 최대 실적과 이틀 연속 매수 사이드카 발동",
+      "article_count": 150,
+      "url": "https://newsboy.news/news/499343"
+    },
+    {
+      "rank": 5,
+      "title": "민주당, 조희대 대법원장 국정조사 추진…'정치 개입 규명'",
+      "summary": "헌정사상 첫 사법부 수장 국조 추진과 야당의 전면전 예고",
+      "article_count": 138,
+      "url": "https://newsboy.news/news/499344"
+    },
+    {
+      "rank": 6,
+      "title": "승자 없는 이스라엘 총선…친·반네타냐후 모두 과반 실패",
+      "summary": "아랍계 배제 속 연정 난항과 재선거 가능성",
+      "article_count": 95,
+      "url": "https://newsboy.news/news/499345"
+    },
+    {
+      "rank": 7,
+      "title": "강남 구룡마을 집어삼킨 대형 화재…13시간 밤샘 진화 끝 완진",
+      "summary": "발화 원인 규명 위한 합동 감식과 이재민 긴급 구호 대책",
+      "article_count": 92,
+      "url": "https://newsboy.news/news/499346"
+    },
+    {
+      "rank": 8,
+      "title": "하루 만에 10도 떨어진 아침 기온에 내륙 영하권…내일 오후엔 비 예보",
+      "summary": "큰 일교차와 서리·얼음에 따른 농작물 저온 피해 및 화재 주의 당부",
+      "article_count": 84,
+      "url": "https://newsboy.news/news/499347"
+    },
+    {
+      "rank": 9,
+      "title": "\"보도윤리 의문\" 쓴소리 낸 李 대통령, 언론 왜곡 반박하며 檢개혁 강경파 직격",
+      "summary": "외국인 노동자 발언 왜곡 정정·사과 요구와 SNS 직접 소통 기조 재확인",
+      "article_count": 75,
+      "url": "https://newsboy.news/news/499348"
+    },
+    {
+      "rank": 10,
+      "title": "‘인앱결제 강제’ 구글·애플에 과징금 637억 원… 3년 만의 제재",
+      "summary": "아웃링크 허용 시정명령과 빅테크의 법적 대응 검토",
+      "article_count": 71,
+      "url": "https://newsboy.news/news/499349"
+    }
+  ]
+}
