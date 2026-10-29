@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-29",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-29T22:05:22+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "수도권 6곳에 7만6700가구 신규택지 발표…2030년 착공 목표",
+      "summary": "광역교통망 구축과 자족기능 확보를 둘러싼 지자체 과제",
+      "article_count": 177,
+      "url": "https://newsboy.news/news/500492"
+    },
+    {
+      "rank": 2,
+      "title": "삼성전자 분기 영업익 107조 원 신기록…글로벌 빅테크 최초 100조 돌파",
+      "summary": "반도체 독주 속 세트 부문 적자와 30조 원 규모 주주환원",
+      "article_count": 171,
+      "url": "https://newsboy.news/news/500493"
+    },
+    {
+      "rank": 3,
+      "title": "금융·가상자산 업계 연쇄 해킹 확산…빗썸 신분증 노출에 코인 탈취까지",
+      "summary": "금융보안원의 침해지표 긴급 공유와 비핵심 관리망 보안 거버넌스 점검",
+      "article_count": 149,
+      "url": "https://newsboy.news/news/500494"
+    },
+    {
+      "rank": 4,
+      "title": "148일 만에 열린 '올공' 송파구 투표지 247만 장, 특검 13시간 검증 끝 반출",
+      "summary": "국민의힘의 부정선거 주장 속 의심 투표지 국과수 정밀감정 방침",
+      "article_count": 135,
+      "url": "https://newsboy.news/news/500495"
+    },
+    {
+      "rank": 5,
+      "title": "유시민의 \"尹과 똑같다\" 직격에… 김민석 \"분열 언어에 답 않겠다\"",
+      "summary": "대통령 비판을 둘러싼 여당 내 계파 시각차와 정치권 공방",
+      "article_count": 88,
+      "url": "https://newsboy.news/news/500496"
+    },
+    {
+      "rank": 6,
+      "title": "증인 채택 불발에 의원 발언 충돌까지…국회 운영위 국감 파행",
+      "summary": "'경기·성남라인' 증인 채택 무산 공방과 김태규 의원 사임 대치",
+      "article_count": 88,
+      "url": "https://newsboy.news/news/500497"
+    },
+    {
+      "rank": 7,
+      "title": "서울 첫서리에 내륙 영하권 출근길…오후부터 전국 가을비",
+      "summary": "일요일 비 뒤 찬 공기 남하와 초겨울 추위 본격화",
+      "article_count": 87,
+      "url": "https://newsboy.news/news/500498"
+    },
+    {
+      "rank": 8,
+      "title": "경기 버스 3800대 파업 기로…서울·경기 비상수송 총력 대응",
+      "summary": "서울과의 임금 격차 해소 쟁점 및 수도권 출퇴근길 차질 우려",
+      "article_count": 85,
+      "url": "https://newsboy.news/news/500499"
+    },
+    {
+      "rank": 9,
+      "title": "특검, '내란 우두머리' 윤석열 항소심서도 법정 최고형 사형 구형",
+      "summary": "김용현 등 군·경 지휘부 중형 구형과 11월 5일 변론 종결 방침",
+      "article_count": 71,
+      "url": "https://newsboy.news/news/500500"
+    },
+    {
+      "rank": 10,
+      "title": "대규모 AI 투자 속 현금흐름 차이에 마이크로소프트·알파벳 주가 희비",
+      "summary": "설비투자 지속가능성과 수익성 검증에 따른 시간외 주가 급등락",
+      "article_count": 62,
+      "url": "https://newsboy.news/news/500501"
+    }
+  ]
+}
