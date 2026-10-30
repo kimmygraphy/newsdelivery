@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-30",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-30T22:05:23+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "‘국민 아버지’ 배우 최불암 별세…정계·문화계 아우른 추모 물결",
+      "summary": "금관문화훈장 추서와 아동 나눔 헌신 기리는 '초록우산 어린이재단장' 엄수",
+      "article_count": 206,
+      "url": "https://newsboy.news/news/501442"
+    },
+    {
+      "rank": 2,
+      "title": "SK그룹 사장단 인사 단행…CEO 대거 유임 속 실무형 리더 전진 배치",
+      "summary": "에너지 사업 재편과 글로벌 빅테크 대응을 위한 현장 중심 체제 구축",
+      "article_count": 142,
+      "url": "https://newsboy.news/news/501443"
+    },
+    {
+      "rank": 3,
+      "title": "미국 빅테크 실적 충격에 코스피 급락, 매도 사이드카 발동",
+      "summary": "외국인 1조 8천억 원대 매도와 국내 대표 반도체주 동반 약세",
+      "article_count": 134,
+      "url": "https://newsboy.news/news/501444"
+    },
+    {
+      "rank": 4,
+      "title": "‘영원한 수사반장·국민 아버지’ 배우 최불암 별세",
+      "summary": "정부의 1등급 금관문화훈장 추서와 초록우산 어린이재단장 진행",
+      "article_count": 103,
+      "url": "https://newsboy.news/news/501445"
+    },
+    {
+      "rank": 5,
+      "title": "세계 최대 거래소 바이낸스서 8조원대 사상 최악 해킹… 20분 만에 유출",
+      "summary": "고객 피해 전액 보전 방침과 글로벌 30억 달러 긴급 동결 공조",
+      "article_count": 97,
+      "url": "https://newsboy.news/news/501446"
+    },
+    {
+      "rank": 6,
+      "title": "인천공항 발권시스템 먹통에 1200명 대기·항공기 38편 지연",
+      "summary": "현장 안내 인력 긴급 투입과 발생 5시간 만의 정상화",
+      "article_count": 74,
+      "url": "https://newsboy.news/news/501447"
+    },
+    {
+      "rank": 7,
+      "title": "토요일 아침 짙은 안개 주의…일요일 전국 가을비 내린 뒤 기온 뚝",
+      "summary": "강원·동해안 산불 유의와 제주 밤 시간당 20㎜ 호우 대비",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/501448"
+    },
+    {
+      "rank": 8,
+      "title": "'김건희 명품백 전달 혐의' 김기현 1심 무죄·아내는 벌금 500만 원",
+      "summary": "대통령 선거 개입 인정 속 '공모 증거 부족' 판단과 특검의 항소 예고",
+      "article_count": 65,
+      "url": "https://newsboy.news/news/501449"
+    },
+    {
+      "rank": 9,
+      "title": "청와대, 北 지뢰도발 엄정 대응 속 전작권 실질 성과·청해부대 확대 고심",
+      "summary": "전쟁 불개입 원칙 속 독자 지휘 고수와 우크라이나 외교 분리 대응",
+      "article_count": 65,
+      "url": "https://newsboy.news/news/501450"
+    },
+    {
+      "rank": 10,
+      "title": "포스코 노사, 무기한 파업 앞두고 2026년 임금협상 잠정합의",
+      "summary": "기본급 2.6% 인상과 일시금 600만 원 합의 및 무기한 파업 중단",
+      "article_count": 62,
+      "url": "https://newsboy.news/news/501451"
+    }
+  ]
+}
