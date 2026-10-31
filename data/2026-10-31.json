@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-31",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-10-31T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "바이낸스 8조 4천억 원 털렸다… 사상 최대 해킹에 북한 배후 지목",
+      "summary": "30억 달러 긴급 동결과 전액 보상 방침 속 미 연방 수사 착수",
+      "article_count": 104,
+      "url": "https://newsboy.news/news/501761"
+    },
+    {
+      "rank": 2,
+      "title": "샘 올트먼 오픈AI CEO 방한…삼성 사장단·최태원 SK 회장 연쇄 회동",
+      "summary": "차세대 AI 메모리 반도체 공급망과 인프라 구축 파트너십 강화",
+      "article_count": 92,
+      "url": "https://newsboy.news/news/501762"
+    },
+    {
+      "rank": 3,
+      "title": "진성준 국방위원장, 거부 논란 딛고 美 공무 비자 발급…예정대로 방미",
+      "summary": "추가 서류 제출 둘러싼 '외교 참사' 대 '사대주의' 여야 공방",
+      "article_count": 66,
+      "url": "https://newsboy.news/news/501763"
+    },
+    {
+      "rank": 4,
+      "title": "“큰 산 같던 스승” 배우 고 최불암 별세…빈소에 이틀째 추모 물결",
+      "summary": "금관문화훈장 추서와 초록우산 어린이재단장 엄수",
+      "article_count": 60,
+      "url": "https://newsboy.news/news/501764"
+    },
+    {
+      "rank": 5,
+      "title": "일요일 전국 곳곳 비 확대…제주 최대 60㎜ 강한 비바람",
+      "summary": "비 그친 뒤 찬 공기 남하와 서울 3도 등 기온 급감 예보",
+      "article_count": 54,
+      "url": "https://newsboy.news/news/501765"
+    },
+    {
+      "rank": 6,
+      "title": "이 대통령, 야당의 '순방 외유' 비판에 \"링거 맞고 코피 터져…성과 차이 알 것\"",
+      "summary": "14차례 23개국 순방 공방과 청와대의 정상외교 관행 해명",
+      "article_count": 49,
+      "url": "https://newsboy.news/news/501766"
+    },
+    {
+      "rank": 7,
+      "title": "李대통령 \"다문화 지원 필요하나 내국인 역차별까지 정당화될 수 없어\"",
+      "summary": "정부 시행령 개정 검토 착수와 정치권 갈라치기 공방",
+      "article_count": 49,
+      "url": "https://newsboy.news/news/501767"
+    },
+    {
+      "rank": 8,
+      "title": "AI 투자 회수 우려에 인텔 29% 폭락…뉴욕증시 기술주 일제히 급락",
+      "summary": "빅테크 과잉 투자 부담에 따른 방어주 쏠림과 반도체주 연쇄 타격",
+      "article_count": 41,
+      "url": "https://newsboy.news/news/501768"
+    },
+    {
+      "rank": 9,
+      "title": "핼러윈 맞은 도심에 14만 인파 운집…경찰·서울시 1만 1천여 명 총력 관리",
+      "summary": "차도 전면 개방과 첨단 관제 시스템을 통한 현장 안전 대응",
+      "article_count": 40,
+      "url": "https://newsboy.news/news/501769"
+    },
+    {
+      "rank": 10,
+      "title": "'13가지 비위 의혹' 김병기 의원, 영장 반려 50일 만에 경찰 8차 출석",
+      "summary": "핵심 참고인 회유 의혹 집중 조사와 구속영장 재신청 여부",
+      "article_count": 32,
+      "url": "https://newsboy.news/news/501770"
+    }
+  ]
+}
