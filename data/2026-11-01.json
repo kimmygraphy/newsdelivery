@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-01",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-01T22:05:19+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "미 FBI “바이낸스 8조 원대 해킹 배후는 북한 조직”",
+      "summary": "30억 달러 긴급 동결과 바이낸스의 피해 자산 보전 조치",
+      "article_count": 151,
+      "url": "https://newsboy.news/news/502156"
+    },
+    {
+      "rank": 2,
+      "title": "한국 수출 첫 9000억 달러 돌파…‘꿈의 연간 1조 달러’ 눈앞",
+      "summary": "AI 반도체 폭증 견인과 대규모 무역흑자 속 세계 4대 수출강국 진입 기대",
+      "article_count": 92,
+      "url": "https://newsboy.news/news/502157"
+    },
+    {
+      "rank": 3,
+      "title": "오세훈 2심 무죄 생환에 보수 주도권 경쟁 점화…차기 전대 촉각",
+      "summary": "한동훈 복당 차단과 2028년 총선 공천권을 둘러싼 당권 쟁탈전",
+      "article_count": 75,
+      "url": "https://newsboy.news/news/502158"
+    },
+    {
+      "rank": 4,
+      "title": "전국 적신 가을비 2일 오전 차차 개어…화요일 서울 아침 3도 추위",
+      "summary": "2일 평년 기온 유지 뒤 화요일 기온 급강하와 해상 강풍 주의",
+      "article_count": 58,
+      "url": "https://newsboy.news/news/502159"
+    },
+    {
+      "rank": 5,
+      "title": "\"돼지 눈엔 돼지만\" 이 대통령 반박에 번진 '순방 외교' 공방",
+      "summary": "외교 성과와 정상외교 예산안을 둘러싼 여야의 정면 충돌",
+      "article_count": 51,
+      "url": "https://newsboy.news/news/502160"
+    },
+    {
+      "rank": 6,
+      "title": "트럼프 “10분이면 처리” 이란 재공격 시사에 하메네이 “제한 없는 대응” 맞불",
+      "summary": "카타르 중재 속 핵 양보와 봉쇄 해제 요구 대립",
+      "article_count": 50,
+      "url": "https://newsboy.news/news/502161"
+    },
+    {
+      "rank": 7,
+      "title": "북한, 축구장 18개 면적 초토화하는 탄도미사일 집속탄두 위력 시험",
+      "summary": "4종 탄두 체계의 연내 실전배치 예고와 한국군 시설 모사 표적 타격",
+      "article_count": 49,
+      "url": "https://newsboy.news/news/502162"
+    },
+    {
+      "rank": 8,
+      "title": "서울 지하철 7호선 보라매역 열차 고장…1시간 44분 만에 운행 정상화",
+      "summary": "비상제동 장치 이상에 따른 승객 전원 하차와 차량기지 정밀 조사 계획",
+      "article_count": 48,
+      "url": "https://newsboy.news/news/502163"
+    },
+    {
+      "rank": 9,
+      "title": "'국민 아버지' 배우 최불암 별세…연예계·정재계 사흘째 애도 물결",
+      "summary": "비공개 발인과 여의도성당 장례 미사 엄수 등 향후 일정",
+      "article_count": 47,
+      "url": "https://newsboy.news/news/502164"
+    },
+    {
+      "rank": 10,
+      "title": "AI 에이전트와 협업하는 일터로…SK텔레콤, 'AX 혁신 2.0' 본격화",
+      "summary": "3대 실행 체계 가동과 AI 사번제·보안 특허 도입 등 전사 인프라 정비",
+      "article_count": 43,
+      "url": "https://newsboy.news/news/502165"
+    }
+  ]
+}
