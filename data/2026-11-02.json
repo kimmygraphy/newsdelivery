@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-02",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-02T22:05:24+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "820조 9000억 원 역대 최대 예산안… 이재명 대통령, '모두의 성장' 대전환 강조",
+      "summary": "미래 투자와 복지 확대 속 야당의 30조 원 삭감 요구와 심사 쟁점",
+      "article_count": 186,
+      "url": "https://newsboy.news/news/503285"
+    },
+    {
+      "rank": 2,
+      "title": "북 해킹 조직에 8조 원 털린 바이낸스…FBI 배후 공식 확인",
+      "summary": "거래소 95% 긴급 복구와 금융당국의 보안 강화령",
+      "article_count": 126,
+      "url": "https://newsboy.news/news/503286"
+    },
+    {
+      "rank": 3,
+      "title": "\"재판 재개\" 야유에 멈춰 선 시정연설…821조 예산안 두고 여야 충돌",
+      "summary": "162조 미래대응기금 삭감 공방과 12월 2일 처리 시한",
+      "article_count": 87,
+      "url": "https://newsboy.news/news/503287"
+    },
+    {
+      "rank": 4,
+      "title": "이재명 대통령, \"PC주의 반발은 내로남불 탓\"…'돼지 눈' 논란 정면 반박",
+      "summary": "고사 인용과 언행일치 강조를 통한 품격 논란 정면 돌파",
+      "article_count": 85,
+      "url": "https://newsboy.news/news/503288"
+    },
+    {
+      "rank": 5,
+      "title": "삼성SDS, 경북 구미 AI 데이터센터 착공…영남권 60조 투자 본격화",
+      "summary": "최대 120MW급 하이퍼스케일 설계와 제조 로봇 전환 지원",
+      "article_count": 80,
+      "url": "https://newsboy.news/news/503289"
+    },
+    {
+      "rank": 6,
+      "title": "호반그룹, 한진칼 최대주주 올라…공정위에 기업결합 신고",
+      "summary": "조원태 회장의 370억 원대 맞불 매입과 우호지분 중심의 경영권 방어",
+      "article_count": 76,
+      "url": "https://newsboy.news/news/503290"
+    },
+    {
+      "rank": 7,
+      "title": "3일 아침 기온 최대 8도 뚝 떨어진 0~9도…일교차 15도 벌어지고 밤엔 황사",
+      "summary": "일부 내륙 서리·얼음 관측과 서쪽 지역 추가 황사 유입",
+      "article_count": 74,
+      "url": "https://newsboy.news/news/503291"
+    },
+    {
+      "rank": 8,
+      "title": "HD현대, 77명 임원인사 단행…해외사업·AI 전환 인재 전진 배치",
+      "summary": "해외 생산거점 실행력 제고와 11월 사장단 전략회의 로드맵 수립",
+      "article_count": 72,
+      "url": "https://newsboy.news/news/503292"
+    },
+    {
+      "rank": 9,
+      "title": "'영원한 국민 아버지' 배우 최불암 영면…각계 눈물 속 마지막 배웅",
+      "summary": "45년 헌신한 초록우산 고별식과 금관문화훈장 추서",
+      "article_count": 72,
+      "url": "https://newsboy.news/news/503293"
+    },
+    {
+      "rank": 10,
+      "title": "미 중간선거 D-1, 트럼프 부정평가 60% 속 민주당 의회 탈환 우세",
+      "summary": "5300만 역대 최다 사전투표와 여당 텃밭 수성전 속 미시간발 돌발 변수",
+      "article_count": 71,
+      "url": "https://newsboy.news/news/503294"
+    }
+  ]
+}
