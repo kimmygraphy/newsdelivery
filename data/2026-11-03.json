@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-03",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-03T22:05:19+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "'1월 합당론'에 정면충돌한 김민석·정청래…멀어지는 범여권 통합",
+      "summary": "조국혁신당의 공식 사과 요구와 수도권 독자 출마 선언",
+      "article_count": 196,
+      "url": "https://newsboy.news/news/504389"
+    },
+    {
+      "rank": 2,
+      "title": "대통령 순방단 168명 개인정보 유출…공군 1호기 탑승자 명단 5달간 노출",
+      "summary": "경찰 수사 착수와 순방단 전원 여권 재발급 조치",
+      "article_count": 185,
+      "url": "https://newsboy.news/news/504390"
+    },
+    {
+      "rank": 3,
+      "title": "“집값 급락 땐 정부 대량 매입”… 李 ‘하락 진단’에 서울시·야당 반발",
+      "summary": "90주 연속 상승 통계와 강남 하락세 맞선 시장 인식 공방",
+      "article_count": 125,
+      "url": "https://newsboy.news/news/504391"
+    },
+    {
+      "rank": 4,
+      "title": "교육부, 교육혁신선도지역 43곳 선정…내년 860억 투입해 초중고 살리기 시동",
+      "summary": "최대 5년간 200억 재정 투입과 지역 자율형 학교 혁신 추진",
+      "article_count": 98,
+      "url": "https://newsboy.news/news/504392"
+    },
+    {
+      "rank": 5,
+      "title": "빅테크 AI 투자 수익성 우려 재부각… 코스피 3.59% 급락 마감",
+      "summary": "외국인·기관 2조 원대 동반 매도와 반도체 대형주 폭락",
+      "article_count": 96,
+      "url": "https://newsboy.news/news/504393"
+    },
+    {
+      "rank": 6,
+      "title": "트럼프 운명 가를 美 중간선거 개시…민주당 하원 탈환 유력 속 상원 접전",
+      "summary": "상·하원 동시 탈환 위기 속 트럼프의 거부권 정국 대치 예고",
+      "article_count": 91,
+      "url": "https://newsboy.news/news/504394"
+    },
+    {
+      "rank": 7,
+      "title": "10월 물가 2.8%로 둔화했지만…석유·가공식품 오름세에 체감부담 지속",
+      "summary": "석유 최고가격제의 억제 효과와 김장철 640억 할인 지원 대책",
+      "article_count": 89,
+      "url": "https://newsboy.news/news/504395"
+    },
+    {
+      "rank": 8,
+      "title": "트럼프 “이란 공격 안 서둘러”…협상판 열렸지만 호르무즈선 포화 지속",
+      "summary": "국제유가 7%대 급락 속 해상 봉쇄 해제와 핵 협상 쟁점 대립",
+      "article_count": 72,
+      "url": "https://newsboy.news/news/504396"
+    },
+    {
+      "rank": 9,
+      "title": "출근길 기온 뚝 떨어져 큰 일교차…목요일 전국 비 뒤 주말 강추위",
+      "summary": "내륙 짙은 안개·황사 유입 주의와 제주·남부 중심 비 예보",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/504397"
+    },
+    {
+      "rank": 10,
+      "title": "허위 성매매 사이트로 18억 가로챈 태국 거점 피싱 조직 적발",
+      "summary": "국제 공조를 통한 24명 검거와 해외 총책 인터폴 수배",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/504398"
+    }
+  ]
+}
