@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-04",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-04T22:05:32+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "미 중간선거 민주당 상·하원 동시 탈환 유력…'블루 쓰나미' 현실화",
+      "summary": "공화 텃밭 휩쓴 심판론과 백악관 거부권 정국 예고",
+      "article_count": 246,
+      "url": "https://newsboy.news/news/505518"
+    },
+    {
+      "rank": 2,
+      "title": "윤석열 선거법 2심도 당선무효형…국민의힘 397억 반환 기로",
+      "summary": "변호사 소개·건진법사 해명 허위 인정과 즉각 상고 방침",
+      "article_count": 150,
+      "url": "https://newsboy.news/news/505519"
+    },
+    {
+      "rank": 3,
+      "title": "민주당 '조작기소 특검법' 법사위 상정 강행…여야 정면충돌",
+      "summary": "공소취소 조항 삭제·수사 대상 조정과 국민의힘의 본회의 필리버스터 예고",
+      "article_count": 149,
+      "url": "https://newsboy.news/news/505520"
+    },
+    {
+      "rank": 4,
+      "title": "'신천지 연대설' 고개 숙인 김민석…당 안팎서 사퇴·수사 압박",
+      "summary": "진상조사 비공개 결정과 친청계·야권의 정당법 위반 책임 공세",
+      "article_count": 138,
+      "url": "https://newsboy.news/news/505521"
+    },
+    {
+      "rank": 5,
+      "title": "순천대·경국대 의대 신설 확정… 2030년 개교 목표로 정원 100명 배정",
+      "summary": "목포대 재심사 요구 기각과 의료계 졸속 신설 비판 속 후폭풍",
+      "article_count": 104,
+      "url": "https://newsboy.news/news/505522"
+    },
+    {
+      "rank": 6,
+      "title": "400포인트 롤러코스터 탄 코스피, 美 선거·AI 쇼크 딛고 반등 마감",
+      "summary": "빅테크 규제 확산 공포와 개인·기관의 2조원대 저가 매수세",
+      "article_count": 100,
+      "url": "https://newsboy.news/news/505523"
+    },
+    {
+      "rank": 7,
+      "title": "쿠팡, 3분기 6400억원대 적자 전환…1~3분기 누적 손실 1.8조원",
+      "summary": "물류센터 화재 비용 반영과 김범석 의장의 내년 중반 반등 구상",
+      "article_count": 100,
+      "url": "https://newsboy.news/news/505524"
+    },
+    {
+      "rank": 8,
+      "title": "비용 털어낸 SKT·LGU+, 3분기 영업익 급증에 AIDC 확장 속도",
+      "summary": "파주·울산 초대형 데이터센터 인프라 투자와 고객 수요 확보",
+      "article_count": 99,
+      "url": "https://newsboy.news/news/505525"
+    },
+    {
+      "rank": 9,
+      "title": "첫 흑인 여성 주지사·무슬림 상원의원 탄생… 美 중간선거 새 역사",
+      "summary": "한국계 댄 고 하원 첫 입성과 소수자 정치인의 의회 진출 확대",
+      "article_count": 78,
+      "url": "https://newsboy.news/news/505526"
+    },
+    {
+      "rank": 10,
+      "title": "이재명 대통령, '집값 발언 강남만 맞았다' 보도에 \"가짜뉴스\" 반박",
+      "summary": "강남 3구 하락과 서울 상승세 괴리 속 현실 인식 공방",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/505527"
+    }
+  ]
+}
