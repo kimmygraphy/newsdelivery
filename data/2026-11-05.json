@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-05",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-05T22:05:22+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "'조작기소 특검법' 본회의 상정…여야 필리버스터 정면충돌",
+      "summary": "공소취소 삭제·수사 대상 확대 수정안과 24시간 뒤 강제 표결 수순",
+      "article_count": 210,
+      "url": "https://newsboy.news/news/506660"
+    },
+    {
+      "rank": 2,
+      "title": "美 블루웨이브에 AI 규제 공포…코스피 5%대 급락 속 매도 사이드카",
+      "summary": "외국인의 대규모 반도체 투매와 업종별 엇갈린 증시 희비",
+      "article_count": 134,
+      "url": "https://newsboy.news/news/506661"
+    },
+    {
+      "rank": 3,
+      "title": "전기차 한파에 엇갈린 배터리 성적표…AI·ESS로 돌파구 모색",
+      "summary": "AI 데이터센터發 ESS 수요 급증과 LFP·신사업 중심 반등 전략",
+      "article_count": 119,
+      "url": "https://newsboy.news/news/506662"
+    },
+    {
+      "rank": 4,
+      "title": "'조작기소 특검법' 본회의 상정…수사 대상 文 사건까지 15건 확대",
+      "summary": "李 방탄 논란 속 과거 검찰 권력 남용 규명 대립",
+      "article_count": 108,
+      "url": "https://newsboy.news/news/506663"
+    },
+    {
+      "rank": 5,
+      "title": "중간선거 참패로 번진 이란 전쟁 책임론… 헤그세스 국방장관 거취 일파만파",
+      "summary": "의회 탄핵 표결 추진과 디샌티스 주지사 후임 기용 검토",
+      "article_count": 106,
+      "url": "https://newsboy.news/news/506664"
+    },
+    {
+      "rank": 6,
+      "title": "정부, 청해부대 작전구역 오만 남방까지 2배 확대… 초계기·병력 증강",
+      "summary": "호르무즈 파병 선 긋기 속 야권의 우회 파병 비판 공방",
+      "article_count": 97,
+      "url": "https://newsboy.news/news/506665"
+    },
+    {
+      "rank": 7,
+      "title": "찬 공기 남하에 기온 급락…주말 서울 첫 영하권 추위",
+      "summary": "전국 순간풍속 시속 55㎞ 강풍과 체감온도 영하권 하락",
+      "article_count": 89,
+      "url": "https://newsboy.news/news/506666"
+    },
+    {
+      "rank": 8,
+      "title": "민주당 '신천지 의혹' 김민석 사과에도 계파 갈등 격화",
+      "summary": "조사 결과 개별 열람 방침과 친청계의 공개 사과·책임 요구",
+      "article_count": 88,
+      "url": "https://newsboy.news/news/506667"
+    },
+    {
+      "rank": 9,
+      "title": "한 달 새 금융사 37곳서 47만 건 정보 유출…당국, 580곳 전수점검 착수",
+      "summary": "경영진 엄정 문책 방침과 보이스피싱 금융사 무과실책임 법제화 추진",
+      "article_count": 82,
+      "url": "https://newsboy.news/news/506668"
+    },
+    {
+      "rank": 10,
+      "title": "신촌세브란스 진료실서 의사 흉기 피습…경찰, 살인미수 구속영장 신청",
+      "summary": "반복되는 진료실 흉기 난동과 의료현장 안전망의 한계",
+      "article_count": 78,
+      "url": "https://newsboy.news/news/506669"
+    }
+  ]
+}
