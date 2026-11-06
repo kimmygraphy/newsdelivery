@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-06",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-06T22:05:22+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "'블루웨이브 쇼크'에 글로벌 증시 폭락…코스피 장중 5,000선 붕괴",
+      "summary": "AI 규제 우려 속 반도체주 투매와 시장의 과도한 공포 논란",
+      "article_count": 352,
+      "url": "https://newsboy.news/news/507624"
+    },
+    {
+      "rank": 2,
+      "title": "필리버스터 뚫고 '조작기소 특검법' 본회의 통과…李 대통령 사건 임명 논란",
+      "summary": "수사 대상인 현직 대통령의 특검 임명 구조와 야당의 장외투쟁 예고",
+      "article_count": 270,
+      "url": "https://newsboy.news/news/507625"
+    },
+    {
+      "rank": 3,
+      "title": "이재명 대통령, 법무장관 후보에 이용철 지명…경찰청장엔 김종철",
+      "summary": "사정기관 장기 공백 해소와 새 사법체계 안착 속 야당 공세 예고",
+      "article_count": 224,
+      "url": "https://newsboy.news/news/507626"
+    },
+    {
+      "rank": 4,
+      "title": "롯데쇼핑, 3분기 영업익 34.5% 뛴 1756억…백화점·마트 호조 속 흑자 전환",
+      "summary": "이커머스 적자 지속과 하이마트 영업익 급감 등 사업부별 엇갈린 성적표",
+      "article_count": 99,
+      "url": "https://newsboy.news/news/507627"
+    },
+    {
+      "rank": 5,
+      "title": "코스피 5000선 붕괴에 당정 긴급 회동…‘가용 정책 총투입’",
+      "summary": "반대매매 막기 위한 담보 비율 규제 한시 면제 조치",
+      "article_count": 97,
+      "url": "https://newsboy.news/news/507628"
+    },
+    {
+      "rank": 6,
+      "title": "입동에 찾아온 초겨울 한파…서울 첫 영하권·전국 곳곳 특보",
+      "summary": "강풍과 건조특보 속 주말 중부 비·강원 눈 예보",
+      "article_count": 93,
+      "url": "https://newsboy.news/news/507629"
+    },
+    {
+      "rank": 7,
+      "title": "김민석 '신천지 의혹' 세 번째 사과에도…민주당 계파 갈등 격화",
+      "summary": "당 조사 결과 비공개 열람 착수와 친청·친명 책임론 공방",
+      "article_count": 75,
+      "url": "https://newsboy.news/news/507630"
+    },
+    {
+      "rank": 8,
+      "title": "코스피 8% 급락하며 장중 5000선 붕괴…서킷브레이커 잇단 발동",
+      "summary": "野의 '무리한 개입·연금 182조 증발' 책임론 공세와 정부 긴급 점검",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/507631"
+    },
+    {
+      "rank": 9,
+      "title": "스토킹 신고 4차례 전 연인 살해한 60대 남성 구속영장 신청",
+      "summary": "전자발찌 해제 2주 만의 재범과 피해자 보호 관리의 한계",
+      "article_count": 53,
+      "url": "https://newsboy.news/news/507632"
+    },
+    {
+      "rank": 10,
+      "title": "선거 참패 후폭풍에 휩싸인 트럼프 내각… 헤그세스 탄핵 위기와 루비오 사임설",
+      "summary": "핵심 각료 탄핵 추진과 사임설 일축 속 깊어지는 수습 혼선",
+      "article_count": 45,
+      "url": "https://newsboy.news/news/507633"
+    }
+  ]
+}
