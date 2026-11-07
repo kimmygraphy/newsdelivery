@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-07",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-07T22:05:19+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "'조작기소 특검법' 본회의 통과… 야당 \"1인 특권법\" 장외 투쟁 돌입",
+      "summary": "대통령 관련 의혹 수사 둘러싼 이해충돌 공방과 도심 규탄 대회",
+      "article_count": 115,
+      "url": "https://newsboy.news/news/507885"
+    },
+    {
+      "rank": 2,
+      "title": "'신촌 세브란스 교수 피습' 50대 여성 살인미수 혐의로 구속",
+      "summary": "부엌칼 사전 준비 정황 확인과 법원의 도망 염려 판단",
+      "article_count": 93,
+      "url": "https://newsboy.news/news/507886"
+    },
+    {
+      "rank": 3,
+      "title": "입동에 닥친 영하권 추위…서울 첫얼음 관측 속 곳곳 한파특보",
+      "summary": "8일 중부 눈·비 예보와 도로 살얼음 결빙 주의",
+      "article_count": 82,
+      "url": "https://newsboy.news/news/507887"
+    },
+    {
+      "rank": 4,
+      "title": "미래에셋증권 해킹에 고객 계좌번호·임직원 3만 9천여 명 정보 유출",
+      "summary": "주요 식별정보 유출 및 금전 피해 미발생과 긴급 차단 조치",
+      "article_count": 73,
+      "url": "https://newsboy.news/news/507888"
+    },
+    {
+      "rank": 5,
+      "title": "\"젠슨 황, 中 스파이 의혹 여성과 연인 관계\"…美 정보당국 메모 파장",
+      "summary": "미 하원의 젠슨 황 출석 요구와 핵심 반도체 유출 의혹 조사",
+      "article_count": 49,
+      "url": "https://newsboy.news/news/507889"
+    },
+    {
+      "rank": 6,
+      "title": "트럼프, 중간선거 패배 사흘 만에 비서실장 교체…후임에 강경파 스티븐 밀러",
+      "summary": "마이웨이 국정 기조 고수와 야당의 강력 반발",
+      "article_count": 47,
+      "url": "https://newsboy.news/news/507890"
+    },
+    {
+      "rank": 7,
+      "title": "美 민주당 압승에 AI 규제 우려 확산… 세계 증시 시총 4800조 원 증발",
+      "summary": "한·미·일 반도체주 연쇄 폭락과 아시아 증시 서킷브레이커 충격",
+      "article_count": 45,
+      "url": "https://newsboy.news/news/507891"
+    },
+    {
+      "rank": 8,
+      "title": "이재명 대통령, 법무장관에 이용철 지명…野 \"성남라인 방탄\" 철회 요구",
+      "summary": "대장동 연루 의혹과 전문성 논란 속 국회 인사청문회 정면충돌 예고",
+      "article_count": 44,
+      "url": "https://newsboy.news/news/507892"
+    },
+    {
+      "rank": 9,
+      "title": "미국, 이란과 종전 협상 중 게슘섬 공습…방공시설 무력화",
+      "summary": "273억 원 핵 정보 포상금 공지와 종전 협상 조건 충돌",
+      "article_count": 35,
+      "url": "https://newsboy.news/news/507893"
+    },
+    {
+      "rank": 10,
+      "title": "\"후임들 공연 보게 해달라\" 해병 건의에… 연평부대 15년 만의 위문열차",
+      "summary": "약속 지킨 대통령의 감사 메시지와 장병 복지 경청 의지",
+      "article_count": 33,
+      "url": "https://newsboy.news/news/507894"
+    }
+  ]
+}
