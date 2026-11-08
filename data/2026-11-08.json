@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-08",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-08T22:05:20+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "작년보다 26일 일찍 찾아온 서울 첫눈… 역대 6번째 조기 관측",
+      "summary": "기온 강하에 따른 출근길 도로 살얼음 위험과 교통안전 주의",
+      "article_count": 115,
+      "url": "https://newsboy.news/news/508277"
+    },
+    {
+      "rank": 2,
+      "title": "조작기소 특검법 처리에 거리로 나선 野, 이재명 대통령 탄핵 거론하며 정면 충돌",
+      "summary": "장외집회 공방과 이해충돌 논란",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/508278"
+    },
+    {
+      "rank": 3,
+      "title": "이용철 법무장관 후보자 지명…'검찰개혁 적임' 대 '방탄 인사' 격돌",
+      "summary": "성남시 인연 둘러싼 대장동 공방과 인사청문회 대치 국면",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/508279"
+    },
+    {
+      "rank": 4,
+      "title": "국회 통과한 '조작기소 특검법'…사법부 침해·이해충돌 위헌 논란 격화",
+      "summary": "피고인 대통령의 특검 임명과 '재판 삭제 방탄'을 둘러싼 정면충돌",
+      "article_count": 65,
+      "url": "https://newsboy.news/news/508280"
+    },
+    {
+      "rank": 5,
+      "title": "젠슨 황 '스파이 연루설' 확산 속 장녀 매디슨 황 방한 돌연 취소",
+      "summary": "장관 면담 무산과 부사장단 대리 참석 속 서울 AI 행사 정상 진행",
+      "article_count": 59,
+      "url": "https://newsboy.news/news/508281"
+    },
+    {
+      "rank": 6,
+      "title": "중간선거 참패에도 '마이웨이' 트럼프…비서실장에 강경파 밀러·UFC 회장에 대변인 제안",
+      "summary": "백악관 온건파 퇴진과 사법 기구 동원한 대야 전면전 기조",
+      "article_count": 57,
+      "url": "https://newsboy.news/news/508282"
+    },
+    {
+      "rank": 7,
+      "title": "美 '블루웨이브'발 규제 공포에 코스피 5000선 붕괴… 시장선 \"과도한 패닉\"",
+      "summary": "신용융자 담보비율 규제 완화 조치와 AI 실적·물가지표 분기점",
+      "article_count": 50,
+      "url": "https://newsboy.news/news/508283"
+    },
+    {
+      "rank": 8,
+      "title": "내년 초등 신입생 사상 첫 20만 명대 전망…30만 명 선 붕괴",
+      "summary": "학교 소규모화 위기와 지방교육재정교부금 개편 추진",
+      "article_count": 45,
+      "url": "https://newsboy.news/news/508284"
+    },
+    {
+      "rank": 9,
+      "title": "폴란드 크라쿠프 도심 한복판 무차별 총기 난사… 6명 사망·용의자 자택서 시신 3구 발견",
+      "summary": "정부의 명백한 테러 규정과 국가 애도 기간 선포",
+      "article_count": 42,
+      "url": "https://newsboy.news/news/508285"
+    },
+    {
+      "rank": 10,
+      "title": "외국인 투매에 코스피 5000선 붕괴…상장사 3곳 중 1곳 연중 신저가",
+      "summary": "금융당국의 신용융자 담보비율 한시 완화 조치",
+      "article_count": 41,
+      "url": "https://newsboy.news/news/508286"
+    }
+  ]
+}
