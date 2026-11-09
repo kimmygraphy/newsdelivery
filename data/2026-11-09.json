@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-09",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-09T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "젠슨 황 불륜 인정…엔비디아, 중국 스파이 연루 의혹 독립 조사 착수",
+      "summary": "기밀 유출 근거 부인 속 미 의회 출석 요구와 핵심 인물 리스크 확산",
+      "article_count": 314,
+      "url": "https://newsboy.news/news/509297"
+    },
+    {
+      "rank": 2,
+      "title": "‘조작기소 특검법’ 통과 후폭풍…청와대 앞 집결한 야당 “국무회의 통과 땐 탄핵”",
+      "summary": "장외투쟁·예산 심사 보이콧과 위헌 논란으로 번진 정국 대치",
+      "article_count": 157,
+      "url": "https://newsboy.news/news/509298"
+    },
+    {
+      "rank": 3,
+      "title": "엔비디아, SKT·리벨리온과 국산 반도체 결합 소버린 AI 인프라 구축",
+      "summary": "제조 현장 피지컬 AI 접목과 유망 스타트업 투자 등 생태계 전방위 확장",
+      "article_count": 148,
+      "url": "https://newsboy.news/news/509299"
+    },
+    {
+      "rank": 4,
+      "title": "이용철 법무 후보자, \"친분이 결격 사유냐\" 반격… 공소취소엔 신중론",
+      "summary": "대장동·도박 의혹 전면 부인과 장관 적격성을 둘러싼 여야 공방",
+      "article_count": 108,
+      "url": "https://newsboy.news/news/509300"
+    },
+    {
+      "rank": 5,
+      "title": "배민·쿠팡이츠 '최혜대우 강요'에 과징금 6319억 원 부과",
+      "summary": "무료배달 배제 압박 제재와 양사의 위법성 부인 및 법적 대응 예고",
+      "article_count": 95,
+      "url": "https://newsboy.news/news/509301"
+    },
+    {
+      "rank": 6,
+      "title": "\"정부가 소방의 119 될 것\"… 李 대통령, 인력 확충과 안정적 재원 확보 약속",
+      "summary": "첨단 과학 소방 구축과 국립소방병원 지원 등 근무 여건 개선 추진",
+      "article_count": 95,
+      "url": "https://newsboy.news/news/509302"
+    },
+    {
+      "rank": 7,
+      "title": "AI 규제 우려에 5000선 위협받는 코스피, 증권가는 '과매도 바닥론' 제기",
+      "summary": "역사적 저평가 속 엇갈린 지지선과 기술주 실적 분수령",
+      "article_count": 85,
+      "url": "https://newsboy.news/news/509303"
+    },
+    {
+      "rank": 8,
+      "title": "같은 명부 두고 엇갈린 해석…민주당 '신천지 조사 결과' 열람에 계파 갈등 격화",
+      "summary": "송영길의 당원 전수조사 요구와 친청계 반발 속 국민의힘의 특검 도입 공세",
+      "article_count": 78,
+      "url": "https://newsboy.news/news/509304"
+    },
+    {
+      "rank": 9,
+      "title": "장중 2% 반등 무색해진 코스피… 외국인 매도세에 5000선 턱걸이",
+      "summary": "기관의 대규모 저가 매수 방어와 엔비디아발 AI 불확실성 지속",
+      "article_count": 77,
+      "url": "https://newsboy.news/news/509305"
+    },
+    {
+      "rank": 10,
+      "title": "안경테 만지작거리다 덜미…중·고교 내신서 'AI 안경' 부정행위 4건 적발",
+      "summary": "전원 0점 처리 및 기말고사 스마트기기 제출 매뉴얼 도입",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/509306"
+    }
+  ]
+}
