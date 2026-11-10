@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-10",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-10T22:05:20+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "중국 스파이 의혹에 시총 260조 원 증발…엔비디아 젠슨 황, 주주 집단소송 피소",
+      "summary": "미 의회 안보 조사 요구와 후계 부재 속 경영 리스크",
+      "article_count": 247,
+      "url": "https://newsboy.news/news/510372"
+    },
+    {
+      "rank": 2,
+      "title": "美 반도체 훈풍에 코스피·코스닥 4%대 급등… 양대 증시 매수 사이드카",
+      "summary": "외국인·기관의 반도체 대형주 저가 매수세와 미 CPI 경계감 잔존",
+      "article_count": 114,
+      "url": "https://newsboy.news/news/510373"
+    },
+    {
+      "rank": 3,
+      "title": "NHN, 결제·기술 부문 호조로 3분기 역대 최대 매출·영업이익 달성",
+      "summary": "100MW 규모 AI 데이터센터 확충 계획과 3개년 주주환원책 발표",
+      "article_count": 100,
+      "url": "https://newsboy.news/news/510374"
+    },
+    {
+      "rank": 4,
+      "title": "젠슨 황 불륜 스캔들 일파만파… 美 상무부 조사 중단 외압 의혹 비화",
+      "summary": "트럼프의 비호 논란 속 미 의회의 대중 규제 추진 및 18일 합동 브리핑 요구",
+      "article_count": 89,
+      "url": "https://newsboy.news/news/510375"
+    },
+    {
+      "rank": 5,
+      "title": "정부, 청해부대 작전구역 '오만 외해'로 확대…파견 동의안 국회 제출",
+      "summary": "'전쟁 불개입' 강조 속 우회 파병 논란과 이란의 경고",
+      "article_count": 88,
+      "url": "https://newsboy.news/news/510376"
+    },
+    {
+      "rank": 6,
+      "title": "이재명 대통령 사건 6건 포함된 ‘조작기소 특검법’ 통과에 정국 급랭",
+      "summary": "파견검사 위헌 논란과 야당의 거부권 압박 속 공소취소 공방 가열",
+      "article_count": 87,
+      "url": "https://newsboy.news/news/510377"
+    },
+    {
+      "rank": 7,
+      "title": "넥슨·크래프톤, 주력 IP 흥행 업고 3분기 누적 역대 최대 실적 달성",
+      "summary": "사상 첫 연매출 5000억엔 돌파 전망과 9000억원대 주주환원 추진",
+      "article_count": 84,
+      "url": "https://newsboy.news/news/510378"
+    },
+    {
+      "rank": 8,
+      "title": "李대통령 \"중수청 조직 정비 서둘러야\"… 경찰과의 사건 이첩 논란도 부각",
+      "summary": "인력 충원 속도전 주문과 양대 수사기관의 공조 과제",
+      "article_count": 77,
+      "url": "https://newsboy.news/news/510379"
+    },
+    {
+      "rank": 9,
+      "title": "위장전입에 가짜 퇴사까지…규제지역 아파트 부정청약 354건 적발",
+      "summary": "적발자 전원 수사의뢰와 계약 취소 및 분양가 10% 계약금 몰수 방침",
+      "article_count": 75,
+      "url": "https://newsboy.news/news/510380"
+    },
+    {
+      "rank": 10,
+      "title": "신세계, 3분기 영업익 1643억 '역대 최대'…백화점·자회사 동반 호조",
+      "summary": "주요 계열사 흑자 전환과 배당 2배 확대 및 자사주 소각",
+      "article_count": 74,
+      "url": "https://newsboy.news/news/510381"
+    }
+  ]
+}
