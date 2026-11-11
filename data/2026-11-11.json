@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-11",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-11T22:05:22+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "동반성장지수 평가 발표…삼성전자 15년 연속 최우수",
+      "summary": "대기업 실적 점수 상승 속 중소기업 체감도 점수 하락",
+      "article_count": 130,
+      "url": "https://newsboy.news/news/511505"
+    },
+    {
+      "rank": 2,
+      "title": "젠슨 황 연인 앨리스 황, 10조 원 규모 엔비디아 AI 칩 중국 밀반입 의혹",
+      "summary": "다국적 우회망을 통한 첨단 칩 유출 파문과 미 의회의 엔비디아 조사 착수",
+      "article_count": 125,
+      "url": "https://newsboy.news/news/511506"
+    },
+    {
+      "rank": 3,
+      "title": "3분기 흑자 전환한 엔씨, 내년 신작 10종 앞세워 '매출 3.4조원' 정조준",
+      "summary": "모바일 캐주얼 M&A 확대와 3축 동시 가동을 통한 사업 체질 개선",
+      "article_count": 114,
+      "url": "https://newsboy.news/news/511507"
+    },
+    {
+      "rank": 4,
+      "title": "국회 취재진에 \"하이에나 떼들\"…최민희 비하 발언 파문에 공식 사과",
+      "summary": "언론 단체의 강력 반발과 논란 대화방 폐쇄 조치",
+      "article_count": 102,
+      "url": "https://newsboy.news/news/511508"
+    },
+    {
+      "rank": 5,
+      "title": "트럼프 행정부, '젠슨 황 중국 간첩 연루 첩보' 알고도 방중 동행·AI칩 승인 논란",
+      "summary": "대중 수출통제 부실 의혹과 미 의회의 전방위 진상 규명 착수",
+      "article_count": 100,
+      "url": "https://newsboy.news/news/511509"
+    },
+    {
+      "rank": 6,
+      "title": "이마트, 3분기 별도 총매출 첫 5조 돌파…영업익 46% 급증",
+      "summary": "스타벅스 분기 적자 여파에 연결 영업이익 70% 급감 충격",
+      "article_count": 99,
+      "url": "https://newsboy.news/news/511510"
+    },
+    {
+      "rank": 7,
+      "title": "'아들 성범죄 피해자' 10대 여성 살해한 50대 남성 긴급체포",
+      "summary": "사전 준비된 흉기·유서 속 보복살인 혐의 적용 검토와 공범 수사",
+      "article_count": 96,
+      "url": "https://newsboy.news/news/511511"
+    },
+    {
+      "rank": 8,
+      "title": "국고채 입찰 담합 금융사 15곳에 과징금 1조 6266억 원…공정위 역대 최대 제재",
+      "summary": "낙찰금액 기준 과징금 산정 논란과 금융권의 행정소송 예고",
+      "article_count": 93,
+      "url": "https://newsboy.news/news/511512"
+    },
+    {
+      "rank": 9,
+      "title": "국민의힘 윤리위원 \"한동훈·진종오 징계 조작\" 폭로에 지도부 책임론 분출",
+      "summary": "친한계의 조작 징계 무효화 공세와 장동혁 대표의 법적 대응 반박",
+      "article_count": 92,
+      "url": "https://newsboy.news/news/511513"
+    },
+    {
+      "rank": 10,
+      "title": "종부세 개편안 둘러싼 당청 불협화음… 여당 완화 요구에 정부 난색",
+      "summary": "수도권 전월세난 우려와 부자 감세 비판 속 커지는 정치권 공방",
+      "article_count": 90,
+      "url": "https://newsboy.news/news/511514"
+    }
+  ]
+}
