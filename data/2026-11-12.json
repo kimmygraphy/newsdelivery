@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-12",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-12T22:05:28+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "잇단 불륜 파문과 칩 유출 의혹…엔비디아, 젠슨 황 해임 추진",
+      "summary": "시총 급감 충격 속 차기 CEO 후보 물색과 후임 승계 절차 착수",
+      "article_count": 323,
+      "url": "https://newsboy.news/news/512647"
+    },
+    {
+      "rank": 2,
+      "title": "민주당 '신천지 연합' 의혹 후폭풍에 전·현직 지도부 갈등 정면충돌",
+      "summary": "종부세 이견과 지지율 답보 속 취임 100일 리더십 시험대",
+      "article_count": 199,
+      "url": "https://newsboy.news/news/512648"
+    },
+    {
+      "rank": 3,
+      "title": "삼성, 온양에 46조 투입해 HBM 거점 구축…충청 메가프로젝트 첫 삽",
+      "summary": "지자체 패스트트랙 인허가 지원과 정부의 전국 메가프로젝트 원팀 협력 방침",
+      "article_count": 164,
+      "url": "https://newsboy.news/news/512649"
+    },
+    {
+      "rank": 4,
+      "title": "네이버, 3분기 최대 매출에도 영업익 21% 급감…AI·물류에 조 단위 승부수",
+      "summary": "2조원 규모 AI 팩토리 첫 수주와 1조원대 물류 전문 자회사 설립 추진",
+      "article_count": 107,
+      "url": "https://newsboy.news/news/512650"
+    },
+    {
+      "rank": 5,
+      "title": "금융지주 CEO '참호 구축' 차단…연임 시 주총 문턱 최대 75%로 상향",
+      "summary": "임추위 전원 독립이사 구성 의무화와 성과급 환수제 도입",
+      "article_count": 105,
+      "url": "https://newsboy.news/news/512651"
+    },
+    {
+      "rank": 6,
+      "title": "삼성화재, 누적 순익 1조8655억 달성 속 영국 재보험사 캐노피우스 인수",
+      "summary": "16억7000만 달러 자체 조달을 통한 글로벌 확장과 건전성 영향",
+      "article_count": 103,
+      "url": "https://newsboy.news/news/512652"
+    },
+    {
+      "rank": 7,
+      "title": "이재명 대통령, 16일 아세안·선전 APEC 순방…한반도 평화 외교 시동",
+      "summary": "미·중·러 3자 회담 개연성 속 연쇄 외교 조율과 북·미 접촉 전망",
+      "article_count": 95,
+      "url": "https://newsboy.news/news/512653"
+    },
+    {
+      "rank": 8,
+      "title": "젠슨 황 불륜 인정 속 '중국 스파이·AI 반도체 밀반출' 의혹 일파만파",
+      "summary": "엔비디아 이사회의 CEO 해임 준비와 각국 안보 당국 전방위 수사",
+      "article_count": 94,
+      "url": "https://newsboy.news/news/512654"
+    },
+    {
+      "rank": 9,
+      "title": "아들 성범죄 피해 10대 살해 혐의 50대 남성 구속영장 청구",
+      "summary": "사전 흉기 구입 등 계획범죄 정황과 복합적 범죄 연루 의혹",
+      "article_count": 74,
+      "url": "https://newsboy.news/news/512655"
+    },
+    {
+      "rank": 10,
+      "title": "주말 전국에 가을비…비 그치면 수능일 영하권 추위",
+      "summary": "제주·남부 중심 강수 집중과 수능 당일 서울 영하 1도 급락 전망",
+      "article_count": 74,
+      "url": "https://newsboy.news/news/512656"
+    }
+  ]
+}
