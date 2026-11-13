@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-13",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-13T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "젠슨 황 없는 엔비디아 제국…스파이 의혹과 사내 불륜 논란에 전격 사임",
+      "summary": "임시 CEO 체제 전환과 미 의회의 국가안보 위협 조사 착수",
+      "article_count": 312,
+      "url": "https://newsboy.news/news/513578"
+    },
+    {
+      "rank": 2,
+      "title": "최민희 감찰 지시에 친청계 반발…민주당 계파 갈등 전면전 비화",
+      "summary": "친청계 최고위 불참과 표적 조사 의혹 제기에 따른 지도부 내 충돌",
+      "article_count": 255,
+      "url": "https://newsboy.news/news/513579"
+    },
+    {
+      "rank": 3,
+      "title": "이 대통령, 자본시장 개혁 전담 TF 신설 지시…M&A 활성화·부실기업 퇴출 주문",
+      "summary": "의무공개매수제 기준 논의와 코스닥 연 1회 IR 의무화 추진",
+      "article_count": 176,
+      "url": "https://newsboy.news/news/513580"
+    },
+    {
+      "rank": 4,
+      "title": "젠슨 황 엔비디아 CEO 사임…韓 GPU 26만 장 공급 유지 속 '깐부 동맹' 촉각",
+      "summary": "HBM 장기 공급 안정과 피지컬 AI 협력 불확실성",
+      "article_count": 124,
+      "url": "https://newsboy.news/news/513581"
+    },
+    {
+      "rank": 5,
+      "title": "아들 성범죄 피해 10대 살해한 50대 남성 구속",
+      "summary": "사실혼 여성 영장 청구와 보복살인 혐의 적용 검토",
+      "article_count": 120,
+      "url": "https://newsboy.news/news/513582"
+    },
+    {
+      "rank": 6,
+      "title": "엔비디아 젠슨 황 전격 사임…'中 간첩 의혹' 일파만파",
+      "summary": "10조 원대 AI 칩 유출 규명과 의회 청문회 정조준",
+      "article_count": 114,
+      "url": "https://newsboy.news/news/513583"
+    },
+    {
+      "rank": 7,
+      "title": "세무사 수석 'AI 안경' 부정 의혹 일파만파… 당사자 부인 속 국가시험 감독 비상",
+      "summary": "물증 없는 공방 속 2차 답안 전문가 검토와 수능 시험장 육안 단속 대책",
+      "article_count": 94,
+      "url": "https://newsboy.news/news/513584"
+    },
+    {
+      "rank": 8,
+      "title": "AI 훈풍 탄 반도체·IT 업계, 사상 최대 매출과 수주잔고로 실적 증명",
+      "summary": "글로벌 장비사 호실적 견인과 국내 AI 기업들의 수주 확대 및 흑자 전환 흐름",
+      "article_count": 92,
+      "url": "https://newsboy.news/news/513585"
+    },
+    {
+      "rank": 9,
+      "title": "젠슨 황 전격 사임 쇼크…엔비디아 시총 장중 6천억 달러 증발",
+      "summary": "임시 경영 체제 전환과 AI 반도체 생태계 불확실성 확산",
+      "article_count": 73,
+      "url": "https://newsboy.news/news/513586"
+    },
+    {
+      "rank": 10,
+      "title": "정진완 우리은행장 1년 연임 확정…최대 실적·자본비율 개선 입증",
+      "summary": "자추위 표결 통과와 경쟁 은행 격차 축소 과제",
+      "article_count": 72,
+      "url": "https://newsboy.news/news/513587"
+    }
+  ]
+}
