@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-14",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-14T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "美 전역 공항 통신 장애로 4시간여 ‘올스톱’… 1만여 편 운항 차질",
+      "summary": "노후 장비 과부하로 빚어진 항공 대란과 긴급 인프라 개편 촉구",
+      "article_count": 160,
+      "url": "https://newsboy.news/news/513829"
+    },
+    {
+      "rank": 2,
+      "title": "젠슨 황 사임 후폭풍… 머스크의 ‘복귀 지지’와 엔비디아의 차기 CEO 물색",
+      "summary": "실리콘밸리 거물들의 감싸기 비판과 사내외 복귀 요구 혼선",
+      "article_count": 97,
+      "url": "https://newsboy.news/news/513830"
+    },
+    {
+      "rank": 3,
+      "title": "배우 고경표, 면허취소 수준 만취 운전 중 청소차 추돌",
+      "summary": "공식 사과와 책임 약속 속 방송가의 출연 분량 편집 조치",
+      "article_count": 88,
+      "url": "https://newsboy.news/news/513831"
+    },
+    {
+      "rank": 4,
+      "title": "미·중·러 정상 19일 선전서 사상 첫 회동…핵군축·국제안보 논의",
+      "summary": "핵협정 공백 속 3국 셈법 교차와 한국의 '제2 얄타' 경계 외교",
+      "article_count": 79,
+      "url": "https://newsboy.news/news/513832"
+    },
+    {
+      "rank": 5,
+      "title": "192만 가입 '노란우산' 홈페이지 비정상 접근…개인정보 유출 정황 포착",
+      "summary": "공격 IP 차단과 긴급 신고 속 2차 금융사기 주의 당부",
+      "article_count": 65,
+      "url": "https://newsboy.news/news/513833"
+    },
+    {
+      "rank": 6,
+      "title": "전 세계 업무 마비시킨 MS365 먹통 사태, 30여 시간 만에 복구",
+      "summary": "네트워크 설정 오류 확인과 정부 비상대응반 긴급 가동",
+      "article_count": 64,
+      "url": "https://newsboy.news/news/513834"
+    },
+    {
+      "rank": 7,
+      "title": "최민희 감찰에 집단행동 정면충돌, 민주 지도부 내홍 격화",
+      "summary": "종교단체 개입 의혹 번지며 특검 공방 비화",
+      "article_count": 63,
+      "url": "https://newsboy.news/news/513835"
+    },
+    {
+      "rank": 8,
+      "title": "주말 가을비 그친 뒤 휴일 포근…다음 주엔 '영하권 수능 한파'",
+      "summary": "일요일 밤 서쪽 미세먼지 유입과 해상 강풍·너울 주의",
+      "article_count": 61,
+      "url": "https://newsboy.news/news/513836"
+    },
+    {
+      "rank": 9,
+      "title": "주민 대피 돕던 경비원 끝내 숨져…14명 사상 낸 아파트 방화범 구속",
+      "summary": "피의자 방화치사 혐의 변경과 숨진 경비원 의사자 지정 추진",
+      "article_count": 53,
+      "url": "https://newsboy.news/news/513837"
+    },
+    {
+      "rank": 10,
+      "title": "국민의힘, 부산서 '조작기소 특검법' 규탄 대규모 장외집회 개최",
+      "summary": "대통령 재판 재개 요구와 여당의 정쟁 비판 대치",
+      "article_count": 49,
+      "url": "https://newsboy.news/news/513838"
+    }
+  ]
+}
