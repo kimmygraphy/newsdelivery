@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-15",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-15T22:05:21+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "초소형 카메라와 AI로 세무사 수석… 감독관 코앞서 벌어진 부정행위 자백",
+      "summary": "감독관 4명 미적발과 관리 부실 논란 속 합격 취소 추진과 경찰 수사 착수",
+      "article_count": 284,
+      "url": "https://newsboy.news/news/514266"
+    },
+    {
+      "rank": 2,
+      "title": "세무사 수석의 'AI 부정행위' 자백…국가시험 전수조사 속 수능 감독 비상",
+      "summary": "공단의 합격 취소·고소 방침과 전국 수능 시험장 AI 기기 전담 요원 긴급 배치",
+      "article_count": 161,
+      "url": "https://newsboy.news/news/514267"
+    },
+    {
+      "rank": 3,
+      "title": "'대통령 탄핵 반대' 발언 후폭풍… 최민희 윤리심판원 이첩에 민주당 계파 정면충돌",
+      "summary": "당권파의 중징계 추진과 친청계의 대표 책임론 맞불",
+      "article_count": 119,
+      "url": "https://newsboy.news/news/514268"
+    },
+    {
+      "rank": 4,
+      "title": "192만 노란우산부터 금융보안원까지… 공공·금융 전방위 해킹 확산",
+      "summary": "외주 협력업체 경로를 통한 연쇄 침해와 범정부 긴급 대응 체계 가동",
+      "article_count": 104,
+      "url": "https://newsboy.news/news/514269"
+    },
+    {
+      "rank": 5,
+      "title": "“젠슨 황 복귀하라”…머스크·박현주 등 14만 명 서명 동참",
+      "summary": "주요 주주들의 성급한 후임 인선 비판과 복귀 검토 공식 요구",
+      "article_count": 88,
+      "url": "https://newsboy.news/news/514270"
+    },
+    {
+      "rank": 6,
+      "title": "'징역 15년' 한덕수 구속 만료 임박…대법원 선고·석방 기로",
+      "summary": "만기 석방 우려 속 조건부 석방 요청과 사법부 탄핵 공방",
+      "article_count": 75,
+      "url": "https://newsboy.news/news/514271"
+    },
+    {
+      "rank": 7,
+      "title": "통신망 교체 중 터진 관제 장애… 미 전역 9·11 이후 최장 ‘항공 셧다운’",
+      "summary": "이틀간 항공편 1만여 편 결항 사태와 500억 달러 긴급 현대화 예산 추진",
+      "article_count": 63,
+      "url": "https://newsboy.news/news/514272"
+    },
+    {
+      "rank": 8,
+      "title": "사상 첫 미·중·러 정상회담 개최…핵군축·종전 둘러싼 동상이몽",
+      "summary": "'제2의 얄타' 우려 속 주변국들의 안보 국익 수호전",
+      "article_count": 56,
+      "url": "https://newsboy.news/news/514273"
+    },
+    {
+      "rank": 9,
+      "title": "이재명 대통령, “개혁 이름 빌린 개혁 방해 용납 못 해”…여권에 경고 메시지",
+      "summary": "국정 전반 구조개혁 완수와 성과 중심의 실행 강조",
+      "article_count": 49,
+      "url": "https://newsboy.news/news/514274"
+    },
+    {
+      "rank": 10,
+      "title": "월요일 아침 기온 뚝 떨어져 쌀쌀…동해안 비·강원 산지 첫눈 예보",
+      "summary": "동해안 중심 최대 30mm 강수와 도로 살얼음 및 강풍 주의 당부",
+      "article_count": 46,
+      "url": "https://newsboy.news/news/514275"
+    }
+  ]
+}
