@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-16",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-16T22:05:20+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "수능 사흘 앞두고 번진 'AI 커닝' 공포…정부 긴급 대응팀 가동",
+      "summary": "시험장 스마트안경 점검과 제재 강화 속 실효성 논란",
+      "article_count": 434,
+      "url": "https://newsboy.news/news/515394"
+    },
+    {
+      "rank": 2,
+      "title": "90도 고개 숙인 최민희 윤리심판원행… 민주당 계파 갈등 격화",
+      "summary": "당내 제명·중징계 요구 분출과 지도부 책임 공방",
+      "article_count": 179,
+      "url": "https://newsboy.news/news/515395"
+    },
+    {
+      "rank": 3,
+      "title": "사임 나흘 만에 젠슨 황 복귀 시도…美 정부·의회는 안보 의혹 조사로 압박",
+      "summary": "16만 명 구명 서명 속 대중국 우회 수출 규명과 상원 강제 소환 추진",
+      "article_count": 157,
+      "url": "https://newsboy.news/news/515396"
+    },
+    {
+      "rank": 4,
+      "title": "\"AI로 세무사 수석 합격\" 자백 파문… 무너진 국가시험 공정성",
+      "summary": "수능 전담요원 투입과 전수조사 속 시험 제도 개편론 대두",
+      "article_count": 140,
+      "url": "https://newsboy.news/news/515397"
+    },
+    {
+      "rank": 5,
+      "title": "대법원, 한덕수 전 총리 '12·3 내란' 상고심 19일 선고…첫 사법 판단",
+      "summary": "비상계엄 국무회의 외관 형성 혐의와 구속 만료 직전 선고를 둘러싼 쟁점",
+      "article_count": 132,
+      "url": "https://newsboy.news/news/515398"
+    },
+    {
+      "rank": 6,
+      "title": "신유열 사장 승진·경영전략 총괄…롯데 '3세 경영' 본격화",
+      "summary": "지주 단일 대표 전환과 핵심 사업부별 책임경영 강화",
+      "article_count": 106,
+      "url": "https://newsboy.news/news/515399"
+    },
+    {
+      "rank": 7,
+      "title": "이재명 대통령, 필리핀 마닐라 도착…아세안·APEC 다자외교 돌입",
+      "summary": "다카이치 일본 총리와 4번째 양자회담 및 한중미 외교 접촉 추진",
+      "article_count": 88,
+      "url": "https://newsboy.news/news/515400"
+    },
+    {
+      "rank": 8,
+      "title": "한·아세안 정상회의 개막… AI·문화 협력과 3000억弗 교역 비전 제시",
+      "summary": "FTA 개선 협상 착수와 초국가범죄 대응 공조 강화",
+      "article_count": 83,
+      "url": "https://newsboy.news/news/515401"
+    },
+    {
+      "rank": 9,
+      "title": "사상 첫 미·중·러 정상회담 19일 개최…'제2의 얄타회담' 우려",
+      "summary": "당사국 배제와 안보 질서 재편을 둘러싼 주변국 경계와 중국의 반박",
+      "article_count": 76,
+      "url": "https://newsboy.news/news/515402"
+    },
+    {
+      "rank": 10,
+      "title": "엔비디아 악재·D램 담합 소송 충격…코스피 3.6% 급락해 5100선 턱걸이",
+      "summary": "외국인·기관 1조 8000억 원대 동반 매도와 반도체 대형주 일제 하락",
+      "article_count": 72,
+      "url": "https://newsboy.news/news/515403"
+    }
+  ]
+}
