@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-18",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-18T22:05:25+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "미·중·러 회담 앞두고 마주한 한·중 정상…한반도 평화 협력 요청",
+      "summary": "한·중 FTA 서비스·투자 협상 8년 8개월 만의 실질 타결과 문화 교류 확대 합의",
+      "article_count": 211,
+      "url": "https://newsboy.news/news/517537"
+    },
+    {
+      "rank": 2,
+      "title": "'계엄 해제 표결 방해' 추경호 대구시장 1심 무죄 선고",
+      "summary": "법원의 내란 가담 불인정과 정치권 공방 재점화",
+      "article_count": 208,
+      "url": "https://newsboy.news/news/517538"
+    },
+    {
+      "rank": 3,
+      "title": "최민희 징계 논란에 친명·친청 정면충돌…민주당 계파 갈등 격화",
+      "summary": "초선 55명의 중징계 촉구와 친청계 맞불 속 번지는 김민석 책임론",
+      "article_count": 172,
+      "url": "https://newsboy.news/news/517539"
+    },
+    {
+      "rank": 4,
+      "title": "'선박왕' 등 고액 체납자 1만 3천여 명 공개…체납액 9400억 원 육박",
+      "summary": "사전 예고로 932억 원 자진 납부 유도 및 출국금지·감치 등 강력 제재 추진",
+      "article_count": 154,
+      "url": "https://newsboy.news/news/517540"
+    },
+    {
+      "rank": 5,
+      "title": "LEET 만점자 'AI 부정행위' 의혹 확산…경찰 광역수사단 수사 착수",
+      "summary": "시험 공정성 논란 속 입시업체 계약 해지와 생중계 공개 검증 예고",
+      "article_count": 132,
+      "url": "https://newsboy.news/news/517541"
+    },
+    {
+      "rank": 6,
+      "title": "수능 하루 앞두고 필기구 제한·재난문자…AI 부정행위 긴급 대책에 혼란",
+      "summary": "초강도 검사 지침과 감독관 8,400여 명 추가 투입을 둘러싼 우려",
+      "article_count": 115,
+      "url": "https://newsboy.news/news/517542"
+    },
+    {
+      "rank": 7,
+      "title": "젠슨 황 “원하면 복귀” 선언에 엔비디아 이사회 “재선임 없다” 일축",
+      "summary": "차기 경영진 외부 물색 착수와 대중국 안보 의혹 청문회 출석",
+      "article_count": 112,
+      "url": "https://newsboy.news/news/517543"
+    },
+    {
+      "rank": 8,
+      "title": "공공기관 70% 쓰는 '자바'서 치명적 취약점 발견…정부 긴급 점검 권고",
+      "summary": "원격 악성코드 실행 위험에 따른 오라클 긴급 패치 배포와 정부 합동 대응",
+      "article_count": 102,
+      "url": "https://newsboy.news/news/517544"
+    },
+    {
+      "rank": 9,
+      "title": "젠슨 황 떠난 엔비디아, 사상 최대 실적 발표 속 차기 CEO 선임 공식화",
+      "summary": "차세대 베라 루빈 본격 출하와 고객사 순환금융 심사 기준 강화",
+      "article_count": 92,
+      "url": "https://newsboy.news/news/517545"
+    },
+    {
+      "rank": 10,
+      "title": "수능일 6년 만에 영하권 한파…새벽 눈·비로 빙판길 주의",
+      "summary": "고사장 이동 시 도로 살얼음 대비 및 조기 출발 당부",
+      "article_count": 82,
+      "url": "https://newsboy.news/news/517546"
+    }
+  ]
+}
