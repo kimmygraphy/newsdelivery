@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-20",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-20T22:05:22+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "민주당, '조희대 탄핵' 당론 채택…사법부 파기환송 맞서 연내 발의 추진",
+      "summary": "연내 소추안 발의 방침과 사법부 독립 훼손 공방",
+      "article_count": 349,
+      "url": "https://newsboy.news/news/519592"
+    },
+    {
+      "rank": 2,
+      "title": "앤트로픽 역대급 상장 무색… 반도체 악재에 코스피 5% 폭락",
+      "summary": "외국인·기관의 2조원대 순매도 폭탄과 양대 시장 매도 사이드카 발동",
+      "article_count": 171,
+      "url": "https://newsboy.news/news/519593"
+    },
+    {
+      "rank": 3,
+      "title": "사상 첫 미·중·러 3자 정상회담 '빈손' 폐막…핵군축·종전 돌파구 실패",
+      "summary": "4개 항 공동성명에도 구체적 실행 계획 부재와 상징성 논란",
+      "article_count": 119,
+      "url": "https://newsboy.news/news/519594"
+    },
+    {
+      "rank": 4,
+      "title": "주말 아침 영하 8도 '칼바람' 강추위…충청·호남·제주 대설 비상",
+      "summary": "빙판길 교통안전 주의와 동쪽 지역 화재 경계",
+      "article_count": 117,
+      "url": "https://newsboy.news/news/519595"
+    },
+    {
+      "rank": 5,
+      "title": "삼성전자, '전영현·노태문 투톱' 유지 속 1970년대생 반도체 인재 전면 배치",
+      "summary": "대표이사 겸직 해제와 역대급 실적 기반의 성과주의 세대교체",
+      "article_count": 116,
+      "url": "https://newsboy.news/news/519596"
+    },
+    {
+      "rank": 6,
+      "title": "李 대통령 \"국가시험제도 전면 개편\"…수능 부정행위 전방위 추적 착수",
+      "summary": "응시 자격 최대 10년 박탈 추진과 부정행위자 형사고발 방침",
+      "article_count": 104,
+      "url": "https://newsboy.news/news/519597"
+    },
+    {
+      "rank": 7,
+      "title": "‘SM 시세조종’ 혐의 카카오 김범수 2심도 무죄…AI 중심 재도약 시동",
+      "summary": "통상적 경영권 방어 인정과 인적분할 등 사업 정상화 본격화",
+      "article_count": 92,
+      "url": "https://newsboy.news/news/519598"
+    },
+    {
+      "rank": 8,
+      "title": "앤트로픽, 역대 최대 143조 조달하며 나스닥 데뷔 첫날 17% 상승 마감",
+      "summary": "막대한 인프라 지출 부담과 AI 거품론 우려 속 흑자 전환 과제",
+      "article_count": 87,
+      "url": "https://newsboy.news/news/519599"
+    },
+    {
+      "rank": 9,
+      "title": "천안·김포·강릉·거제 2027년 본예산 증액 편성…일제히 시의회 제출",
+      "summary": "재해 예방과 민생 회복 재정 집중 투입 및 12월 최종 의결",
+      "article_count": 78,
+      "url": "https://newsboy.news/news/519600"
+    },
+    {
+      "rank": 10,
+      "title": "스마트안경·소형 카메라까지 동원된 수능…첨단 부정행위 잇단 적발에 경찰 수사",
+      "summary": "응시 제한 최대 10년 추진과 외부 조력자 추적",
+      "article_count": 74,
+      "url": "https://newsboy.news/news/519601"
+    }
+  ]
+}
