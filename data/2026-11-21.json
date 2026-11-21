@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-21",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-21T22:05:24+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "경부선 화물열차 탈선으로 전차선 파손…천안~대전 일반열차 운행 전면 중단",
+      "summary": "대입 수험생 이동 차질과 임시열차 투입 등 긴급 대체 수송 대책",
+      "article_count": 173,
+      "url": "https://newsboy.news/news/519874"
+    },
+    {
+      "rank": 2,
+      "title": "민주당 '조희대 대법원장 탄핵' 당론 채택…계엄 2주년 발의 검토에 여야 격돌",
+      "summary": "탄핵소추 추진단 가동과 국민의힘 장외 투쟁에 따른 정국 급랭",
+      "article_count": 134,
+      "url": "https://newsboy.news/news/519875"
+    },
+    {
+      "rank": 3,
+      "title": "투자 회수 우려에 엔비디아 14% 폭락…AI 거품론 속 미 증시 조정장 진입",
+      "summary": "국내 증시 사이드카 발동과 가상자산 시장까지 번진 연쇄 충격",
+      "article_count": 85,
+      "url": "https://newsboy.news/news/519876"
+    },
+    {
+      "rank": 4,
+      "title": "서울 영하 4.7도·설악산 영하 15.9도…주말 전국 덮친 올가을 최강 추위",
+      "summary": "서해안·제주 빙판길 위험과 건조특보 속 강풍 화재 주의",
+      "article_count": 79,
+      "url": "https://newsboy.news/news/519877"
+    },
+    {
+      "rank": 5,
+      "title": "\"탈출 도와달라\"던 리트 만점자 숨진 채 발견…현장엔 '5줄 유서'",
+      "summary": "수능 시험지 증거보전 요청과 공범 의혹 규명을 위한 경찰의 계속 수사 방침",
+      "article_count": 54,
+      "url": "https://newsboy.news/news/519878"
+    },
+    {
+      "rank": 6,
+      "title": "\"국제 경쟁은 속도가 생명\"…울산 AI 데이터센터 찾은 이재명 대통령",
+      "summary": "첨단 공정 인력 수급 대책 약속과 지방 균형발전 지원",
+      "article_count": 48,
+      "url": "https://newsboy.news/news/519879"
+    },
+    {
+      "rank": 7,
+      "title": "앞치마 입히고 안경 검사까지…대학 논술 고사장 'AI 커닝' 비상",
+      "summary": "촉박한 지침 변경에 번진 수험생 혼선과 최대 10년 입학 제한 추진",
+      "article_count": 46,
+      "url": "https://newsboy.news/news/519880"
+    },
+    {
+      "rank": 8,
+      "title": "이재명 대통령 \"수능 부정 신고 포상금 건당 최소 1억…가담자 수만큼 가산\"",
+      "summary": "공범 자수 시 처벌 감경과 포상금 지급 병행 및 첨단 부정 엄벌 방침",
+      "article_count": 41,
+      "url": "https://newsboy.news/news/519881"
+    },
+    {
+      "rank": 9,
+      "title": "미국 FBI 핵심 범죄정보망 해킹 정황 포착…당국 조사 착수",
+      "summary": "전미 영장·수배 정보 조작 위험과 연방 기관 보안 취약성 논란",
+      "article_count": 38,
+      "url": "https://newsboy.news/news/519882"
+    },
+    {
+      "rank": 10,
+      "title": "손정의 소프트뱅크 회장의 SK하이닉스 1조 달러 인수 타진 보도",
+      "summary": "소프트뱅크의 공식 검토 중단과 현실성 논란",
+      "article_count": 29,
+      "url": "https://newsboy.news/news/519883"
+    }
+  ]
+}
