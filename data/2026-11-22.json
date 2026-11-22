@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-22",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-22T22:05:34+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "민주당 '조희대 탄핵' 연내 처리 추진에 국민의힘 \"이재명 탈옥용\" 격돌",
+      "summary": "사법부 수장 직무 정지 여부와 사법권 침해 논란",
+      "article_count": 234,
+      "url": "https://newsboy.news/news/520301"
+    },
+    {
+      "rank": 2,
+      "title": "'수능 혼선 책임' 최교진 교육부 장관 사퇴…이재명 대통령, 면직안 당일 재가",
+      "summary": "시험 관리 전반 점검 지시와 후임 인선 속 엇갈린 정치권 반응",
+      "article_count": 144,
+      "url": "https://newsboy.news/news/520302"
+    },
+    {
+      "rank": 3,
+      "title": "증시 급락 공포에 정부 긴급 대책 발표…증안펀드 가동 준비·자사주 매수 완화",
+      "summary": "공매도 전면 제한 제외와 대책 실효성을 둘러싼 쟁점",
+      "article_count": 97,
+      "url": "https://newsboy.news/news/520303"
+    },
+    {
+      "rank": 4,
+      "title": "AI 회의론에 한·미 증시 동반 급락…코스피 5000선 붕괴",
+      "summary": "역사적 저평가 진입 속 추가 하락 경계와 매크로 반등 변수",
+      "article_count": 95,
+      "url": "https://newsboy.news/news/520304"
+    },
+    {
+      "rank": 5,
+      "title": "태안 실종 어선 해광호 선체 닷새 만에 해저 52m서 발견",
+      "summary": "특수구조대 투입과 실종 선원 7명 정밀 수색 본격화",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/520305"
+    },
+    {
+      "rank": 6,
+      "title": "절기 '소설' 영하권 추위 속 23일 전국 눈·비 확대",
+      "summary": "강풍 동반 눈·비 예보와 출퇴근길 도로 결빙 주의",
+      "article_count": 68,
+      "url": "https://newsboy.news/news/520306"
+    },
+    {
+      "rank": 7,
+      "title": "\"탈선 사고 복구 우선\"…철도노조, 준법투쟁 26일로 연기",
+      "summary": "수험생 이동 차질과 코레일 비상수송대책본부 가동",
+      "article_count": 64,
+      "url": "https://newsboy.news/news/520307"
+    },
+    {
+      "rank": 8,
+      "title": "수능 111건 적발에 대학별 고사도 비상…'AI 커닝' 공포에 교육부 장관 사퇴",
+      "summary": "신고 포상금 최소 1억 원 지급·응시 제한 10년 추진과 서·논술형 개편 논의",
+      "article_count": 59,
+      "url": "https://newsboy.news/news/520308"
+    },
+    {
+      "rank": 9,
+      "title": "\"코피 터지는 힘든 일\"… 李 대통령·청와대, 野 '잦은 순방' 비판에 정면 반박",
+      "summary": "한중 FTA 실질 타결 성과 제시와 국익을 위한 초당적 협력 촉구",
+      "article_count": 59,
+      "url": "https://newsboy.news/news/520309"
+    },
+    {
+      "rank": 10,
+      "title": "트럼프 미 대통령 순방 계기 북미 정상회담 추진…北 '수용 불가 조건'에 무산",
+      "summary": "종전선언 검토 등 파격적 대북 유화책 구상과 동맹국 안보 우려",
+      "article_count": 54,
+      "url": "https://newsboy.news/news/520310"
+    }
+  ]
+}
