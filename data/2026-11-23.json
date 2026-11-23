@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-23",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-23T22:05:23+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "민주당 조희대 대법원장 탄핵 추진에 법원 반발…‘사법파동’ 조짐",
+      "summary": "판결 반발 논란과 직무 정지 파장을 둘러싼 정계·사법부의 정면충돌",
+      "article_count": 293,
+      "url": "https://newsboy.news/news/521407"
+    },
+    {
+      "rank": 2,
+      "title": "이재명 대통령, 국정원장에 강금실 지명…외교·안보 등 5개 보직 개각 단행",
+      "summary": "외교·안보 핵심 라인 재편과 '실용 쇄신' 대 '보은 인사' 여야 공방",
+      "article_count": 236,
+      "url": "https://newsboy.news/news/521408"
+    },
+    {
+      "rank": 3,
+      "title": "AI 거품론과 긴축 공포에 한·미 증시 도미노 급락",
+      "summary": "정부 시장 안정책 가동과 증권가 저가 매수 공방",
+      "article_count": 232,
+      "url": "https://newsboy.news/news/521409"
+    },
+    {
+      "rank": 4,
+      "title": "美 반도체주 폭락 여파에 코스피 3%대 급락…2거래일 연속 매도 사이드카",
+      "summary": "정부 증안펀드 가동 준비와 상장사 자사주 매수 한도 완화",
+      "article_count": 155,
+      "url": "https://newsboy.news/news/521410"
+    },
+    {
+      "rank": 5,
+      "title": "민주당 지도부, 신천지 의혹 조사 결과 두고 \"일제 부역자\" vs \"2차 가해\" 정면충돌",
+      "summary": "조사 결과 공개 요구와 당대표의 구두경고",
+      "article_count": 148,
+      "url": "https://newsboy.news/news/521411"
+    },
+    {
+      "rank": 6,
+      "title": "삼성물산 건설 새 수장에 최영재…중공업·리서치도 사장단 전면 쇄신",
+      "summary": "기술·현장 전문가 전진 배치와 그룹 싱크탱크 기능 강화",
+      "article_count": 109,
+      "url": "https://newsboy.news/news/521412"
+    },
+    {
+      "rank": 7,
+      "title": "지자체 '2027년 살림살이' 예산안 제출…민생 안정·미래 투자 총력",
+      "summary": "취약계층 복지 확충과 지역경제 회복을 위한 집중 재정 배분",
+      "article_count": 100,
+      "url": "https://newsboy.news/news/521413"
+    },
+    {
+      "rank": 8,
+      "title": "수능 ‘스마트기기 부정행위’ 수험생 5명 고발… 주말 논술선 활용 사례 없어",
+      "summary": "최소 1억 원 신고 포상금 추진과 다음 달 11일 성적 통지 유지 방침",
+      "article_count": 74,
+      "url": "https://newsboy.news/news/521414"
+    },
+    {
+      "rank": 9,
+      "title": "전국 눈·비 그친 뒤 영하권 추위…출근길 도로 살얼음 비상",
+      "summary": "블랙아이스 결빙 위험과 해안·산지 강풍 대비 요령",
+      "article_count": 65,
+      "url": "https://newsboy.news/news/521415"
+    },
+    {
+      "rank": 10,
+      "title": "'리트 만점자' 사망에도 부정행위 수사 지속… 유족 면담·공범 규명 착수",
+      "summary": "실체 규명 위한 강제수사 방침과 수능 부정 의혹 조사 확대",
+      "article_count": 60,
+      "url": "https://newsboy.news/news/521416"
+    }
+  ]
+}
