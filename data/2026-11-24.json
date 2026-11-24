@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-24",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-24T22:05:25+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "젠슨 황 엔비디아 CEO 전격 복귀에 글로벌 증시 폭등 랠리",
+      "summary": "코스피 6%대 급등과 5000선 탈환 견인한 AI 반도체 투자심리 부활",
+      "article_count": 246,
+      "url": "https://newsboy.news/news/522592"
+    },
+    {
+      "rank": 2,
+      "title": "트럼프 직접 개입 인정 속 젠슨 황 엔비디아 CEO 11일 만에 전격 복귀",
+      "summary": "민간기업 독립성 침해 비판과 의회 조사 예고",
+      "article_count": 241,
+      "url": "https://newsboy.news/news/522593"
+    },
+    {
+      "rank": 3,
+      "title": "삼성전자, 131명 정기 임원인사 단행…'실적 축포' 반도체 늘고 '적자' 완제품 줄어",
+      "summary": "HBM·로봇 미래 기술 인재 전진 배치와 주요 계열사 성과주의 쇄신",
+      "article_count": 202,
+      "url": "https://newsboy.news/news/522594"
+    },
+    {
+      "rank": 4,
+      "title": "김민석 \"당청 안정\" 자평 속 신천지 의혹 공방 격화로 번진 민주당 내홍",
+      "summary": "정청래의 공식 사과 요구와 계파 갈등에 쏟아진 중진들의 화해 촉구",
+      "article_count": 165,
+      "url": "https://newsboy.news/news/522595"
+    },
+    {
+      "rank": 5,
+      "title": "러시아 군용기 울릉도 코앞 접근에 경계경보 발령…軍 \"영공 침범은 없어\"",
+      "summary": "선제적 민방공 경보 발령과 지자체 재난문자 국적 오기 혼선",
+      "article_count": 156,
+      "url": "https://newsboy.news/news/522596"
+    },
+    {
+      "rank": 6,
+      "title": "이용철 \"무리한 지휘 않겠다\"…李대통령 공소취소에는 즉답 피해",
+      "summary": "보은 인사 공방과 신상 의혹 소명",
+      "article_count": 145,
+      "url": "https://newsboy.news/news/522597"
+    },
+    {
+      "rank": 7,
+      "title": "중·고교 내신서 'AI 부정행위' 땐 당일 전 과목 0점…고교생은 최대 퇴학",
+      "summary": "금속탐지기 도입 등 수능급 통제 강화와 교원단체의 현장 책임 전가 반발",
+      "article_count": 125,
+      "url": "https://newsboy.news/news/522598"
+    },
+    {
+      "rank": 8,
+      "title": "트럼프 개입 속 젠슨 황 엔비디아 전격 복귀… 글로벌 증시 폭등",
+      "summary": "AI 공급망 불확실성 완화와 미 상원 청문회 등 남은 규제 과제",
+      "article_count": 107,
+      "url": "https://newsboy.news/news/522599"
+    },
+    {
+      "rank": 9,
+      "title": "사임 11일 만에 전격 복귀한 젠슨 황, 직원 사과 속 본사 첫 출근",
+      "summary": "정부 교감 속 이사회 만장일치 재선임과 주가 폭등 이면의 청문회 과제",
+      "article_count": 81,
+      "url": "https://newsboy.news/news/522600"
+    },
+    {
+      "rank": 10,
+      "title": "25일 아침 최저 영하 8도 강추위…서해안 눈·비에 도로 살얼음 비상",
+      "summary": "강풍·건조특보 속 대형 화재와 해상 풍랑 주의",
+      "article_count": 73,
+      "url": "https://newsboy.news/news/522601"
+    }
+  ]
+}
