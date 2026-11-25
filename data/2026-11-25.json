@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-25",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-25T22:05:25+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "美 AI주 급락에 삼전·SK하이닉스 시총 200조 증발…코스피 5000선 붕괴",
+      "summary": "사이드카 발동과 미 무역법 301조 관세 우려에 흔들린 아시아 증시",
+      "article_count": 219,
+      "url": "https://newsboy.news/news/523668"
+    },
+    {
+      "rank": 2,
+      "title": "\"재판 이유 탄핵은 헌법 훼손\"…창원지법 판사들 첫 집단 반발 성명",
+      "summary": "전국법관대표회의와 법원장 회의를 둘러싼 사법부 대응 분수령",
+      "article_count": 116,
+      "url": "https://newsboy.news/news/523669"
+    },
+    {
+      "rank": 3,
+      "title": "한동훈 ‘조작 징계’ 의혹과 ‘10억 요구설’ 공방에 국민의힘 내홍 격화",
+      "summary": "친한계의 당 대표 사퇴 촉구와 지도부의 직접 변론 맞대응",
+      "article_count": 113,
+      "url": "https://newsboy.news/news/523670"
+    },
+    {
+      "rank": 4,
+      "title": "복귀 하루 만에 고개 숙인 젠슨 황…승계 계획과 쇄신 요구엔 선 그어",
+      "summary": "트럼프 개입 논란 속 번진 지배구조 불신과 대중국 안보 의혹 청문회",
+      "article_count": 102,
+      "url": "https://newsboy.news/news/523671"
+    },
+    {
+      "rank": 5,
+      "title": "삼성SDS, 정부혁신 박람회서 공공 AI 전환 인프라·플랫폼 공개",
+      "summary": "18개 부처 협업 솔루션 확산과 보안 특화 클라우드 인프라",
+      "article_count": 77,
+      "url": "https://newsboy.news/news/523672"
+    },
+    {
+      "rank": 6,
+      "title": "'공소취소 지휘' 논란 이용철 청문보고서 여야 정면충돌",
+      "summary": "국민의힘 채택 거부와 민주당 단독 처리 방침",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/523673"
+    },
+    {
+      "rank": 7,
+      "title": "김민석, '조희대 대법원장 탄핵' 추진 위한 범진보 5당 연대 공식 제안",
+      "summary": "처리 시점 이견 속 국민의힘의 사법파괴 규탄과 장외투쟁 확대",
+      "article_count": 65,
+      "url": "https://newsboy.news/news/523674"
+    },
+    {
+      "rank": 8,
+      "title": "젠슨 황 복귀 밀어붙이고 사면 띄운 트럼프, 거센 안보 논란과 역풍",
+      "summary": "민간 기업 압박과 지분 인수 시사로 번진 국가자본주의 비판",
+      "article_count": 64,
+      "url": "https://newsboy.news/news/523675"
+    },
+    {
+      "rank": 9,
+      "title": "26일 추위 풀려 낮 최고 18도…중북부 비·눈에 출근길 살얼음 주의",
+      "summary": "강원 산지 초속 25m 강풍과 건조한 대기 속 화재 위험",
+      "article_count": 60,
+      "url": "https://newsboy.news/news/523676"
+    },
+    {
+      "rank": 10,
+      "title": "GS그룹 정기 임원인사…'실적 반등' 허서홍·'재무 총괄' 이태형 사장 승진",
+      "summary": "주요 계열사 대표 유임 속 발전 부문 쇄신과 차세대 임원 발탁",
+      "article_count": 54,
+      "url": "https://newsboy.news/news/523677"
+    }
+  ]
+}
