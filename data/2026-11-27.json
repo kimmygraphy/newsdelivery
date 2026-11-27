@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-27",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-27T22:05:22+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "민주당 윤리심판원, 최민희 '중징계' 의결…재심 예고 속 계파 갈등 격화",
+      "summary": "김민석 대표 징계 청원 심사 회부와 지지층 장외 세 대결 확산",
+      "article_count": 209,
+      "url": "https://newsboy.news/news/525758"
+    },
+    {
+      "rank": 2,
+      "title": "학교 비정규직 노조 총파업…전국 4000여 개 학교서 급식 차질",
+      "summary": "기본급 인상률 평행선과 내달 재교섭 앞둔 추가 파업 예고",
+      "article_count": 114,
+      "url": "https://newsboy.news/news/525759"
+    },
+    {
+      "rank": 3,
+      "title": "증안펀드 증액 기대에 양대 증시 급반등…코스닥 8%대 폭등",
+      "summary": "외국인·기관 대규모 순매수 유입과 코스닥 매수 사이드카 발동",
+      "article_count": 91,
+      "url": "https://newsboy.news/news/525760"
+    },
+    {
+      "rank": 4,
+      "title": "수능 부정행위 적발 70% 급증…스마트기기 악용 6명 형사고발",
+      "summary": "응시 제한 최장 10년 추진과 AI 스마트안경 탐지 기술 도입",
+      "article_count": 72,
+      "url": "https://newsboy.news/news/525761"
+    },
+    {
+      "rank": 5,
+      "title": "경찰, '한동훈 수사자료 유출 의혹' 법무부·공소청 강제수사 착수",
+      "summary": "내부 전달자 규명 착수와 한동훈 영장 제외를 둘러싼 공방",
+      "article_count": 70,
+      "url": "https://newsboy.news/news/525762"
+    },
+    {
+      "rank": 6,
+      "title": "주말 낮 기온 최대 10도 뚝 떨어진다…일요일 아침 영하권 추위",
+      "summary": "눈·비 뒤 도로 살얼음 주의와 동해안 산불·해상 풍랑 위험",
+      "article_count": 69,
+      "url": "https://newsboy.news/news/525763"
+    },
+    {
+      "rank": 7,
+      "title": "美, 中 AI 반도체 원격 우회로 전면 차단…엔비디아 동남아 서버 출하 중단",
+      "summary": "실리콘밸리 파트너사의 30억 달러 우회 조달 적발과 데이터센터 시장 재편",
+      "article_count": 67,
+      "url": "https://newsboy.news/news/525764"
+    },
+    {
+      "rank": 8,
+      "title": "현대차, 광저우 모터쇼서 중국 전략형 소형 전기 SUV '머큐리 콘셉트' 첫 공개",
+      "summary": "현지 AI·배터리 기술 대거 탑재 및 2030년 24개 차종 투입 전략",
+      "article_count": 63,
+      "url": "https://newsboy.news/news/525765"
+    },
+    {
+      "rank": 9,
+      "title": "민주당 정년연장특위, 10개월 만의 노사 담판 결렬…연내 자체 입법 추진",
+      "summary": "2037년 65세 연장 절충안 거부와 취업규칙 변경 특례 갈등",
+      "article_count": 63,
+      "url": "https://newsboy.news/news/525766"
+    },
+    {
+      "rank": 10,
+      "title": "이용철 법무 청문보고서 與 주도 채택…대통령 재판 공소취소 정국 충돌",
+      "summary": "조작기소 특검과 검찰총장 인선으로 번진 수사 라인 구축 공방",
+      "article_count": 59,
+      "url": "https://newsboy.news/news/525767"
+    }
+  ]
+}
