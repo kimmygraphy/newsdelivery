@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-28",
+  "period": "오늘 06시~12시까지 모은 주요 뉴스",
+  "crawled_at": "2026-11-28T22:05:24+09:00",
+  "items": [
+    {
+      "rank": 1,
+      "title": "정부 메가프로젝트 첫 결실… 동해에 1.2GW급 GS AI 데이터센터 첫 삽",
+      "summary": "15조 원 투입 2029년 준공 목표와 비수도권 규제 완화 지원",
+      "article_count": 124,
+      "url": "https://newsboy.news/news/526028"
+    },
+    {
+      "rank": 2,
+      "title": "최민희 '자격정지 2년' 중징계 의결…친청계 반발·김민석 사퇴 집회 확산",
+      "summary": "최고위원직 박탈 위기 속 재심 청구 예고와 징계 형평성 논란",
+      "article_count": 87,
+      "url": "https://newsboy.news/news/526029"
+    },
+    {
+      "rank": 3,
+      "title": "주말 눈·비 뒤 일요일 아침 '반짝 영하권'…월요일부터 다시 포근",
+      "summary": "빙판길 살얼음과 강풍 속 하루 만에 풀리는 초겨울 추위",
+      "article_count": 74,
+      "url": "https://newsboy.news/news/526030"
+    },
+    {
+      "rank": 4,
+      "title": "김정은 위원장 추가 방중설 제기…국정원 \"여러 동향 주시 중\"",
+      "summary": "G20 앞둔 북미대화 조율 목적과 연말 전원회의 연계 가능성",
+      "article_count": 59,
+      "url": "https://newsboy.news/news/526031"
+    },
+    {
+      "rank": 5,
+      "title": "퇴근한 직원 400명 밤 10시 회사로 부른 이해욱 DL 회장, 갑질 논란",
+      "summary": "설계 오류 긴급 대응 해명과 되살아난 총수 갑질 논란",
+      "article_count": 44,
+      "url": "https://newsboy.news/news/526032"
+    },
+    {
+      "rank": 6,
+      "title": "탐지기·가운까지 동원된 'AI 커닝' 차단 총력전… 시험장 곳곳 혼선",
+      "summary": "제각각 규정과 시계 금지 논란 속 이어진 전자기기 적발",
+      "article_count": 42,
+      "url": "https://newsboy.news/news/526033"
+    },
+    {
+      "rank": 7,
+      "title": "포스코 노사, 2차 잠정합의안 65% 찬성 가결…5개월 만에 임협 매듭",
+      "summary": "기본임금 2.6% 인상과 1차 부결안 대비 현금 80만 원 추가 보완",
+      "article_count": 32,
+      "url": "https://newsboy.news/news/526034"
+    },
+    {
+      "rank": 8,
+      "title": "인터넷우체국 해킹에 등기우편 고객 개인정보 유출… 하루치만 11만 명",
+      "summary": "해외 IP 전면 차단과 긴급 수사 의뢰 속 2차 스미싱 주의 당부",
+      "article_count": 31,
+      "url": "https://newsboy.news/news/526035"
+    },
+    {
+      "rank": 9,
+      "title": "젠슨 황 '불륜 상대' 연계 中 데이터센터서 수출통제 엔비디아 최첨단 칩 발견",
+      "summary": "거액 담보로 쓰인 대형 서버와 '밀반입 불가' 해명 무색해진 유출 논란",
+      "article_count": 30,
+      "url": "https://newsboy.news/news/526036"
+    },
+    {
+      "rank": 10,
+      "title": "출국 앞둔 전역 군인 가방서 공포탄 적발…인천공항서 한 달 새 두 번째",
+      "summary": "기내 반입 금지 위해물품 유출 경위 조사와 군 탄약 관리 부실 논란",
+      "article_count": 29,
+      "url": "https://newsboy.news/news/526037"
+    }
+  ]
+}
